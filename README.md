@@ -124,4 +124,14 @@ The SGO data is messy, and cleaning it well is a core part of the project:
 
 ---
 
+## AI Use Disclosure
+
+This project used Claude (Anthropic) as an assistant during the proposal stage for:
+- editing the proposal README, including making sure all sections align with the project requirements;
+- reviewing the NHTSA data dictionaries to identify relevant fields and schema differences.
+
+All AI-assisted content was checked against primary sources (NHTSA documentation and data files).
+
+---
+
 *Build, run, and test instructions will be added here as the codebase is developed. The final version of this README will serve as the project report.*
