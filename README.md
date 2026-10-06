@@ -1,7 +1,7 @@
 # What Makes Automated-Vehicle Crashes Severe?
 ### Predicting injury outcomes in driverless (ADS) crashes, and comparing ADS vs. Level 2 ADAS crash conditions, from NHTSA Standing General Order data
 
-**Team:** Emily Xu (emilyxu@bu.edu)  
+**Team:** Emily Xu (emilyxu@bu.edu), Justin Shi (shij@bu.edu), Yangkai Zhou (kkzhou27@bu.edu), Matthew Chen (mdc260@bu.edu)
 **Course:** CS 506, Fall 2026
 
 ---
