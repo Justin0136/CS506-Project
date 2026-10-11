@@ -1,0 +1,19 @@
+in ADS, we can map 
+    injury prediction target: Highest Injury Severity Alleged
+    road conditions: Roadway Type
+    weather: weather-(type)
+    vehicle speed: SV Precrash Speed (MPH)
+    vehicle movement: SV Pre-Crash Movement
+    collision partner: Crash With
+    duplicate identification: Report ID, Report Version, Same Incident ID
+
+conflicts
+    Weather - Fog/Smoke | Weather - Fog/Smoke/Haze
+    Roadway Surface | Roadway-Wet Surface Condition, Roadway-Work Zone, etc
+    SV Any Air Bags Deployed? | Any Air Bags Deployed?
+    SV Was Vehicle Towed? | Was Any Vehicle Towed?
+    ADAS/ADS System Version | Automation Feature Version
+
+    # todo: check values and definitions before renaming columns
+
+!! injury severity question: since there are only 6 fatality reports and 29 serious injury reports, should we train our model to differentiate based on them or just train for injury / no injury?
