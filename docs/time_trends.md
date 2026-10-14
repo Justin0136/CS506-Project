@@ -82,3 +82,13 @@ Reports per year:
 - Recent months can still get late reports. About 99% of ADS and 94% of Level 2 reports are submitted within 1 month of the crash month, so only the last month is shaded.
 - ADS / Level 2 label comes from the file, I didn't fix mislabels. 39 ADS and 207 Level 2 reports have an "Automation System Engaged?" value that doesn't match the file (mostly Unknown).
 - Results are for the current files in data/raw. A newer NHTSA release will change the recent months.
+
+
+## TODO:
+- Double check the reporting delay and incomplete months.
+- Check the June 2025 SGO change note.
+- Update the charts if the cleaned data changes.
+
+## file location 
+Code: `scripts/eda_time_trends.py`  
+More details: `docs/time_trends.md`
