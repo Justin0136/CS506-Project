@@ -248,8 +248,8 @@ for name, df in [
     # count incidents with conflicting labels
     conflicting_incidents = (injury_counts > 1).sum()
     
-    print(f"\n{name}:")
-    print("Incidents with conflicting injury labels:", conflicting_incidents)
+###    print(f"\n{name}:")
+###    print("Incidents with conflicting injury labels:", conflicting_incidents)
     
 # exclude reports with missing or blank incident IDs
 valid_incidents = archive_latest[
@@ -269,25 +269,153 @@ conflicting_ids = injury_counts[injury_counts > 1].index
 # display every report belonging to those incidents
 conflicting_reports = valid_incidents[valid_incidents["Same Incident ID"].isin(conflicting_ids)]
 
-print("\nConflicting Reports:")
+###print("\nConflicting Reports:")
+###print(
+###    conflicting_reports[
+###        [
+###            "Report ID",
+###            "Report Version",
+###            "Same Incident ID",
+###            "Highest Injury Severity Alleged",
+###            "Injury"
+###        ]
+###    ]
+###    .sort_values(["Same Incident ID", "Report ID"])
+###    .to_string(index=False)
+###)
+
+# Get valid incident IDs from ADS Archive
+archive_ids = set(
+    archive_latest["Same Incident ID"]
+    .dropna()
+    .astype(str)
+    .str.strip()
+) - {""}
+
+# Get valid incident IDs from ADS Current
+current_ids = set(
+    current_latest["Same Incident ID"]
+    .dropna()
+    .astype(str)
+    .str.strip()
+) - {""}
+
+# Find incident IDs that appear in BOTH datasets
+overlapping_ids = archive_ids.intersection(current_ids)
+
+###print("\nADS Archive and Current Overlap:")
+###print("Archive unique incident IDs:", len(archive_ids))
+###print("Current unique incident IDs:", len(current_ids))
+###print("Overlapping incident IDs:", len(overlapping_ids))
+
+# Show a few overlapping IDs, if any exist
+###print("Example overlapping IDs:", list(overlapping_ids)[:10])
+
+# Features we plan to use in our model
+features_to_check = [
+    "Crash With",
+    "Roadway Type",
+    "SV Precrash Speed (MPH)",
+    "SV Pre-Crash Movement"
+]
+
+# Exclude rows with missing or blank incident IDs
+valid_incidents = archive_latest[
+    archive_latest["Same Incident ID"].notna()
+    & archive_latest["Same Incident ID"].astype(str).str.strip().ne("")
+]
+
+# Check whether each feature differs between reports of the same incident
+print("\nADS Archive Feature Conflicts:")
+
+for feature in features_to_check:
+    # Count distinct values for each incident
+    distinct_values = (
+        valid_incidents
+        .groupby("Same Incident ID")[feature]
+        .nunique(dropna=False)
+    )
+
+    # Count incidents with different values
+    conflicts = (distinct_values > 1).sum()
+
+    print(f"{feature}: {conflicts} conflicting incidents")
+
+# Check conflicts where reports have different KNOWN values
+print("\nADS Archive Actual Feature Disagreements:")
+
+for feature in features_to_check:
+
+    # Count unique non-missing values for each incident
+    distinct_known_values = (
+        valid_incidents
+        .groupby("Same Incident ID")[feature]
+        .nunique(dropna=True)
+    )
+
+    # More than one known value means an actual disagreement
+    disagreements = (distinct_known_values > 1).sum()
+
+    print(f"{feature}: {disagreements} actual disagreements")
+
+# Find incidents with different known values for at least one feature
+conflicting_ids = set()
+
+for feature in features_to_check:
+    distinct_values = (
+        valid_incidents
+        .groupby("Same Incident ID")[feature]
+        .nunique(dropna=True)
+    )
+
+    # Add IDs with actual disagreements
+    conflicting_ids.update(
+        distinct_values[distinct_values > 1].index
+    )
+
+# Select all reports belonging to those incidents
+conflicting_reports = valid_incidents[
+    valid_incidents["Same Incident ID"].isin(conflicting_ids)
+]
+
+# Display their relevant information
+print("\nIncidents with Actual Feature Disagreements:")
 print(
     conflicting_reports[
         [
+            "Same Incident ID",
             "Report ID",
             "Report Version",
-            "Same Incident ID",
-            "Highest Injury Severity Alleged",
-            "Injury"
+            "Injury",
+            "Crash With",
+            "Roadway Type",
+            "SV Precrash Speed (MPH)",
+            "SV Pre-Crash Movement"
         ]
     ]
     .sort_values(["Same Incident ID", "Report ID"])
     .to_string(index=False)
 )
 
-# TODO: finish ADS data cleaning
-# - check for overlapping incidents between ADS Archive and ADS Current
-# - resolve or exclude incidents with conflicting injury labels
-# - deduplicate by same incident id
-# - handle missing injury labels and feature values
-# - combine ADS archive and ADS current datasets
-# - save the cleaned dataset
+# Count how many of our four features are available in each report
+features_to_check = [
+    "Crash With",
+    "Roadway Type",
+    "SV Precrash Speed (MPH)",
+    "SV Pre-Crash Movement"
+]
+
+for name, df in [
+    ("ADS Archive", archive_latest),
+    ("ADS Current", current_latest)
+]:
+    # Treat blank strings as missing values
+    feature_data = df[features_to_check].replace(
+        r"^\s*$", pd.NA, regex=True
+    )
+
+    # Count non-missing features per report
+    completeness = feature_data.notna().sum(axis=1)
+
+    print(f"\n{name} Feature Completeness:")
+    print(completeness.value_counts().sort_index())

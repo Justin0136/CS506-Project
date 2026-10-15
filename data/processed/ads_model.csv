@@ -1,0 +1,2905 @@
+Crash With,Roadway Type,SV Precrash Speed (MPH),SV Pre-Crash Movement,Weather - Clear,Weather - Cloudy,Weather - Rain,Weather - Severe Wind,Weather - Snow,Injury
+"Other, see Narrative",Street,,Unknown,1,0,0,0,0,0
+Other Fixed Object,Unknown,50.0,Unknown,1,0,0,0,0,0
+Passenger Car,Unknown,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,,Proceeding Straight,0,0,0,0,0,0
+Other Fixed Object,Rural Road,,Crossing into Opposing Lane,0,0,0,0,0,0
+"Other, see Narrative",Street,,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Intersection,,Making Right Turn,0,0,0,0,0,0
+Passenger Car,Intersection,,Proceeding Straight,1,0,0,0,0,0
+SUV,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,,Stopped,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,,"Other, see Narrative",1,0,0,0,0,0
+Van,Intersection,,Making Left Turn,0,1,0,0,0,0
+"Other, see Narrative",Street,,Proceeding Straight,1,0,0,0,0,0
+Van,Intersection,,Making Left Turn,0,1,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,4.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,25.0,Proceeding Straight,0,1,0,1,0,0
+SUV,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,31.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Intersection,9.0,Passing,1,0,0,0,0,0
+Van,Street,2.0,Proceeding Straight,1,0,0,0,0,1
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,3.0,Backing,1,0,0,0,0,0
+Passenger Car,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Highway / Freeway,53.0,Proceeding Straight,0,1,0,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,18.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Parked,1,0,0,0,0,0
+SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,12.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,7.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Animal,Street,20.0,Changing Lanes,0,1,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Making Right Turn,1,0,0,0,0,1
+Passenger Car,Intersection,4.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,8.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,4.0,Making Left Turn,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,9.0,Making Left Turn,0,1,0,0,0,0
+SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Street,26.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,1.0,Changing Lanes,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,0,0,1,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Intersection,34.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,14.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,1.0,Backing,1,0,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Street,4.0,Passing,1,0,0,0,0,0
+Pickup Truck,Street,5.0,Lane / Road Departure,1,0,0,0,0,0
+"Other, see Narrative",Street,10.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Intersection,2.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,33.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,9.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,9.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,19.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Parking Lot,6.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Making Right Turn,1,0,0,0,0,0
+Motorcycle,Intersection,2.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,2.0,Making Right Turn,1,0,0,0,0,1
+SUV,Highway / Freeway,45.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,2.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,1
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,4.0,Passing,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,5.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,1
+"Other, see Narrative",Street,19.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,9.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Other Fixed Object,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Backing,1,0,0,0,0,0
+SUV,Street,0.0,"Other, see Narrative",1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,53.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+"Other, see Narrative",Street,33.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Traffic Circle,1.0,Proceeding Straight,0,1,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,28.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,0,1,0,0,0,0
+Bus,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,"Other, see Narrative",1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Making Right Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,15.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,10.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,1
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,16.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,11.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,16.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Animal,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Street,0.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,0,1,0,0,0
+"Other, see Narrative",Street,29.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,25.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,1
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,1
+Heavy Truck,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,11.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+"Other, see Narrative",Parking Lot,21.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,4.0,Changing Lanes,0,1,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,7.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Pickup Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Parked,0,0,1,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Traffic Circle,6.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,40.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Parked,0,1,0,0,0,0
+SUV,Street,2.0,Making Left Turn,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,6.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,11.0,Making Left Turn,0,0,1,0,0,0
+"Other, see Narrative",Street,14.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,1
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,1,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,28.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Highway / Freeway,54.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,16.0,Making Right Turn,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,26.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Intersection,2.0,Making Left Turn,1,0,0,0,0,0
+SUV,Intersection,2.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Intersection,0.0,"Other, see Narrative",1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,0,0,1,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,3.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,27.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,7.0,Passing,0,1,0,0,0,0
+SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,40.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Street,35.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Traffic Circle,3.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,24.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Intersection,13.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Animal,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,24.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Street,13.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,17.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,56.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,9.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Highway / Freeway,62.0,Proceeding Straight,0,1,0,0,0,0
+Other Fixed Object,Parking Lot,7.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Intersection,0.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,43.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,9.0,Making Left Turn,0,1,0,0,0,0
+"Other, see Narrative",Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,9.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,11.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,42.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,9.0,Making Left Turn,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Other Fixed Object,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,4.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,1.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Parked,0,1,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,0,0,1,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Parked,0,0,1,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,0,1,0,0,0,1
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+SUV,Parking Lot,5.0,Making Right Turn,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Street,8.0,Making Left Turn,0,1,0,0,0,1
+"Other, see Narrative",Intersection,24.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,2.0,Making Right Turn,1,0,0,0,0,1
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,4.0,Making Right Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Animal,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,1,0,0,0
+Pickup Truck,Street,0.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Street,17.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,1.0,"Other, see Narrative",1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Making Right Turn,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Street,15.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,42.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,2.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Parked,0,1,0,0,0,0
+Van,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,32.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Animal,Street,14.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,1
+"Other, see Narrative",Street,43.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,9.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+First Responder Vehicle,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+First Responder Vehicle,Street,22.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,16.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Intersection,14.0,Proceeding Straight,1,1,0,0,0,0
+Van,Intersection,0.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,5.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Intersection,25.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,22.0,Changing Lanes,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,1
+"Other, see Narrative",Street,35.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,7.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,20.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Intersection,21.0,Proceeding Straight,0,0,1,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,8.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,22.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+"Other, see Narrative",Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,14.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Animal,Street,31.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,12.0,Making Left Turn,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,12.0,Proceeding Straight,0,1,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,15.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,39.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Street,15.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Animal,Highway / Freeway,74.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,28.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,20.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Intersection,13.0,Making Left Turn,0,1,0,0,0,0
+SUV,Street,36.0,Proceeding Straight,0,1,0,0,0,0
+Other Fixed Object,Highway / Freeway,52.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,21.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,9.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,4.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Intersection,6.0,Making Right Turn,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,26.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+Other Fixed Object,Street,1.0,Making Right Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Other Fixed Object,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,18.0,Making Left Turn,0,1,0,0,0,0
+"Other, see Narrative",Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,17.0,Crossing into Opposing Lane,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,19.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Intersection,13.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,65.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,8.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,28.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,2.0,Backing,1,0,0,0,0,0
+Other Fixed Object,Intersection,13.0,Making Right Turn,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Intersection,8.0,Entering Traffic,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,1.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,2.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,36.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,33.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,3.0,Backing,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,72.0,Proceeding Straight,0,0,1,0,0,0
+"Other, see Narrative",Highway / Freeway,65.0,Lane / Road Departure,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,6.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,26.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,6.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Parking Lot,8.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,4.0,Backing,1,0,0,0,0,0
+SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,5.0,Making Right Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,23.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,2.0,Backing,1,0,0,0,0,0
+Heavy Truck,Street,1.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,"Other, see Narrative",0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,5.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,22.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,1.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,1.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,44.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,15.0,Changing Lanes,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,6.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Intersection,8.0,Making Left Turn,1,0,0,0,0,0
+Bus,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,6.0,Lane / Road Departure,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,24.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,2.0,Entering Traffic,1,0,0,0,0,0
+SUV,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,5.0,Making Right Turn,1,0,0,0,0,0
+"Other, see Narrative",Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,44.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Making Left Turn,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,3.0,Changing Lanes,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,13.0,Making Left Turn,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,35.0,Changing Lanes,1,0,0,0,0,0
+Animal,Street,35.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,6.0,Making U-Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,0,0,0,0,0,0
+"Other, see Narrative",Street,6.0,Proceeding Straight,0,1,0,0,0,0
+"Other, see Narrative",Street,23.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,"Other, see Narrative",0,1,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,14.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Intersection,25.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Parking Lot,4.0,Parking Maneuver,1,0,0,0,0,0
+Pickup Truck,Intersection,16.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Parking Lot,7.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Animal,Highway / Freeway,61.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,3.0,Making Left Turn,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Intersection,1.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,0,1,0,0,0,0
+Animal,Highway / Freeway,65.0,Proceeding Straight,0,1,0,0,0,0
+Other Fixed Object,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,0,1,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+Motorcycle,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,3.0,Proceeding Straight,1,0,0,0,0,1
+Pole / Tree,Street,8.0,Parking Maneuver,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Non-Motorist: Pedestrian,Intersection,2.0,Backing,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,2.0,Making Right Turn,1,0,0,0,0,1
+"Other, see Narrative",Parking Lot,4.0,Making Left Turn,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,3.0,Backing,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,1
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+"Other, see Narrative",Highway / Freeway,62.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,1.0,Making Right Turn,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,10.0,Making Right Turn,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,3.0,Making Right Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,7.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,27.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,13.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,19.0,Lane / Road Departure,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,19.0,Lane / Road Departure,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,2.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,8.0,Proceeding Straight,0,1,0,0,0,1
+Passenger Car,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Intersection,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,10.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,3.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,11.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Intersection,25.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,29.0,Proceeding Straight,0,0,0,0,1,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,26.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,8.0,Proceeding Straight,0,0,1,0,0,0
+Bus,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Making Right Turn,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Making Right Turn,1,0,0,0,0,1
+Passenger Car,Intersection,14.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,9.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,62.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,2.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,24.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,1,0,0,0
+"Other, see Narrative",Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,35.0,Proceeding Straight,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,2.0,"Other, see Narrative",0,1,0,0,0,0
+Passenger Car,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,12.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,13.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+Pickup Truck,Street,35.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,33.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Motorcycle,Street,3.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Highway / Freeway,11.0,Proceeding Straight,1,0,0,0,0,0
+Animal,Highway / Freeway,65.0,Proceeding Straight,0,1,1,0,0,0
+Pickup Truck,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,23.0,Proceeding Straight,0,1,0,0,0,1
+SUV,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,10.0,Making Left Turn,0,1,0,0,0,0
+Van,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,2.0,Proceeding Straight,1,0,0,0,0,1
+Pickup Truck,Intersection,23.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Highway / Freeway,67.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Intersection,0.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+"Other, see Narrative",Intersection,15.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,5.0,Changing Lanes,1,0,0,0,0,0
+Non-Motorist: Other,Intersection,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Making Right Turn,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,23.0,Proceeding Straight,1,0,0,0,0,0
+Van,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,27.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,22.0,Proceeding Straight,0,1,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Bus,Intersection,6.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,50.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Highway / Freeway,34.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,19.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,8.0,Lane / Road Departure,1,0,0,0,0,0
+Heavy Truck,Street,13.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,58.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,25.0,Changing Lanes,1,0,0,0,0,0
+Heavy Truck,Intersection,10.0,Making Left Turn,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,8.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Intersection,8.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,16.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Traffic Circle,1.0,"Other, see Narrative",1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,13.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,7.0,Parking Maneuver,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Van,Highway / Freeway,0.0,Proceeding Straight,1,1,0,0,0,1
+SUV,Intersection,7.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Intersection,6.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,8.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,6.0,Lane / Road Departure,1,0,0,0,0,0
+Van,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,55.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,8.0,Changing Lanes,1,0,0,0,0,0
+Pickup Truck,Street,8.0,Proceeding Straight,0,1,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Backing,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+SUV,Intersection,1.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,0,1,0,0,0,0
+"Other, see Narrative",Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,2.0,Backing,1,0,0,0,0,0
+Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,5.0,"Other, see Narrative",0,1,0,0,0,0
+Pickup Truck,Intersection,2.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,1
+Pickup Truck,Intersection,9.0,"Other, see Narrative",1,0,0,0,0,0
+SUV,Intersection,10.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,27.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,20.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,15.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Highway / Freeway,56.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+Van,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,7.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,35.0,Changing Lanes,1,0,0,0,0,0
+"Other, see Narrative",Street,7.0,Proceeding Straight,1,0,0,0,0,0
+Animal,Street,23.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,6.0,Parking Maneuver,0,1,0,0,0,0
+"Other, see Narrative",Highway / Freeway,63.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,32.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,8.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Heavy Truck,Intersection,14.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Other,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,15.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,8.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,34.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,4.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,10.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,18.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,2.0,Making Right Turn,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,0.0,Making Right Turn,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Entering Traffic,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,65.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,12.0,Proceeding Straight,0,0,1,0,0,0
+"Other, see Narrative",Street,10.0,Proceeding Straight,0,0,1,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,4.0,Making Right Turn,1,0,0,0,0,0
+Other Fixed Object,Intersection,12.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,40.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,14.0,Making Left Turn,0,0,1,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,24.0,Merging,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,10.0,Changing Lanes,1,0,0,0,0,0
+Other Fixed Object,Street,9.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Intersection,0.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Intersection,34.0,Proceeding Straight,1,0,0,0,0,0
+First Responder Vehicle,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,19.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Making Left Turn,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,9.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,6.0,Making Right Turn,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,24.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,11.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,35.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Backing,1,0,0,0,0,0
+Van,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,10.0,Proceeding Straight,0,0,0,0,0,0
+Heavy Truck,Highway / Freeway,61.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Intersection,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Animal,Street,23.0,Proceeding Straight,0,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,45.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,14.0,"Other, see Narrative",1,0,0,0,0,0
+Pickup Truck,Intersection,10.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,18.0,"Other, see Narrative",1,0,0,0,0,1
+Passenger Car,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Intersection,12.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,6.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+Van,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,51.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Making Right Turn,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Making Right Turn,0,0,1,0,0,0
+Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Making Left Turn,1,0,0,0,0,0
+SUV,Intersection,0.0,Making Right Turn,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,8.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Intersection,7.0,"Other, see Narrative",1,0,0,0,0,0
+Pickup Truck,Street,11.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+Pickup Truck,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+Animal,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,8.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,0,1,1,0,0,0
+Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,2.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Street,1.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Street,22.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,"Other, see Narrative",1,0,0,0,0,0
+SUV,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Stopped,1,0,0,0,0,1
+"Other, see Narrative",Street,23.0,Proceeding Straight,0,1,1,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Motorcycle,Intersection,0.0,Stopped,0,1,0,0,0,1
+Non-Motorist: Other,Street,13.0,Making Left Turn,1,0,0,0,0,1
+Non-Motorist: Other,Street,0.0,Stopped,0,1,0,0,0,1
+Non-Motorist: Other,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,11.0,Lane / Road Departure,1,0,0,0,0,0
+SUV,Intersection,6.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Making Right Turn,1,0,0,0,0,0
+Non-Motorist: Other,Street,18.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Parking Lot,2.0,Backing,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,0.0,Making Left Turn,1,0,0,0,0,0
+Non-Motorist: Other,Intersection,6.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,3.0,Making Left Turn,1,0,0,0,0,1
+"Other, see Narrative",Street,0.0,Making Right Turn,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,23.0,Proceeding Straight,0,1,0,0,0,1
+Motorcycle,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,9.0,Proceeding Straight,1,0,0,0,0,0
+Motorcycle,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Intersection,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,44.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Non-Motorist: Cyclist,Street,0.0,Stopped,0,1,0,0,0,0
+Non-Motorist: Other,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,4.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,1
+Non-Motorist: Cyclist,Street,0.0,Parked,1,0,0,0,0,1
+SUV,Intersection,7.0,Making Right Turn,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+SUV,Street,20.0,Changing Lanes,0,0,1,0,0,1
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,1
+Passenger Car,Street,20.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,9.0,Proceeding Straight,0,1,0,0,0,1
+Passenger Car,Intersection,22.0,Proceeding Straight,0,1,1,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,15.0,"Other, see Narrative",0,1,0,0,0,1
+Passenger Car,Street,8.0,Changing Lanes,1,0,0,0,0,1
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Non-Motorist: Other,Intersection,12.0,Proceeding Straight,0,1,0,0,0,1
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,1
+Heavy Truck,Intersection,15.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Van,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,1
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,1.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,1
+Non-Motorist: Other,Intersection,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Pedestrian,Street,4.0,"Other, see Narrative",1,0,0,0,0,1
+Non-Motorist: Cyclist,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Non-Motorist: Other,Intersection,1.0,Making Left Turn,1,0,0,0,0,1
+"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,44.0,Proceeding Straight,0,1,0,0,0,1
+Passenger Car,Intersection,6.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Animal,Street,12.0,Proceeding Straight,0,1,0,0,0,0
+Non-Motorist: Cyclist,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Intersection,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,6.0,Proceeding Straight,1,0,0,0,0,1
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Highway / Freeway,10.0,Changing Lanes,0,1,0,0,0,1
+Passenger Car,Street,10.0,Changing Lanes,1,0,0,0,0,1
+Pickup Truck,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,"Other, see Narrative",1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,19.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,55.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Highway / Freeway,34.0,Proceeding Straight,0,1,0,0,0,1
+Passenger Car,Street,22.0,Proceeding Straight,0,1,0,0,0,1
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Intersection,7.0,Proceeding Straight,1,0,0,0,0,1
+Motorcycle,Street,2.0,Making Right Turn,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,"Other, see Narrative",1,0,0,0,0,1
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,4.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,20.0,Proceeding Straight,1,0,0,0,0,0
+Motorcycle,Intersection,3.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Making Left Turn,1,0,0,0,0,0
+SUV,Intersection,9.0,Proceeding Straight,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,4.0,Proceeding Straight,0,1,0,0,0,1
+Motorcycle,Intersection,1.0,Proceeding Straight,0,1,0,0,0,0
+Non-Motorist: Other,Intersection,2.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Intersection,5.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Parking Lot,1.0,"Other, see Narrative",1,0,0,0,0,1
+SUV,Traffic Circle,0.0,Stopped,1,0,0,0,0,1
+Van,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,18.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,25.0,Stopped,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,13.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,2.0,"Other, see Narrative",1,0,0,0,0,0
+Non-Motorist: Pedestrian,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Other,Intersection,12.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Highway / Freeway,50.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,4.0,Proceeding Straight,1,0,0,0,0,0
+Van,Intersection,7.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,6.0,Parking Maneuver,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,0.0,Merging,1,0,0,0,0,1
+Pickup Truck,Highway / Freeway,15.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,7.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Making Right Turn,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Highway / Freeway,56.0,Proceeding Straight,0,1,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,25.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,11.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,7.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Intersection,8.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Intersection,18.0,Lane / Road Departure,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+"Other, see Narrative",Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,13.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,8.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,58.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,13.0,Making Left Turn,1,0,0,0,0,1
+SUV,Street,8.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Motorcycle,Street,2.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,0,0,0,0,0,0
+Motorcycle,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,4.0,Entering Traffic,1,0,0,0,0,0
+Passenger Car,Intersection,11.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,24.0,Changing Lanes,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,19.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,2.0,Backing,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,1
+Non-Motorist: Cyclist,Intersection,2.0,Making Right Turn,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Making Right Turn,0,1,0,0,0,0
+Pickup Truck,Highway / Freeway,19.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,11.0,Making Right Turn,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Non-Motorist: Cyclist,Street,7.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,13.0,Proceeding Straight,1,0,0,0,0,1
+Non-Motorist: Pedestrian,Intersection,1.0,Proceeding Straight,1,0,0,0,0,1
+Motorcycle,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Making Left Turn,1,0,0,0,0,1
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,1
+Pickup Truck,Intersection,0.0,Merging,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Making Right Turn,1,0,0,0,0,1
+Passenger Car,Intersection,13.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+Motorcycle,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Making Left Turn,1,0,0,0,0,1
+Non-Motorist: Cyclist,Intersection,11.0,Proceeding Straight,1,0,0,0,0,1
+Animal,Street,15.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,15.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,59.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,62.0,Proceeding Straight,1,0,0,0,0,1
+Other Fixed Object,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,1.0,Backing,1,0,0,0,0,1
+SUV,Street,4.0,Proceeding Straight,0,1,0,0,0,0
+Non-Motorist: Cyclist,Intersection,1.0,Backing,1,0,0,0,0,1
+"Other, see Narrative",Street,15.0,Proceeding Straight,0,0,1,0,0,0
+Bus,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,13.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,"Other, see Narrative",1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,1
+Non-Motorist: Cyclist,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Intersection,7.0,Making Left Turn,1,0,0,0,0,1
+Passenger Car,Street,2.0,Making Left Turn,1,0,0,0,0,1
+Passenger Car,Street,0.0,Making Right Turn,1,0,0,0,0,0
+Motorcycle,Street,7.0,Proceeding Straight,1,0,0,0,0,1
+Other Fixed Object,Street,35.0,Changing Lanes,1,0,0,0,0,0
+SUV,Intersection,25.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,51.0,Changing Lanes,0,1,0,0,0,0
+Passenger Car,Intersection,21.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+First Responder Vehicle,Intersection,13.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,2.0,Backing,1,0,0,0,0,0
+SUV,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,8.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Pedestrian,Intersection,14.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Unknown,0.0,Parked,1,0,0,0,0,0
+Animal,Street,15.0,Unknown,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,15.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,45.0,Proceeding Straight,0,0,0,1,0,0
+"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,5.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,1.0,Backing,1,0,0,0,0,0
+Pickup Truck,Street,15.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,20.0,Proceeding Straight,0,0,0,0,0,0
+"Other, see Narrative",Street,31.0,Proceeding Straight,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,1.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,10.0,Making Left Turn,0,1,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,8.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Intersection,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Van,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,1.0,Proceeding Straight,0,0,0,0,0,0
+Other Fixed Object,Parking Lot,1.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Intersection,23.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Unpaved Road,15.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,7.0,Proceeding Straight,1,0,0,0,0,1
+Animal,Highway / Freeway,63.0,Proceeding Straight,0,1,0,0,0,0
+Van,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,29.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,3.0,"Other, see Narrative",0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,12.0,Passing,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,3.0,Backing,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Pedestrian,Street,5.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,20.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,6.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,4.0,Passing,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,24.0,Passing,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+Non-Motorist: Cyclist,Street,11.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Parking Lot,3.0,Making Right Turn,1,0,0,0,0,0
+Bus,Street,0.0,Changing Lanes,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0
+Bus,Parking Lot,3.0,Passing,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,20.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Highway / Freeway,53.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,40.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,29.0,Proceeding Straight,0,1,0,0,0,0
+Bus,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,16.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0
+Non-Motorist: Scooter - Skateboard,Intersection,14.0,Proceeding Straight,1,0,0,0,0,1
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,4.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0
+Pole / Tree,Parking Lot,4.0,Making Left Turn,0,0,1,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,14.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,1.0,Passing,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,11.0,Making Right Turn,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,1
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,1
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,16.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,9.0,Changing Lanes,0,0,0,0,0,0
+Passenger Car,Street,0.0,Making Right Turn,1,0,0,0,0,0
+Non-Motorist: Other,Street,4.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Intersection,7.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,15.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,0,0,0,0,0,0
+"Other, see Narrative",Parking Lot,10.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Intersection,9.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,21.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,2.0,Making Right Turn,0,1,0,0,0,0
+Passenger Car,Intersection,20.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,4.0,Making Left Turn,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+Heavy Truck,Intersection,4.0,Changing Lanes,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Animal,Street,16.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,19.0,Proceeding Straight,1,0,0,0,0,0
+Pole / Tree,Parking Lot,1.0,Backing,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,44.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,26.0,Changing Lanes,0,0,1,0,0,0
+"Other, see Narrative",Intersection,11.0,Making Left Turn,1,0,0,0,0,0
+Pickup Truck,Street,5.0,Changing Lanes,1,0,0,0,0,0
+Heavy Truck,Street,7.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Street,33.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,0,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Parked,1,0,0,0,0,0
+SUV,Street,5.0,Entering Traffic,0,1,0,0,0,0
+"Other, see Narrative",Street,10.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+Non-Motorist: Scooter - Skateboard,Street,2.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,27.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,3.0,Parking Maneuver,1,0,0,0,0,0
+SUV,Street,14.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Changing Lanes,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,5.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+Heavy Truck,Intersection,26.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,0,1,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,1
+Passenger Car,Street,3.0,Proceeding Straight,0,1,1,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,1.0,Making Left Turn,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,11.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Street,3.0,Backing,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,27.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,10.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,17.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Highway / Freeway,1.0,Proceeding Straight,0,1,0,0,0,1
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,19.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,12.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Street,0.0,Parked,0,0,0,0,0,0
+"Other, see Narrative",Street,34.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,8.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,10.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Street,4.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,1.0,Proceeding Straight,0,1,0,0,0,0
+Other Fixed Object,Intersection,10.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,7.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Street,0.0,Merging,0,1,1,0,0,0
+Passenger Car,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,0,1,0,0,0
+"Other, see Narrative",Street,19.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Traffic Circle,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,26.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Motorcycle,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,32.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Animal,Intersection,28.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,3.0,Making Right Turn,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,13.0,Making Right Turn,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,7.0,Making Left Turn,0,1,0,0,0,0
+"Other, see Narrative",Street,32.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,33.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,32.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,11.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,2.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,8.0,Making Right Turn,0,1,0,0,0,0
+SUV,Street,5.0,Backing,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Parked,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,6.0,Passing,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Other Fixed Object,Parking Lot,5.0,Making Right Turn,0,0,0,0,0,0
+Pole / Tree,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,2.0,Changing Lanes,1,0,0,0,0,0
+Bus,Parking Lot,5.0,Making Right Turn,0,0,0,0,0,0
+SUV,Parking Lot,0.0,Backing,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,14.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0
+Animal,Street,48.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,10.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,1
+Pickup Truck,Street,11.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,4.0,Changing Lanes,0,0,0,0,0,0
+Non-Motorist: Cyclist,Street,12.0,Proceeding Straight,0,1,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,25.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,22.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Bus,Street,0.0,Parked,0,1,0,0,0,0
+SUV,Intersection,26.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,11.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,45.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,20.0,Lane / Road Departure,0,1,0,0,0,1
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,28.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+Pickup Truck,Street,1.0,Passing,0,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,8.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,10.0,Making Left Turn,0,0,0,0,0,0
+SUV,Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,10.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,3.0,Changing Lanes,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Parking Lot,2.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Van,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,1,0,0,0
+Pickup Truck,Street,11.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,0.0,Stopped,0,1,1,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,6.0,"Other, see Narrative",0,1,1,0,0,0
+Non-Motorist: Cyclist,Intersection,0.0,Stopped,0,1,1,0,0,0
+SUV,Street,1.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,18.0,Proceeding Straight,0,1,1,0,0,0
+Other Fixed Object,Traffic Circle,21.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,36.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,19.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,19.0,Lane / Road Departure,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,59.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,6.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Street,38.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Intersection,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+"Other, see Narrative",Street,32.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Traffic Circle,14.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,6.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,25.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Parked,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Intersection,8.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,8.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,7.0,Making Right Turn,0,0,0,0,0,0
+SUV,Intersection,23.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,7.0,Proceeding Straight,0,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,21.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,7.0,Passing,1,0,0,0,0,0
+Heavy Truck,Intersection,1.0,Backing,1,0,0,0,0,0
+SUV,Intersection,11.0,Making Left Turn,1,0,0,0,0,1
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Intersection,18.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,19.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Street,0.0,Stopped,1,0,0,0,0,1
+Pickup Truck,Intersection,27.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,17.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Making Left Turn,0,1,0,0,0,0
+Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,8.0,Making Left Turn,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+"Other, see Narrative",Street,35.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Making Left Turn,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,5.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Parking Lot,8.0,Making Left Turn,0,1,0,0,0,0
+Pickup Truck,Intersection,15.0,Proceeding Straight,0,0,0,0,0,1
+SUV,Highway / Freeway,35.0,Proceeding Straight,0,1,0,0,0,0
+"Other, see Narrative",Street,5.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,1
+"Other, see Narrative",Highway / Freeway,63.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,1.0,Proceeding Straight,0,0,0,0,0,1
+Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,1.0,Making Left Turn,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,24.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,0,1,0,0,0,1
+"Other, see Narrative",Intersection,13.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,23.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,16.0,Passing,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,17.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,1.0,Backing,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,4.0,Proceeding Straight,0,1,0,0,0,1
+SUV,Intersection,6.0,Making Right Turn,0,1,0,0,0,0
+SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,7.0,Changing Lanes,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,13.0,Proceeding Straight,0,0,0,0,0,0
+Heavy Truck,Street,1.0,Passing,1,0,0,0,0,0
+SUV,Street,3.0,Making Right Turn,1,0,0,0,0,0
+SUV,Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,20.0,Lane / Road Departure,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,14.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,5.0,Passing,1,0,0,0,0,0
+SUV,Parking Lot,3.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,19.0,Making Left Turn,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,14.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,4.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,0,1,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,26.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,10.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,11.0,Changing Lanes,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,12.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,0,1,0,0,0,0
+Motorcycle,Street,19.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,15.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Street,38.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,17.0,Proceeding Straight,0,1,0,0,0,1
+Passenger Car,Street,35.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Highway / Freeway,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,11.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,10.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,35.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,1
+Pickup Truck,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,19.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,1.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,40.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,2.0,Changing Lanes,0,0,0,0,0,0
+Passenger Car,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,1.0,Proceeding Straight,0,0,0,0,0,0
+"Other, see Narrative",Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,22.0,Proceeding Straight,1,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,4.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,22.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,12.0,Passing,0,0,0,0,0,0
+Other Fixed Object,Street,18.0,Lane / Road Departure,1,0,0,0,0,0
+Passenger Car,Street,33.0,Proceeding Straight,0,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,3.0,Passing,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,5.0,Passing,1,0,0,0,0,0
+Passenger Car,Parking Lot,4.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,25.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Street,8.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,15.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,19.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,23.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,5.0,Proceeding Straight,0,0,0,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,0.0,Parked,1,0,0,0,0,1
+Passenger Car,Street,0.0,Changing Lanes,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,6.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,30.0,Proceeding Straight,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,1
+SUV,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,28.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,1.0,Making Right Turn,1,0,0,0,0,0
+SUV,Street,39.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,2.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,27.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,16.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Intersection,4.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,0,0,1,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,14.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,43.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,0
+"Other, see Narrative",Street,28.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,9.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,19.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Parked,0,0,1,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,16.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,7.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Van,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,22.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+"Other, see Narrative",Street,25.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,5.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,12.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Intersection,23.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,31.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,0,1,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,7.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,35.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,2.0,Backing,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,11.0,Changing Lanes,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,18.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,17.0,Changing Lanes,1,0,0,0,0,1
+SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,1,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,2.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,14.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,1.0,Backing,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,20.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Intersection,1.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Parked,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,7.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,16.0,Making Left Turn,1,0,0,0,0,0
+Other Fixed Object,Street,27.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Parked,1,0,0,0,0,0
+SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,2.0,Backing,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Highway / Freeway,9.0,Proceeding Straight,0,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Parking Maneuver,0,0,1,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pole / Tree,Street,3.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Intersection,17.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,3.0,Backing,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,15.0,Proceeding Straight,0,0,0,0,0,0
+Pickup Truck,Street,6.0,Parking Maneuver,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,1.0,"Other, see Narrative",1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,10.0,Making Left Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,2.0,Backing,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Intersection,17.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Heavy Truck,Street,7.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,4.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,3.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,12.0,"Other, see Narrative",1,0,0,0,0,0
+SUV,Street,1.0,"Other, see Narrative",1,0,0,0,0,0
+Passenger Car,Street,3.0,Making Right Turn,0,1,0,0,0,1
+Passenger Car,Street,22.0,Making Left Turn,0,0,0,0,0,0
+Non-Motorist: Pedestrian,Street,6.0,Proceeding Straight,1,0,0,0,0,1
+Other Fixed Object,Street,29.0,Lane / Road Departure,0,1,0,0,0,1
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Bus,Intersection,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,33.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,6.0,Passing,1,0,0,0,0,0
+Passenger Car,Street,6.0,Making Left Turn,1,0,0,0,0,1
+Pickup Truck,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Parked,0,0,1,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Intersection,14.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Animal,Highway / Freeway,49.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,5.0,Lane / Road Departure,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,14.0,Making Left Turn,0,0,1,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Van,Intersection,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,9.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,1.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Van,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,35.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Scooter - Skateboard,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,12.0,Making Right Turn,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,15.0,Changing Lanes,0,0,1,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,1,0,0,0
+SUV,Highway / Freeway,56.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,13.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Intersection,12.0,Making Right Turn,1,0,0,0,0,0
+SUV,Intersection,20.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,3.0,Making Right Turn,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,9.0,Making Right Turn,1,0,0,0,0,0
+Heavy Truck,Parking Lot,1.0,Backing,0,0,0,0,0,0
+SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Intersection,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,5.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,2.0,Making Right Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,4.0,Making Right Turn,1,0,0,0,0,0
+SUV,Highway / Freeway,0.0,Merging,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,7.0,Changing Lanes,1,0,0,0,0,0
+Other Fixed Object,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,12.0,"Other, see Narrative",1,0,0,0,0,0
+Van,Street,20.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Intersection,17.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Other Fixed Object,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,11.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Van,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,1,0,0,1
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,28.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,1,0,0,1
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,0,1,0,0,0
+Pickup Truck,Parking Lot,0.0,Stopped,0,0,1,0,0,0
+First Responder Vehicle,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,25.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Van,Street,0.0,Parked,1,0,0,0,0,1
+SUV,Street,9.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Intersection,25.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,18.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,22.0,Proceeding Straight,1,0,0,0,0,1
+Other Fixed Object,Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,22.0,Proceeding Straight,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Proceeding Straight,0,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,7.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,20.0,Proceeding Straight,0,0,1,0,0,0
+Passenger Car,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,15.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,2.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,9.0,Changing Lanes,1,0,0,0,0,1
+Passenger Car,Street,34.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,22.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,23.0,Proceeding Straight,0,1,0,0,0,0
+Animal,Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,13.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,4.0,Passing,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Intersection,15.0,Making Left Turn,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Proceeding Straight,0,1,0,0,0,0
+Other Fixed Object,Street,12.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Street,20.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,1
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Bus,Street,0.0,Parked,0,0,1,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+"Other, see Narrative",Street,1.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Intersection,2.0,Making Right Turn,1,0,0,0,0,0
+SUV,Street,7.0,Making Right Turn,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,0,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,0,0,1,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,0,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,30.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,33.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,9.0,Making Left Turn,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,0,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,5.0,Proceeding Straight,0,1,1,0,0,0
+Passenger Car,Intersection,1.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,25.0,Parking Maneuver,1,0,0,0,0,0
+Passenger Car,Intersection,12.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,0,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,6.0,Proceeding Straight,0,1,0,0,0,0
+Other Fixed Object,Parking Lot,1.0,Backing,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Intersection,13.0,Making Right Turn,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Making Left Turn,1,0,0,0,0,0
+SUV,Parking Lot,7.0,Passing,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,39.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,1
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,1
+Non-Motorist: Pedestrian,Street,4.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,8.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,1.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,1,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,0,0,1,0,0,1
+SUV,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,47.0,Proceeding Straight,0,0,0,0,0,0
+SUV,Street,7.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,40.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,9.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,30.0,Proceeding Straight,0,1,0,0,0,0
+Animal,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Van,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,14.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,5.0,Making Left Turn,0,1,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Intersection,20.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Making Left Turn,0,1,0,0,0,1
+Other Fixed Object,Street,7.0,Proceeding Straight,0,0,0,0,0,0
+Passenger Car,Street,20.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+Pickup Truck,Street,10.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,16.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,1
+Passenger Car,Intersection,0.0,Parked,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,14.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Intersection,2.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Street,25.0,Changing Lanes,0,0,0,0,0,0
+Passenger Car,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Intersection,11.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,17.0,Proceeding Straight,1,0,0,0,0,1
+Motorcycle,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,25.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,4.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,5.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Intersection,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,11.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,20.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,4.0,Making Right Turn,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,1.0,Changing Lanes,0,1,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,2.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Street,14.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,9.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Intersection,6.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Parked,0,0,0,0,0,0
+Passenger Car,Street,1.0,Backing,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,36.0,Proceeding Straight,1,0,0,0,0,1
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,28.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Other,Intersection,0.0,Making Right Turn,0,1,0,0,0,1
+Heavy Truck,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,1.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Intersection,17.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Highway / Freeway,35.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,2.0,Making Left Turn,0,1,0,0,0,0
+Passenger Car,Intersection,32.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,8.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Animal,Street,16.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,3.0,Backing,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,9.0,Proceeding Straight,0,1,0,0,0,1
+Passenger Car,Intersection,12.0,"Other, see Narrative",1,0,0,0,0,0
+Van,Intersection,5.0,Making Left Turn,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,18.0,Proceeding Straight,0,1,0,0,0,1
+SUV,Street,31.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Street,1.0,Passing,1,0,0,0,0,0
+SUV,Street,15.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,19.0,Proceeding Straight,1,0,0,0,0,1
+Pickup Truck,Intersection,19.0,Proceeding Straight,1,0,0,0,0,1
+"Other, see Narrative",Intersection,13.0,Proceeding Straight,0,0,1,0,0,0
+Pickup Truck,Intersection,17.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,28.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,1
+Heavy Truck,Street,2.0,Entering Traffic,0,1,0,0,0,0
+"Other, see Narrative",Parking Lot,9.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,29.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Motorcycle,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Motorcycle,Street,8.0,Making Right Turn,1,0,0,0,0,1
+Other Fixed Object,Parking Lot,11.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Street,10.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Pole / Tree,Street,25.0,Lane / Road Departure,1,0,0,0,0,0
+"Other, see Narrative",Street,25.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Highway / Freeway,7.0,Merging,0,1,0,0,0,0
+Passenger Car,Street,8.0,Entering Traffic,0,1,0,0,0,0
+Other Fixed Object,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,3.0,Parking Maneuver,1,0,0,0,0,0
+Pickup Truck,Street,2.0,Changing Lanes,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Parked,0,1,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,2.0,Passing,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,18.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Intersection,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Intersection,32.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Motorcycle,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,20.0,Proceeding Straight,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Intersection,13.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,3.0,Proceeding Straight,1,0,0,0,0,0
+Motorcycle,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,8.0,Changing Lanes,0,1,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,14.0,Making Left Turn,1,0,0,0,0,0
+Pickup Truck,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,22.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,11.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,9.0,Proceeding Straight,0,0,1,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Intersection,7.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,15.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,29.0,Proceeding Straight,0,0,1,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Heavy Truck,Intersection,13.0,Proceeding Straight,0,1,0,0,0,0
+Other Fixed Object,Parking Lot,9.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,7.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Intersection,3.0,Making Left Turn,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,1
+Non-Motorist: Cyclist,Intersection,0.0,Making Right Turn,1,0,0,0,0,0
+Non-Motorist: Scooter - Skateboard,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,3.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,1,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+"Other, see Narrative",Street,7.0,Proceeding Straight,0,1,0,0,0,0
+Pickup Truck,Intersection,0.0,Stopped,0,1,0,0,0,0
+Other Fixed Object,Parking Lot,3.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,7.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,1.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+First Responder Vehicle,Street,0.0,Stopped,0,1,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Street,5.0,Proceeding Straight,0,1,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,0,1,0,0,0,1
+Other Fixed Object,Street,4.0,Making U-Turn,0,0,1,0,0,0
+"Other, see Narrative",Street,13.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Intersection,12.0,Proceeding Straight,0,1,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Van,Intersection,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,0.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,24.0,Proceeding Straight,1,0,0,0,0,1
+Bus,Intersection,0.0,Making Left Turn,1,0,0,0,0,0
+Passenger Car,Intersection,20.0,Proceeding Straight,1,0,0,0,0,0
+Other Fixed Object,Street,18.0,Making Right Turn,1,0,0,0,0,0
+Motorcycle,Street,0.0,Parked,1,0,0,0,0,0
+Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,1
+SUV,Street,0.0,Parked,0,1,0,0,0,1
+Heavy Truck,Parking Lot,3.0,Making Right Turn,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Stopped,0,0,0,0,0,0
+SUV,Street,25.0,Making Left Turn,1,0,0,0,0,1
+Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0
+Passenger Car,Intersection,16.0,Making Left Turn,1,0,0,0,0,1
+Passenger Car,Street,23.0,Proceeding Straight,0,1,0,0,0,0
+SUV,Intersection,0.0,Stopped,0,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0
+Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0
+Bus,Street,0.0,Parked,0,1,0,0,0,0
+Passenger Car,Street,16.0,Proceeding Straight,1,0,0,0,0,1
+SUV,Intersection,11.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,11.0,Making Left Turn,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,1.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Intersection,5.0,Proceeding Straight,0,0,0,0,0,0
+"Other, see Narrative",Street,23.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,4.0,Passing,1,0,0,0,0,0
+Passenger Car,Street,15.0,Proceeding Straight,1,0,0,0,0,0
+Bus,Street,0.0,Parked,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Street,13.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,5.0,Proceeding Straight,0,1,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,7.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,8.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,6.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,21.0,Proceeding Straight,1,0,0,0,0,0
+Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,1
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Street,39.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0
+Pickup Truck,Street,9.0,Proceeding Straight,0,1,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,22.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,Stopped,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,1,0,0,0,0,0
+Passenger Car,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Parking Lot,2.0,Backing,1,0,0,0,0,0
+Van,Street,0.0,Parked,1,0,0,0,0,0
+"Other, see Narrative",Intersection,21.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,9.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Parking Lot,4.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Scooter - Skateboard,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Street,29.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,15.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,0.0,Parked,1,0,0,0,0,1
+Pickup Truck,Street,25.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Intersection,0.0,"Other, see Narrative",1,0,0,0,0,0
+"Other, see Narrative",Street,29.0,Proceeding Straight,1,0,0,0,0,0
+Passenger Car,Street,32.0,Proceeding Straight,1,0,0,0,0,0
+Pole / Tree,Parking Lot,1.0,Backing,0,1,0,0,0,0
+Other Fixed Object,Parking Lot,2.0,Backing,1,0,0,0,0,0
+Heavy Truck,Street,4.0,Proceeding Straight,0,1,0,0,0,0
+Bus,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,17.0,Proceeding Straight,1,0,0,0,0,0
+"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0
+Pickup Truck,Street,24.0,Proceeding Straight,1,0,0,0,0,0
+Animal,Intersection,27.0,Stopped,0,0,0,0,0,0
+Passenger Car,Intersection,6.0,Proceeding Straight,1,0,0,0,0,0
+SUV,Street,30.0,Proceeding Straight,1,0,0,0,0,0
+Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0
+Other Fixed Object,Street,9.0,Lane / Road Departure,1,0,0,0,0,0
+SUV,Street,0.0,Stopped,0,0,0,0,0,0
+Passenger Car,Street,16.0,Changing Lanes,1,0,0,0,0,0
+Passenger Car,Street,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,13.0,Proceeding Straight,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,1
+"Other, see Narrative",Street,18.0,Proceeding Straight,0,0,0,0,0,0
+Other Fixed Object,Street,8.0,"Other, see Narrative",1,0,0,0,0,1
+Other Fixed Object,Parking Lot,6.0,Making Left Turn,0,0,0,0,0,0
+SUV,Intersection,2.0,Making Right Turn,0,0,0,0,0,1
+Pickup Truck,Street,14.0,Proceeding Straight,1,0,0,0,0,0
