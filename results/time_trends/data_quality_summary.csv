@@ -2,16 +2,24 @@ metric,ADS,Level 2 ADAS
 raw rows (all versions),3773,6340
 raw rows archive,2295,4027
 raw rows current,1478,2313
-report ids after keeping latest version,3336,4839
-old versions removed,437,1501
+rows dropped by automation engaged filter,62,339
+rows after automation engaged filter,3711,6001
+report ids after keeping latest version,3297,4680
+old versions removed,414,1321
 report ids in both archive and current,0,37
-missing incident date (dropped),1,19
-incident before 2021-07 (not in monthly counts),0,22
-reports in monthly counts,3335,4798
-sum of monthly counts,3335,4798
+missing incident date (dropped),0,8
+incident before 2021-07 (not in monthly counts),0,14
+reports in monthly counts,3297,4658
+sum of monthly report counts,3297,4658
+reports without Same Incident ID (own crash),11,11
+unique crashes,2928,4669
+crashes with more than 1 report,355,9
+crashes whose reports have different incident months,0,0
+crashes missing incident date (dropped),0,8
+crashes before 2021-07 (not in monthly counts),0,14
+crashes in monthly counts,2928,4647
+sum of monthly crash counts,2928,4647
 earliest incident month (all),2021-07,2019-08
 first month used,2021-07,2021-07
 last month used,2026-08,2026-08
-"distinct incidents in each file (check only, not used)",2956,4826
-automation engaged field not matching file (incl unknown),39,207
-% submitted within 1 month of incident,99.0,93.6
+% submitted within 1 month of incident,99.0,94.2

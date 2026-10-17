@@ -1,0 +1,9 @@
+metric,value
+ADS crashes in this EDA,2928
+dropped for ads_model: unknown injury,49
+dropped for ads_model: conflicting injury labels,1
+expected ads_model rows,2878
+ads_model rows,2878
+same representative Report IDs,2868
+only in this EDA,10
+only in ads_model,10
