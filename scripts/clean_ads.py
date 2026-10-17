@@ -8,6 +8,40 @@ data_folder = Path(__file__).resolve().parent.parent / "data" / "raw"
 ads_archive = pd.read_csv(data_folder / "ADS_archive.csv", low_memory=False)
 ads_current = pd.read_csv(data_folder / "ADS_current.csv", low_memory=False)
 
+ads_archive = ads_archive[ads_archive["Automation System Engaged?"] == "ADS"].copy()
+ads_current = ads_current[ads_current["Automation System Engaged?"] == "ADS"].copy()
+
+print("\nArchive engagement columns:")
+print([col for col in ads_archive.columns if "Engaged" in col])
+
+print("\nCurrent engagement columns:")
+print([col for col in ads_current.columns if "Engaged" in col])
+
+# Find road surface-related columns
+print("\nADS Archive surface columns:")
+print([col for col in ads_archive.columns if "Surface" in col])
+
+print("\nADS Current surface columns:")
+print([col for col in ads_current.columns if "Surface" in col])
+
+# Inspect road surface values in both datasets
+print("\nADS Archive Roadway Surface:")
+print(ads_archive["Roadway Surface"].value_counts(dropna=False))
+
+print("\nADS Current Wet Surface Condition:")
+print(ads_current["Roadway-Wet Surface Condition"].value_counts(dropna=False))
+
+# Standardize wet road surface across both datasets
+ads_archive["Wet Surface"] = ads_archive["Roadway Surface"].map({
+    "Wet": 1,
+    "Dry": 0,
+    "Snow / Slush / Ice": 0
+})
+
+ads_current["Wet Surface"] = (
+    ads_current["Roadway-Wet Surface Condition"] == "Y"
+).astype(int)
+
 # Keep the latest version of each report
 archive_latest = (
     ads_archive
@@ -232,6 +266,24 @@ for col in other_weather:
 for col in shared_weather:
     ads_model[col] = ads_model[col].eq("Y").astype(int)
 
+# Combine cloudy and partly cloudy conditions
+ads_model["Weather - Cloudy"] = (
+    (ads_model["Weather - Cloudy"] == 1)
+    | (ads_model["Weather - Partly Cloudy"] == "Y")
+).astype(int)
+
+# Combine fog/smoke categories
+ads_model["Weather - Fog/Smoke/Haze Combined"] = (
+    (ads_model["Weather - Fog/Smoke"] == "Y")
+    | (ads_model["Weather - Fog/Smoke/Haze"] == "Y")
+).astype(int)
+
+print("\nCombined weather totals:")
+print(ads_model[[
+    "Weather - Cloudy",
+    "Weather - Fog/Smoke/Haze Combined"
+]].sum())
+
 # Verify the conversion
 print("\nWeather features after encoding:")
 print(ads_model[shared_weather].head())
@@ -257,10 +309,19 @@ for col in categorical_features:
     )
 
 # Select features for the initial model
-model_features = features + shared_weather
+model_features = features + shared_weather + [
+    "Weather - Fog/Smoke/Haze Combined",
+    "Wet Surface"
+]
+
+# Keep identifiers and date for tracking and future train/test splitting
+metadata = ["Incident Date", "Report ID", "Same Incident ID"]
+
+print("\nWet Surface distribution:")
+print(ads_model["Wet Surface"].value_counts(dropna=False))
 
 # Create the final modeling DataFrame
-ads_final = ads_model[model_features + ["Injury"]].copy()
+ads_final = ads_model[metadata + model_features + ["Injury"]].copy()
 
 # Verify its dimensions and columns
 print("\nFinal ADS Modeling Dataset:")
