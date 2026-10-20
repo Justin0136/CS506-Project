@@ -6,83 +6,54 @@ SEP-2022,13781-4011,2e446d9a8d991f2,Unknown,Unknown,,Unknown,0,0,0,0,0,0,,1
 JUN-2022,13781-3513,e0129414742e8ac,Unknown,Unknown,,Unknown,0,0,0,0,0,0,,1
 ,10561-7760,,Unknown,Unknown,,Unknown,0,0,0,0,0,0,,1
 JUL-2024,13781-8424,5022e43fff7d723,Unknown,Unknown,,Unknown,0,0,0,0,0,0,,1
-APR-2025,13781-11021,5751adb395858f0,Unknown,Unknown,16.0,Unknown,0,0,0,0,0,0,,1
-MAY-2025,13781-10848,9969166a4a0ba08,Unknown,Unknown,37.0,Unknown,0,0,0,0,0,0,,0
-APR-2025,13781-10845,6294af1d282f66d,Unknown,Unknown,56.0,Unknown,0,0,0,0,0,0,,0
-MAY-2025,13781-10740,229b756088301d9,Unknown,Unknown,17.0,Unknown,0,0,0,0,0,0,,0
-MAR-2025,13781-10385,a3c3381509fb59c,Unknown,Unknown,44.0,Unknown,0,0,0,0,0,0,,0
-MAR-2025,13781-10309,40a04909e01acb9,Unknown,Unknown,73.0,Unknown,0,0,0,0,0,0,,0
-MAR-2025,13781-10368,402f7074878a893,"Other, see Narrative",Unknown,,Unknown,0,0,0,0,0,0,,0
-MAR-2025,13781-10281,b91465800baef1c,Unknown,Unknown,17.0,Unknown,0,0,0,0,0,0,,0
-JAN-2025,13781-9799,00d37801ad28034,Unknown,Unknown,30.0,Unknown,0,0,0,0,0,0,,0
-JAN-2025,13781-9796,415f788917ca6fb,Unknown,Unknown,14.0,Unknown,1,0,0,0,0,0,,0
-DEC-2024,13781-9446,c85a8da9c33c57c,Unknown,Unknown,35.0,Unknown,0,0,0,0,0,0,,0
-AUG-2024,13781-8719,60a080adece670a,Unknown,Unknown,44.0,Unknown,0,0,0,0,0,0,,0
-SEP-2021,62-1609,1bd0a3dbefc9039,Unknown,Unknown,,Parking Maneuver,0,0,0,0,0,0,,0
-JUL-2024,13781-8432,d1371d88b136942,Unknown,Street,,Unknown,1,0,0,0,0,0,0.0,1
-NOV-2021,62-1635,4efe171aca7e516,Unknown,Unknown,,Proceeding Straight,0,0,0,0,0,0,,0
-JUN-2024,13781-8209,332dc6548ca78bf,Unknown,Unknown,46.0,Unknown,0,0,0,0,0,0,,0
-JUN-2024,1422-7992,716dfeed0ffcabc,Other Fixed Object,Unknown,,Unknown,0,0,0,0,0,0,,0
-DEC-2022,13781-8038,c42eee4ecf364e6,Unknown,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
-SEP-2020,13781-3910,a4f22e218171a4e,Unknown,Intersection,,Unknown,0,0,0,0,0,0,,1
-DEC-2022,13781-4414,f76fac43be95392,Unknown,Unknown,,Making Right Turn,0,0,0,0,0,0,,0
-MAY-2025,13781-11033,32b1a15f3f695a3,Unknown,Unknown,45.0,Unknown,0,0,0,0,0,0,,1
 MAY-2022,13781-3074,2e417fe11f10eeb,Pole / Tree,Unknown,,Unknown,0,0,0,0,0,0,,1
-MAR-2022,13781-2600,026455ffa911355,Unknown,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
-NOV-2021,502-2581,ddfa237edc9bb3b,Pole / Tree,Unknown,,Unknown,0,0,0,0,0,0,,1
-JUN-2023,945-5880,a84eef2dfe44978,Unknown,Intersection,,Unknown,0,0,0,0,0,0,,0
-AUG-2019,13781-1785,78f06bf09979eb7,Passenger Car,Unknown,,Unknown,0,0,0,0,0,0,,1
-SEP-2024,13781-8522,e2990e065f7e3f7,Unknown,Highway / Freeway,,Unknown,0,0,0,0,0,0,0.0,1
-JUN-2023,13781-9793,f076b0802eed284,Unknown,Unknown,53.0,Unknown,0,0,0,0,0,0,,1
-JAN-2025,502-10114,57436958474a78e,"Other, see Narrative",Unknown,,Unknown,0,0,0,0,0,0,,1
+MAY-2025,13781-11033,32b1a15f3f695a3,Unknown,Unknown,45.0,Unknown,0,0,0,0,0,0,,1
+DEC-2022,13781-4414,f76fac43be95392,Unknown,Unknown,,Making Right Turn,0,0,0,0,0,0,,0
+SEP-2020,13781-3910,a4f22e218171a4e,Unknown,Intersection,,Unknown,0,0,0,0,0,0,,1
+DEC-2022,13781-8038,c42eee4ecf364e6,Unknown,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
+JUN-2024,1422-7992,716dfeed0ffcabc,Other Fixed Object,Unknown,,Unknown,0,0,0,0,0,0,,0
+JUN-2024,13781-8209,332dc6548ca78bf,Unknown,Unknown,46.0,Unknown,0,0,0,0,0,0,,0
+NOV-2021,62-1635,4efe171aca7e516,Unknown,Unknown,,Proceeding Straight,0,0,0,0,0,0,,0
+JUL-2024,13781-8432,d1371d88b136942,Unknown,Street,,Unknown,1,0,0,0,0,0,0.0,1
+SEP-2021,62-1609,1bd0a3dbefc9039,Unknown,Unknown,,Parking Maneuver,0,0,0,0,0,0,,0
+AUG-2024,13781-8719,60a080adece670a,Unknown,Unknown,44.0,Unknown,0,0,0,0,0,0,,0
+DEC-2024,13781-9446,c85a8da9c33c57c,Unknown,Unknown,35.0,Unknown,0,0,0,0,0,0,,0
 MAY-2022,13781-3483,794682e3e5f4624,Unknown,Unknown,,Proceeding Straight,0,0,0,0,0,0,,1
-MAY-2025,29990-11089,5b816ee39d07662,Other Fixed Object,Unknown,,Lane / Road Departure,0,0,0,0,0,0,,0
-MAY-2025,13781-10904,c2521c8f5d6ff57,Other Fixed Object,Unknown,65.0,Unknown,0,0,0,0,0,0,,0
-MAY-2025,13781-10870,4508d0446acb248,Other Fixed Object,Unknown,21.0,Unknown,0,0,0,0,0,0,,0
-APR-2025,13781-10698,2fb7d58a5f497a2,Unknown,Street,22.0,Unknown,1,0,0,0,0,0,0.0,0
-APR-2025,13781-10567,72859a1a1f6cb8c,Other Fixed Object,Unknown,53.0,Unknown,0,0,0,0,0,0,,0
-MAR-2025,13781-10413,9b01cc7d041141d,Other Fixed Object,Unknown,12.0,Unknown,0,0,0,0,0,0,,0
-,502-10398,,Other Fixed Object,Unknown,,"Other, see Narrative",0,0,0,0,0,0,,0
-MAR-2025,13781-10390,115c71688f3f627,Other Fixed Object,Highway / Freeway,,Unknown,0,0,1,0,0,0,1.0,0
-APR-2025,13781-10521,e02f4347e0da017,Other Fixed Object,Unknown,33.0,Unknown,0,0,0,0,0,0,,0
-MAR-2025,29990-10423,8f0798f39255eef,Unknown,Highway / Freeway,73.0,Unknown,0,0,0,0,0,0,,0
-MAR-2025,13781-10386,8288307377661f6,"Other, see Narrative",Parking Lot,,Unknown,0,0,0,0,0,0,0.0,1
-MAR-2025,13781-10310,596287172a74fd6,Other Fixed Object,Unknown,36.0,Unknown,0,0,0,0,0,0,,0
-MAR-2025,13781-10369,d8c8430f633d7ac,"Other, see Narrative",Unknown,32.0,Unknown,1,0,0,0,0,0,,0
-MAR-2025,669-10204,50678d1cd759a85,Pole / Tree,Unknown,,Lane / Road Departure,0,0,0,0,0,0,,0
-SEP-2021,62-1354,5870cc72e7b0bba,Unknown,Street,,Proceeding Straight,0,0,0,0,0,0,,1
-FEB-2025,13781-9998,15e97714d458205,Other Fixed Object,Unknown,39.0,Unknown,1,0,0,0,0,0,,0
-AUG-2021,62-1370,045cf7934115d4b,Unknown,Intersection,,Proceeding Straight,0,0,0,0,0,0,,0
-JAN-2025,13781-9618,9b8102aa8f025a5,Other Fixed Object,Unknown,4.0,Unknown,0,0,0,0,0,0,,0
-NOV-2024,13781-9445,a54f3dd3cdaf781,Other Fixed Object,Unknown,56.0,Unknown,0,0,0,0,0,0,,0
-OCT-2024,13781-8989,b517cdf35b15e2e,Other Fixed Object,Unknown,67.0,Unknown,0,0,0,0,0,0,,0
-AUG-2024,13781-8836,fdbe2fe03e28cce,Other Fixed Object,Unknown,20.0,Unknown,0,0,0,0,0,0,,0
-OCT-2021,62-1590,93584ba02779625,Animal,Unknown,60.0,Unknown,0,0,0,0,0,0,,1
-SEP-2024,13781-8708,4840c659796376e,Other Fixed Object,Unknown,48.0,Unknown,0,0,0,0,0,0,,0
-AUG-2024,13781-8706,35cac7098fcffd0,Other Fixed Object,Unknown,30.0,Unknown,0,0,0,0,0,0,,0
-JUL-2021,62-1636,a8fc8fda3dfeaf8,Unknown,Intersection,,Making Right Turn,1,0,0,0,0,0,,1
-DEC-2020,62-1623,2c1c6e38e9cf0ff,Unknown,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,0
-JUL-2024,13781-8213,9da0380f061cf9a,Pole / Tree,Unknown,19.0,Unknown,0,0,0,0,0,0,,0
-NOV-2021,62-1803,c2519a0d511dd6b,Unknown,Street,,Making Left Turn,0,0,0,0,0,0,,0
-AUG-2021,62-1760,6db8d177424c49a,Unknown,Intersection,,Making Right Turn,0,0,0,0,0,0,,1
-MAY-2024,13781-8068,b96635ea94645a6,SUV,Street,,Unknown,0,0,0,0,0,0,,1
+JAN-2025,502-10114,57436958474a78e,"Other, see Narrative",Unknown,,Unknown,0,0,0,0,0,0,,1
+JUN-2023,13781-9793,f076b0802eed284,Unknown,Unknown,53.0,Unknown,0,0,0,0,0,0,,1
+SEP-2024,13781-8522,e2990e065f7e3f7,Unknown,Highway / Freeway,,Unknown,0,0,0,0,0,0,0.0,1
+MAR-2025,13781-10309,40a04909e01acb9,Unknown,Unknown,73.0,Unknown,0,0,0,0,0,0,,0
+MAR-2025,13781-10385,a3c3381509fb59c,Unknown,Unknown,44.0,Unknown,0,0,0,0,0,0,,0
+MAY-2025,13781-10740,229b756088301d9,Unknown,Unknown,17.0,Unknown,0,0,0,0,0,0,,0
+APR-2025,13781-10845,6294af1d282f66d,Unknown,Unknown,56.0,Unknown,0,0,0,0,0,0,,0
+MAY-2025,13781-10848,9969166a4a0ba08,Unknown,Unknown,37.0,Unknown,0,0,0,0,0,0,,0
+APR-2025,13781-11021,5751adb395858f0,Unknown,Unknown,16.0,Unknown,0,0,0,0,0,0,,1
+AUG-2019,13781-1785,78f06bf09979eb7,Passenger Car,Unknown,,Unknown,0,0,0,0,0,0,,1
+JUN-2023,945-5880,a84eef2dfe44978,Unknown,Intersection,,Unknown,0,0,0,0,0,0,,0
+NOV-2021,502-2581,ddfa237edc9bb3b,Pole / Tree,Unknown,,Unknown,0,0,0,0,0,0,,1
+MAR-2022,13781-2600,026455ffa911355,Unknown,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
+JAN-2025,13781-9796,415f788917ca6fb,Unknown,Unknown,14.0,Unknown,1,0,0,0,0,0,,0
+JAN-2025,13781-9799,00d37801ad28034,Unknown,Unknown,30.0,Unknown,0,0,0,0,0,0,,0
+MAR-2025,13781-10281,b91465800baef1c,Unknown,Unknown,17.0,Unknown,0,0,0,0,0,0,,0
+MAR-2025,13781-10368,402f7074878a893,"Other, see Narrative",Unknown,,Unknown,0,0,0,0,0,0,,0
+JUN-2026,273-15548,68dafe933867f2a,"Other, see Narrative",Unknown,,Unknown,0,0,0,0,0,0,0.0,1
+JAN-2026,13781-13791,b6a2fcd6b834efe,Unknown,Unknown,56.0,Unknown,0,0,0,0,0,0,0.0,1
+MAR-2025,13781-10357,94457d8030ad48c,Unknown,Unknown,51.0,Unknown,0,0,0,0,0,0,0.0,1
+JUL-2025,13781-11319,4055eb83316864d,Unknown,Unknown,102.0,Unknown,0,0,0,0,0,0,0.0,1
+OCT-2025,13781-12001,8c60f63d75b3602,Unknown,Unknown,14.0,Unknown,0,0,0,0,0,0,0.0,1
+OCT-2025,13781-12071,ede1289722aae9c,Unknown,Unknown,8.0,Unknown,0,0,0,0,0,0,0.0,1
+DEC-2025,13781-13332,0e480914ed926d9,Unknown,Unknown,55.0,Unknown,0,0,0,0,0,0,0.0,1
+APR-2026,13781-15109,a6c0a9ab26d7511,Unknown,Unknown,42.0,Unknown,0,0,0,0,0,0,0.0,1
+JUN-2026,13781-15610,52c1e6bd6cb5f1f,Non-Motorist: Cyclist,Unknown,,Unknown,0,0,0,0,0,0,0.0,1
+JUL-2026,13781-16040,9a73429632f888e,Unknown,Unknown,45.0,Unknown,1,0,0,0,0,0,0.0,0
+JUL-2026,30351-16121,d59eede598ffb49,"Other, see Narrative",Unknown,,Unknown,0,0,0,0,0,0,0.0,1
+DEC-2025,13781-13496,2df5f9bfb19d510,Unknown,Unknown,68.0,Unknown,0,0,0,0,0,0,0.0,1
+JUL-2025,13781-11318,e446bcdc9f6474d,Unknown,Unknown,4.0,Unknown,0,0,0,0,0,0,0.0,1
 NOV-2021,62-1814,11ca65630051868,Passenger Car,Unknown,,"Other, see Narrative",0,0,0,0,0,0,,0
-NOV-2021,62-1944,b94f3e870460e65,Unknown,Intersection,,Proceeding Straight,0,0,0,0,0,0,,1
-NOV-2022,13781-4290,5b0e189c8c2a217,Unknown,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,0
-,1306-4283,,Other Fixed Object,Unknown,,Proceeding Straight,0,0,0,0,0,0,,0
-OCT-2022,855-4093,fe972d0186a8be5,Other Fixed Object,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
-OCT-2022,273-4346,83d7693f68a21be,Animal,Unknown,,Proceeding Straight,0,0,0,0,0,0,0.0,1
-APR-2025,13781-10553,31ef95da16c6114,Other Fixed Object,Unknown,73.0,Unknown,0,0,0,0,0,0,,1
-OCT-2022,13781-4606,2f59fa79b6146a2,Unknown,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
-MAY-2022,13781-3279,459d5c1dbb265c1,Non-Motorist: Pedestrian,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
-JUL-2021,13781-21,ec246513f5a48c7,Non-Motorist: Pedestrian,Unknown,46.0,Unknown,0,0,0,0,0,0,,1
-MAY-2022,13781-2924,11e581134e866ce,"Other, see Narrative",Highway / Freeway,,Unknown,1,0,0,0,0,0,,0
-JUN-2023,13781-5673,b32fd7656a22d5a,Pole / Tree,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
-MAR-2023,13781-5664,b8a74160808c8ee,Pole / Tree,Highway / Freeway,,Unknown,1,0,0,0,0,0,0.0,1
-JUN-2023,842-5787,e1abfb7b9ed3566,Unknown,Unknown,20.0,Proceeding Straight,0,0,0,0,0,0,,0
 JUN-2023,1243-5798,8c0f6e0549cbc41,Unknown,Highway / Freeway,50.0,Unknown,1,0,0,0,0,0,0.0,0
 JUN-2023,855-5908,89ea0379b21dccd,Pole / Tree,Unknown,,"Other, see Narrative",1,0,0,0,0,0,0.0,0
 FEB-2024,945-7224,1c611a40039cbca,Unknown,Highway / Freeway,10.0,Unknown,0,0,0,0,0,0,,1
+SEP-2021,62-1354,5870cc72e7b0bba,Unknown,Street,,Proceeding Straight,0,0,0,0,0,0,,1
 FEB-2024,33175-7402,,SUV,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
 MAR-2024,33175-7613,,Passenger Car,Highway / Freeway,,Unknown,1,0,0,0,0,0,0.0,1
 AUG-2023,13781-8045,7dae0d28d5db974,Unknown,Street,54.0,Unknown,0,0,0,0,0,0,,1
@@ -96,309 +67,48 @@ FEB-2025,13781-10001,183c32f7025d49e,"Other, see Narrative",Unknown,64.0,Unknown
 JUL-2022,1243-3577,ab964227042fecf,Pole / Tree,Unknown,40.0,Unknown,1,0,0,0,0,0,0.0,1
 FEB-2022,1042-2343,e5ba340558470c4,Unknown,Unknown,40.0,Proceeding Straight,0,0,0,0,0,0,,0
 SEP-2021,855-1341,4ad7d7dddd47356,Passenger Car,Street,,Unknown,1,0,0,0,0,0,1.0,1
-MAY-2025,540-10913,c3f7e4251219033,Unknown,Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-APR-2025,13781-10654,25a3286ae4f3ed6,Other Fixed Object,Highway / Freeway,,Lane / Road Departure,0,1,1,0,0,0,1.0,0
-APR-2025,540-10434,f51c99d483dff4c,Unknown,Highway / Freeway,26.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-APR-2025,502-10412,602aed913abca02,Passenger Car,Street,,"Other, see Narrative",1,0,0,0,0,0,0.0,0
-MAY-2021,62-1137,66bb03520335eb1,Pickup Truck,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
-FEB-2025,13781-10064,eb68371ddb259fc,Other Fixed Object,Unknown,17.0,Making Left Turn,0,0,0,0,0,0,,0
-FEB-2025,13781-9892,fbeb84b33d5532b,"Other, see Narrative",Highway / Freeway,,Proceeding Straight,0,1,1,0,0,0,1.0,0
-DEC-2024,540-9629,f82bda5d6e11582,Unknown,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2024,13781-9479,9a9f43949fb9ea7,Other Fixed Object,Intersection,17.0,Unknown,1,0,0,0,0,0,,0
-DEC-2024,13781-9478,d81f932ce6ef29a,Heavy Truck,Highway / Freeway,47.0,Unknown,1,0,0,0,0,0,,0
-NOV-2024,13781-9076,2179a94bc212595,"Other, see Narrative",Parking Lot,,Parking Maneuver,1,0,0,0,0,0,,0
-OCT-2024,13781-9029,7a36f26e282e294,"Other, see Narrative",Street,49.0,Unknown,1,0,0,0,0,0,,0
-OCT-2024,13781-8975,dcb7ce0fe5bee99,Other Fixed Object,Intersection,14.0,Unknown,1,0,0,0,0,0,,0
-OCT-2024,13781-8974,d1947812657c02d,Other Fixed Object,Intersection,22.0,Unknown,1,0,0,0,0,0,,0
-JUL-2024,13781-8971,de2c2b7e4180a02,Other Fixed Object,Traffic Circle,24.0,Unknown,0,0,0,0,0,0,,0
-OCT-2024,13781-9025,ad9280909fd67f7,Other Fixed Object,Intersection,15.0,Unknown,1,0,0,0,0,0,0.0,0
-OCT-2024,13781-9021,c4f364218483f68,Other Fixed Object,Intersection,12.0,Unknown,0,1,0,0,0,0,,0
-OCT-2024,13781-9020,b7645e4a13ecf01,Other Fixed Object,Intersection,37.0,Unknown,1,0,0,0,0,0,,0
-OCT-2024,13781-8992,3999d2905b43eec,Other Fixed Object,Street,31.0,Unknown,1,0,0,0,0,0,0.0,0
-OCT-2024,13781-8853,4d507c4754442a1,Other Fixed Object,Street,18.0,Unknown,0,0,0,0,0,0,,0
-SEP-2024,13781-8848,8d89be527f6db2a,Other Fixed Object,Parking Lot,6.0,Unknown,0,0,0,0,0,0,,0
-SEP-2024,13781-8843,fa0985aebdcc7ce,Other Fixed Object,Highway / Freeway,46.0,Unknown,0,0,0,0,0,0,,0
-AUG-2021,62-1552,cfb231f0edaaaef,Heavy Truck,Highway / Freeway,,Merging,0,0,0,0,0,0,,1
-NOV-2021,62-1591,7d320f5607aa249,Pole / Tree,Parking Lot,,"Other, see Narrative",0,0,0,0,0,0,,1
-AUG-2024,1422-8688,6ee1da9e3e71b04,Other Fixed Object,Highway / Freeway,55.0,Unknown,1,0,0,0,0,0,,0
-NOV-2021,62-1578,56587e390ad44d6,Animal,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,0
-OCT-2021,62-1607,75847196e343f0c,Unknown,Intersection,0.0,Stopped,0,0,0,0,0,0,,1
-JUL-2024,13781-8245,c68189b365cab72,Heavy Truck,Street,10.0,Unknown,1,0,0,0,0,0,0.0,0
-NOV-2021,62-1670,dd0c7eff015543b,Unknown,Intersection,0.0,Stopped,0,0,0,0,0,0,,1
-SEP-2021,62-1770,02553594f851c1b,Unknown,Intersection,0.0,Stopped,0,0,0,0,0,0,,1
-JUN-2024,13781-8075,7afea12e0ed00e3,Other Fixed Object,Street,6.0,Unknown,0,0,0,0,0,0,,0
-JUN-2024,13781-8072,e687e94baac80f7,Other Fixed Object,Street,20.0,Unknown,0,0,0,0,0,0,,0
-SEP-2021,62-1804,e73fc98909dc9c9,Pickup Truck,Unknown,0.0,Stopped,0,0,0,0,0,0,,0
-DEC-2021,62-1823,6a5dbe7198ba31d,Passenger Car,Street,,Changing Lanes,0,0,0,0,0,0,,1
-JUN-2024,13781-8034,545a4afdb3f22c0,Other Fixed Object,Street,40.0,Unknown,0,0,0,0,0,0,,0
-APR-2024,540-7579,778679ce2b2065a,Other Fixed Object,Highway / Freeway,,Lane / Road Departure,0,1,0,0,0,0,0.0,0
-DEC-2023,502-6852,f00785b18231751,"Other, see Narrative",Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2023,502-6772,bf98198b8e3dc17,Passenger Car,Highway / Freeway,,Proceeding Straight,0,1,1,0,0,0,1.0,0
-JAN-2023,62-4600,c48b2f551caf9a7,Unknown,Highway / Freeway,65.0,Proceeding Straight,0,0,1,0,0,0,1.0,0
-JUL-2022,945-4252,ee7ebbf628c0746,Other Fixed Object,Unknown,45.0,Making Right Turn,0,0,0,0,0,0,,1
-MAY-2025,855-11008,eeaaf422d1e0508,Passenger Car,Highway / Freeway,,Crossing into Opposing Lane,0,0,0,0,0,0,,1
-MAR-2025,1243-10769,7f1e59998a53094,Pole / Tree,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
-OCT-2020,13781-4199,cb70187275e567d,Other Fixed Object,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,0.0,1
-JUL-2022,945-3951,0a2b2e77acb770d,Other Fixed Object,Unknown,45.0,Making Right Turn,0,0,0,0,0,0,,1
-SEP-2022,502-3906,4507e653f3a4898,Other Fixed Object,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,0
-JUL-2022,1306-3729,4c2e55083dab925,Unknown,Highway / Freeway,9.0,"Other, see Narrative",0,0,0,0,0,0,0.0,0
-JUL-2022,12381-3536,00cd6c799062fc0,"Other, see Narrative",Highway / Freeway,,"Other, see Narrative",0,0,0,0,0,0,0.0,0
-JUL-2020,13781-4649,cff615a5412e888,First Responder Vehicle,Highway / Freeway,76.0,Unknown,0,0,0,0,0,0,,1
-APR-2022,13781-3470,b975f1328104f61,Motorcycle,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
-JUL-2022,13781-3332,2eb5e09b2925a6e,Motorcycle,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2025,13781-10930,67a9ae31c16340e,SUV,Intersection,50.0,Unknown,1,0,0,0,0,0,0.0,1
-APR-2023,540-5193,c095dff241ff5c3,Passenger Car,Highway / Freeway,,Proceeding Straight,0,1,1,0,0,0,1.0,0
-APR-2022,13781-2740,2ea08b89dbd016d,First Responder Vehicle,Highway / Freeway,74.0,Unknown,1,0,0,0,0,0,0.0,1
-JAN-2022,502-2582,2f2a84cb87197db,Passenger Car,Intersection,,Making Right Turn,1,0,0,0,0,0,0.0,1
-JUN-2023,502-5810,92d9de624255d16,Other Fixed Object,Highway / Freeway,,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-DEC-2021,540-1947,c79b9403b17b7ad,Animal,Highway / Freeway,,Proceeding Straight,0,1,0,0,0,0,,0
-MAY-2024,13781-7796,b4f30d6be4f03e7,Passenger Car,Highway / Freeway,56.0,Unknown,0,1,0,0,0,0,0.0,0
-JUL-2024,13781-8037,e423bc4178f2b48,"Other, see Narrative",Highway / Freeway,21.0,Unknown,1,0,0,0,0,0,0.0,1
-DEC-2023,13781-7385,b70ac0342bd0de0,Other Fixed Object,Highway / Freeway,,Proceeding Straight,0,1,1,0,0,0,1.0,1
-SEP-2024,13781-8677,48cede456b5a900,Passenger Car,Highway / Freeway,68.0,Unknown,0,0,0,0,0,0,,1
-SEP-2023,12381-8659,369f8f9bc2fa8f9,Heavy Truck,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
-AUG-2024,13781-8720,2bd06224a944b59,Pole / Tree,Street,76.0,Unknown,0,0,0,0,0,0,0.0,1
-MAR-2023,62-8931,26606436134599d,Passenger Car,Street,45.0,Unknown,1,0,0,0,0,0,0.0,0
-DEC-2024,1243-9485,5bba16aeb8c54ef,"Other, see Narrative",Street,45.0,Unknown,1,0,0,0,0,0,0.0,1
-JAN-2025,669-9856,efa786af6b17452,Animal,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JAN-2025,1306-9766,537280257928053,"Other, see Narrative",Unknown,40.0,Lane / Road Departure,1,0,0,0,0,0,,0
-APR-2025,13781-10391,574e6cd2eb9dd2b,Heavy Truck,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2024,669-7747,323d81864ea0347,"Other, see Narrative",Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2021,1042-2072,572462203aa9640,SUV,Intersection,,Proceeding Straight,0,0,0,0,0,0,,1
-OCT-2021,1243-1528,c956f70c7f82c2f,Pole / Tree,Unknown,32.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-APR-2024,945-7588,3d99e3452eb41a2,Passenger Car,Highway / Freeway,50.0,Unknown,0,0,0,0,0,0,,0
-MAR-2023,1243-5173,93d37eb6f8ab932,Unknown,Rural Road,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JAN-2023,669-5395,d7e1e03dde19594,Other Fixed Object,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
-MAR-2025,10039-10316,4b7b5c197df23b5,First Responder Vehicle,Highway / Freeway,69.0,Unknown,0,0,0,0,0,0,,1
-DEC-2023,28349-6820,e99bd9851a415e6,Unknown,Highway / Freeway,66.0,Proceeding Straight,0,0,0,0,0,1,,0
-,10039-1548,,Other Fixed Object,Highway / Freeway,,"Other, see Narrative",0,0,0,0,0,0,,0
-JUL-2024,945-8258,399c1502fa3b000,Heavy Truck,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2025,1243-10981,ceb8195267a4435,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2025,1306-10839,f8df332c8a22bd8,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,0,0,0,0,0,0,,0
-MAY-2025,540-10914,ec44f3c24ef9817,Heavy Truck,Street,43.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-MAY-2025,13781-10847,737c9df5680b3ec,SUV,Highway / Freeway,21.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUL-2021,62-1144,2b5dc97ec895143,Pole / Tree,Street,20.0,Proceeding Straight,0,0,0,0,0,0,,0
-MAY-2025,1243-10840,15ff46edf65be85,"Other, see Narrative",Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-APR-2025,13781-10699,b04c4f3f4839d16,Other Fixed Object,Parking Lot,13.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
-OCT-2024,540-10526,980a286198c0629,Animal,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAR-2025,13781-10236,5eea83f38d8c585,SUV,Street,61.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
-FEB-2025,30291-10128,d903c3a7e6079c6,Other Fixed Object,Street,18.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-AUG-2021,62-1358,97e12f41820e555,Pole / Tree,Street,40.0,"Other, see Narrative",0,0,0,0,0,0,,0
-FEB-2025,29990-10110,757c1fa9104d676,Other Fixed Object,Highway / Freeway,64.0,Proceeding Straight,0,0,0,0,0,0,0.0,0
-FEB-2025,669-9902,91a2d8b20dbc9a9,"Other, see Narrative",Highway / Freeway,0.0,Stopped,0,0,0,0,0,0,0.0,1
-OCT-2021,62-1373,efa7a0893492745,Passenger Car,Highway / Freeway,50.0,Proceeding Straight,0,0,0,0,0,0,,1
-JAN-2025,29990-9652,32b3b0c885ec1fc,SUV,Highway / Freeway,60.0,Proceeding Straight,0,0,0,0,1,0,1.0,0
-JAN-2025,13781-9628,09da98d121ebd94,Passenger Car,Street,25.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-DEC-2024,13781-9616,c35095bb870c009,Other Fixed Object,Street,31.0,Making Right Turn,1,0,0,0,0,0,0.0,0
-DEC-2024,13781-9523,584d8c3d16576f0,Other Fixed Object,Highway / Freeway,46.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-NOV-2024,1306-9461,74ffb6b6f7b64eb,Animal,Highway / Freeway,83.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAY-2024,13781-9342,6f13f3205b9518d,Pickup Truck,Street,20.0,Making Left Turn,0,1,0,0,0,0,0.0,0
-NOV-2024,13781-9241,de2ba59b0d7a304,Other Fixed Object,Intersection,10.0,Making Left Turn,1,0,0,0,0,0,,0
-NOV-2024,540-9242,158a385a71f19fd,Other Fixed Object,Highway / Freeway,52.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
-NOV-2024,1243-9080,52fc89774d1d342,Animal,Rural Road,78.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2024,540-9085,999d4db315ce990,Animal,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2024,540-9037,21039e97fdce725,Animal,Highway / Freeway,78.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-OCT-2024,502-8983,00103fcbcf2e0dc,Other Fixed Object,Highway / Freeway,60.0,Proceeding Straight,0,0,0,0,0,0,,0
-OCT-2024,13781-8973,c67cb74b0d18b4e,Other Fixed Object,Highway / Freeway,53.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-SEP-2024,13781-8972,7031cbb71a0b777,Other Fixed Object,Street,45.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-OCT-2024,13781-8937,be6bfa2467a4094,Passenger Car,Highway / Freeway,6.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-OCT-2024,502-8774,6c6ab6b0869143c,Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,0
-DEC-2023,502-8763,4a717ee92785704,Passenger Car,Street,13.0,"Other, see Narrative",0,0,0,0,0,0,,0
-SEP-2024,540-8718,e20daec8f0f160e,Pole / Tree,Highway / Freeway,78.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-SEP-2024,1243-8674,afe2adf2d111658,Animal,Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-SEP-2024,502-8686,fa0b8153dd7383c,Pickup Truck,Highway / Freeway,0.0,Stopped,0,0,0,0,0,0,0.0,0
-SEP-2024,1243-8635,684692e1ed26bba,Passenger Car,Highway / Freeway,78.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-SEP-2021,62-1581,aeda49547720093,Animal,Highway / Freeway,75.0,Proceeding Straight,0,0,0,0,0,0,,0
-JUL-2024,855-8277,0de5ce6513cc367,Other Fixed Object,Street,45.0,Proceeding Straight,0,1,0,0,0,0,,0
-JUN-2024,13781-8073,f50874c1cccc440,Other Fixed Object,Highway / Freeway,86.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
-JUN-2024,29990-8066,cff39c1cd4b78d6,"Other, see Narrative",Highway / Freeway,82.0,Proceeding Straight,0,0,0,0,0,0,,0
-JUN-2024,13781-8033,d73829489cfc07f,"Other, see Narrative",Highway / Freeway,46.0,"Other, see Narrative",0,1,0,0,0,0,0.0,0
-JUN-2024,33500-7993,aef628a6826e229,SUV,Highway / Freeway,7.0,Proceeding Straight,0,1,0,0,0,0,1.0,0
-MAY-2024,13781-8000,6138e966c7afce9,Other Fixed Object,Street,14.0,Making Right Turn,0,0,0,0,0,0,,0
-APR-2024,13781-7999,a397f4138734f45,Other Fixed Object,Street,20.0,Making Right Turn,1,0,0,0,0,0,0.0,0
-MAY-2024,502-8024,d22473979c1cdfe,Heavy Truck,Highway / Freeway,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUN-2024,13781-7964,6daf24df0fbdf23,First Responder Vehicle,Street,37.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-JUN-2024,1420-7878,cea21be3268f475,Animal,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAY-2024,29990-7911,344c4aa527d21cd,Other Fixed Object,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,,0
-APR-2024,855-7869,f9157c5d45140f4,"Other, see Narrative",Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAY-2024,1420-7761,2b687ad265be239,Passenger Car,Highway / Freeway,73.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-APR-2024,30711-7649,16d627d64b5d544,"Other, see Narrative",Street,17.0,Making Right Turn,1,0,0,0,0,0,0.0,0
-JAN-2024,28509-7581,2940c5740fea644,Other Fixed Object,Highway / Freeway,71.0,Proceeding Straight,0,0,0,0,0,0,,1
-MAR-2024,1420-7400,7bf94c8d661fbf6,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-APR-2024,540-7446,821b600d42a22e6,"Other, see Narrative",Highway / Freeway,60.0,Changing Lanes,1,0,0,0,0,0,0.0,0
-FEB-2024,502-7283,40e94ffa0a7aa67,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-FEB-2024,540-7189,2f3c36a804a92fe,"Other, see Narrative",Highway / Freeway,44.0,Changing Lanes,0,1,0,0,0,0,0.0,0
-JAN-2024,540-6944,8f2e181d0c5c738,SUV,Highway / Freeway,50.0,Changing Lanes,0,1,0,0,0,0,0.0,0
-DEC-2023,540-6884,,Heavy Truck,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2023,540-6702,b2e5a84772bd1fc,Animal,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-SEP-2023,502-6643,4c5d1bb6fe957a3,Passenger Car,Highway / Freeway,10.0,Proceeding Straight,0,0,0,0,0,0,,0
-OCT-2023,29990-6637,ab4dcba1d2b9a80,"Other, see Narrative",Highway / Freeway,16.0,Proceeding Straight,0,0,0,0,0,0,,0
-OCT-2023,29990-6636,a42687001b49114,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-SEP-2023,502-6362,96cc6199101c0c8,SUV,Street,40.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-SEP-2023,540-6349,dfb3b8ba4b25e97,Other Fixed Object,Highway / Freeway,69.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-MAY-2022,1420-2863,c22466ef43a2751,Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,0
-SEP-2022,30571-3768,8cff765f7638c5a,SUV,Street,1.0,Parking Maneuver,1,0,0,0,0,0,0.0,0
-APR-2025,502-10575,df3c60e566d896b,Animal,Highway / Freeway,74.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-JUN-2025,13781-11069,e0c2fb9c75134d4,Passenger Car,Intersection,37.0,Proceeding Straight,0,1,1,0,0,0,1.0,1
-JUN-2022,1243-4332,894dc150897986e,Animal,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-SEP-2022,753-3912,e76027a3400d129,SUV,Highway / Freeway,16.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-APR-2025,13781-10417,7f324efe3a44afe,Motorcycle,Highway / Freeway,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2021,13781-3900,b1051e5d6cc60be,"Other, see Narrative",Street,0.0,Stopped,0,1,0,0,0,0,0.0,1
-DEC-2022,540-4483,7555ff35f8982d9,SUV,Highway / Freeway,65.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-FEB-2025,1243-10019,7304edfcca512b9,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2022,502-3744,e11fa1ed0a55cec,SUV,Highway / Freeway,0.0,Stopped,0,1,0,0,0,0,1.0,1
-SEP-2020,13781-3847,01d6cd8be0b5d87,Non-Motorist: Pedestrian,Street,30.0,Lane / Road Departure,0,1,1,0,0,0,1.0,1
-AUG-2022,13781-3713,74537aa48a07834,Motorcycle,Street,97.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2022,13781-3710,91e8070901c957c,"Other, see Narrative",Highway / Freeway,8.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2022,13781-4604,b5560e46de8fafe,Other Fixed Object,Highway / Freeway,21.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
-DEC-2022,13781-4599,5e7093f74d2bfa6,"Other, see Narrative",Highway / Freeway,77.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2025,13781-10696,7572d1e8b25c57c,Van,Street,16.0,"Other, see Narrative",0,1,0,0,0,0,1.0,0
-JUL-2022,13781-3488,3635b7af78f1bb8,Motorcycle,Highway / Freeway,61.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-NOV-2022,855-4921,952347292400952,Other Fixed Object,Highway / Freeway,86.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-MAY-2025,13781-10735,a5cf15a38f2a568,Other Fixed Object,Parking Lot,12.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
-JUL-2022,13781-3327,d4b6a3297c7a63c,Heavy Truck,Parking Lot,64.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-FEB-2023,13781-4963,25c1c827105b0d2,First Responder Vehicle,Highway / Freeway,71.0,Proceeding Straight,0,0,0,0,0,0,,1
-APR-2025,1243-10832,988de915957a266,"Other, see Narrative",Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAR-2023,13781-5100,ab0b7770c2dcdf4,Non-Motorist: Pedestrian,Highway / Freeway,48.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-FEB-2023,1306-5139,bd71a63efa49efd,Other Fixed Object,Highway / Freeway,30.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
-MAR-2023,1243-5133,e0d4d01de38df67,Animal,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAR-2023,13781-5165,3d2eef72e8b35e6,Pickup Truck,Street,47.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAR-2023,1243-5197,e3b1ffa6477128d,"Other, see Narrative",Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,0
-MAY-2025,502-10922,1da1495aff4459a,Other Fixed Object,Highway / Freeway,84.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-APR-2023,945-5351,d73f2321a5bbc07,Pole / Tree,Highway / Freeway,74.0,Proceeding Straight,0,0,0,0,0,0,,1
-APR-2023,13781-5372,d7c3a14284da01d,Pickup Truck,Highway / Freeway,48.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2021,13781-5609,c388a5e94b7cb91,Heavy Truck,Highway / Freeway,63.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUN-2023,13781-5685,71c10fe732e7ecd,Non-Motorist: Pedestrian,Intersection,44.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-JUN-2023,13781-5806,71d72ee1e3efa07,Heavy Truck,Intersection,22.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-MAR-2022,13781-2543,2ea955a0e92e370,Other Fixed Object,Street,20.0,Making Right Turn,1,0,0,0,0,0,0.0,1
-JUN-2023,13781-5785,df242ae7d3f8981,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUL-2023,13781-5835,364a5bff8604eff,Passenger Car,Street,43.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-FEB-2022,540-2375,07213bfb9b1eeb2,Other Fixed Object,Highway / Freeway,70.0,Lane / Road Departure,0,1,0,0,0,0,0.0,1
-JUL-2023,13781-5996,02cd7470daf14dd,Heavy Truck,Highway / Freeway,56.0,Proceeding Straight,0,0,0,0,0,0,,1
-AUG-2023,1306-6035,e95298e89e7f7b9,Other Fixed Object,Highway / Freeway,85.0,Proceeding Straight,0,0,0,0,0,0,,0
-SEP-2023,540-6486,e4f2f47a06c4211,Other Fixed Object,Highway / Freeway,70.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-NOV-2020,855-6376,2297505e52a8d2e,Passenger Car,Highway / Freeway,68.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
-FEB-2022,502-2354,0c245b93719a23b,Heavy Truck,Intersection,35.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-NOV-2023,273-6769,353c33e374361bd,Other Fixed Object,Highway / Freeway,65.0,"Other, see Narrative",0,0,0,0,0,0,,0
-DEC-2023,13781-6922,00e99ccfa906468,Pickup Truck,Highway / Freeway,47.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JAN-2024,29990-7002,1549a2b0df99682,Other Fixed Object,Highway / Freeway,77.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2023,1243-6797,8e641eb732c117b,Other Fixed Object,Street,42.0,Proceeding Straight,0,1,1,0,0,0,1.0,1
-OCT-2023,753-7109,e0d690170f9260a,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-OCT-2023,753-7087,e59a15746951989,"Other, see Narrative",Highway / Freeway,75.0,Proceeding Straight,0,0,1,0,0,0,1.0,0
-MAR-2024,540-7305,83d0dfe05d5b33e,Heavy Truck,Street,61.0,Proceeding Straight,0,0,0,0,0,0,0.0,0
-NOV-2021,13781-2200,a6f20955dfd337e,Pole / Tree,Street,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-FEB-2024,1243-7108,cc6f7f92106966f,Other Fixed Object,Rural Road,45.0,Proceeding Straight,0,1,1,0,0,0,1.0,1
-APR-2024,13781-7574,ae204cfacc3157a,Non-Motorist: Pedestrian,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-APR-2024,540-7451,848bcbb5694b024,Other Fixed Object,Highway / Freeway,50.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-DEC-2021,13781-1913,eaef72b3191f510,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
-MAR-2024,1243-7274,00363b910ec53c3,Other Fixed Object,Highway / Freeway,62.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2023,13781-8004,3992b4e2e6ccdd3,Non-Motorist: Pedestrian,Highway / Freeway,55.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-OCT-2023,1243-7991,20c098e1e824830,Heavy Truck,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUN-2024,753-8012,b5bd0d05e74ed47,Pole / Tree,Highway / Freeway,29.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-JUN-2024,1243-8010,eb525e8cb7c728c,Other Fixed Object,Highway / Freeway,77.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUL-2024,1420-8202,13ed34314ee21fc,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,0,0,1,0,0,0,1.0,0
-JUN-2024,1243-8206,4fd7b9d7a56311c,Pole / Tree,Street,30.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUL-2024,540-8239,280827e5995a8b1,Heavy Truck,Highway / Freeway,82.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2024,13781-8429,1f849538301e456,Passenger Car,Highway / Freeway,3.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-AUG-2024,13781-8497,3c3af980a9b791f,Passenger Car,Intersection,17.0,Making Left Turn,1,0,0,0,0,0,0.0,1
-SEP-2024,13781-8487,063cae674ae2b58,Passenger Car,Highway / Freeway,0.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-AUG-2024,1243-8299,0db909c46b6a393,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,0,1,1,0,0,0,1.0,0
-AUG-2024,1243-8428,386e5d2e42c622c,Other Fixed Object,Street,53.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-SEP-2024,10561-8671,80ff8512cc95537,SUV,Intersection,28.0,Making Left Turn,1,0,0,0,0,0,0.0,1
-SEP-2024,1243-8675,e1733c89d4f6cac,"Other, see Narrative",Highway / Freeway,80.0,Passing,1,0,0,0,0,0,0.0,1
-AUG-2024,1243-8486,b0d904f672fe0c9,Other Fixed Object,Rural Road,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2024,540-8472,23b24735ea3a59b,Other Fixed Object,Highway / Freeway,72.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
-OCT-2024,502-8946,84e83dbc5d44f80,Animal,Highway / Freeway,50.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2024,13781-7767,d009bc2b819df8c,Other Fixed Object,Rural Road,28.0,Proceeding Straight,0,1,0,0,0,1,0.0,1
-SEP-2024,1420-8520,e56b821797ec16c,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,0,0,0,0,0,0,,0
-SEP-2024,502-8738,75d100ead986d3d,Passenger Car,Highway / Freeway,15.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2024,13781-9322,e58a01665236bc5,"Other, see Narrative",Highway / Freeway,99.0,Lane / Road Departure,0,0,1,0,0,0,1.0,1
-DEC-2024,540-9542,562629975f0a71f,Passenger Car,Highway / Freeway,18.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2024,855-9284,e2e4488c02b1aa4,Passenger Car,Intersection,24.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2024,1243-9301,5c15effac490b52,Pole / Tree,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JAN-2025,13781-9758,af64d45ca504b96,Passenger Car,Highway / Freeway,69.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-NOV-2024,62-9163,f3245ceb593b999,"Other, see Narrative",Street,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-OCT-2024,10039-9844,42285db4ec287dc,SUV,Highway / Freeway,22.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-FEB-2025,13781-9861,0b944212c10e71a,Van,Intersection,0.0,Stopped,1,0,0,0,0,0,1.0,1
-NOV-2024,1243-9477,1f8d110f4aef8c4,Passenger Car,Highway / Freeway,79.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2024,1243-9613,93fc057bba56021,Pickup Truck,Intersection,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2021,13781-10092,72162ab55fbebc7,Passenger Car,Highway / Freeway,70.0,Changing Lanes,1,0,0,0,0,0,0.0,1
-FEB-2025,29990-10074,dfa3d9b4699e2b5,Heavy Truck,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAR-2025,13781-10183,88a305c8b3e7dd4,"Other, see Narrative",Highway / Freeway,47.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-MAR-2025,13781-10333,5530686c32de26e,"Other, see Narrative",Street,34.0,Making Left Turn,1,0,0,0,0,0,0.0,1
-JAN-2025,13781-9996,71fc7c913ab91c2,Other Fixed Object,Parking Lot,8.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-MAR-2025,13781-10181,fc3f6183eff4d86,"Other, see Narrative",Street,107.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-FEB-2025,13781-10262,387ab08a90ed106,"Other, see Narrative",Street,29.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-MAY-2022,10039-3997,b0d7623135b08c0,Pole / Tree,Highway / Freeway,82.0,Proceeding Straight,1,0,0,0,0,0,,1
-NOV-2022,1243-4347,c3b2045819f83ab,Pickup Truck,Highway / Freeway,84.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUL-2024,13781-8178,817f29e219971fc,Non-Motorist: Cyclist,Intersection,1.0,Making Left Turn,1,0,0,0,0,0,0.0,1
-NOV-2021,1243-1955,df0e18d70ba7e9e,Animal,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-FEB-2025,1243-10331,fe761d5cc9ce585,"Other, see Narrative",Rural Road,69.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2021,1243-1945,931074479192043,Animal,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2022,1243-4601,6a6aea1b877acf7,Pickup Truck,Highway / Freeway,67.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAR-2022,753-3117,b6b2fb8eb56b835,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2022,1243-3278,ffaee496513b6b3,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
-JAN-2022,855-2377,3c07d2d05ae1aee,Other Fixed Object,Highway / Freeway,75.0,"Other, see Narrative",0,0,0,0,0,0,1.0,0
-FEB-2024,502-7195,32f0f76708cbe89,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,0,0,0,0,0,0,,1
-NOV-2022,1243-4978,2115df22db57e5a,"Other, see Narrative",Highway / Freeway,74.0,Proceeding Straight,1,0,0,0,0,0,,1
-MAR-2025,13781-10132,f95e95e04341298,Passenger Car,Street,1.0,"Other, see Narrative",0,1,0,0,0,0,0.0,1
-JUL-2024,1243-8194,4304b030a6af69f,Pickup Truck,Rural Road,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUL-2024,540-8051,82ac1729a8bf0dc,"Other, see Narrative",Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUN-2024,540-7971,dcbb9f51d668572,Heavy Truck,Highway / Freeway,39.0,Proceeding Straight,0,0,0,0,0,0,0.0,0
-SEP-2024,13781-8523,7f76a915872d78b,SUV,Highway / Freeway,51.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-SEP-2021,1243-1246,e537827d2d65439,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-FEB-2024,1243-7252,934233e20498578,"Other, see Narrative",Rural Road,30.0,Proceeding Straight,0,1,0,0,1,0,0.0,1
-MAR-2024,1243-7279,5309d9f337e9e86,SUV,Intersection,50.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAR-2024,502-7426,5568200e85fa64f,Passenger Car,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAR-2024,62-7319,90b0f7119a3b622,Heavy Truck,Highway / Freeway,78.0,Proceeding Straight,0,0,0,0,0,0,0.0,0
-MAY-2024,855-7779,05f90519b036c38,"Other, see Narrative",Intersection,57.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-MAR-2025,10039-10291,80af11971012830,Other Fixed Object,Highway / Freeway,75.0,Changing Lanes,1,0,0,0,0,0,0.0,1
-APR-2022,13781-2639,410349554bfcd70,Pickup Truck,Highway / Freeway,58.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUN-2024,1243-7850,d9ce64a922ea4f1,"Other, see Narrative",Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2023,13781-8295,cfbfb7ef9b9b790,Other Fixed Object,Highway / Freeway,74.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-APR-2023,669-5249,9bd33750093f115,Other Fixed Object,Highway / Freeway,50.0,Proceeding Straight,0,0,0,0,0,0,,0
-FEB-2025,753-10358,a4080bf926ba2bb,SUV,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2021,1243-1208,20dec0e229a6059,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-NOV-2023,753-6807,c056abb2e4a7249,Heavy Truck,Highway / Freeway,65.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-JUL-2024,855-8237,cfab9a682f56766,Other Fixed Object,Street,46.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-APR-2024,13781-7567,d64f2f7824d7f5f,Motorcycle,Highway / Freeway,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2023,10039-6771,0fab32ab3e6ced6,Other Fixed Object,Highway / Freeway,72.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
-JUL-2021,10039-8,1caf6655a0d623e,"Other, see Narrative",Highway / Freeway,57.0,Changing Lanes,0,0,0,0,0,0,,1
-SEP-2024,10039-9040,a0027274e716a33,"Other, see Narrative",Rural Road,63.0,Proceeding Straight,0,0,0,0,0,0,,1
-DEC-2023,753-6931,d2b91431230e17e,"Other, see Narrative",Highway / Freeway,77.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-JUL-2021,1243-38,0d300a426ad3ee5,Animal,Highway / Freeway,65.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-MAR-2023,10039-5057,c39062638c4bc4c,Van,Highway / Freeway,84.0,Proceeding Straight,0,0,0,0,0,0,,1
-MAR-2024,28349-7362,6b67a2912adcb2e,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,,0
-JUL-2022,1243-3681,68b9212338077cd,Other Fixed Object,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-AUG-2021,1243-1042,1cc7b603c8e30f5,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2022,10039-4636,5e2e6831c0f278a,Other Fixed Object,Highway / Freeway,70.0,Lane / Road Departure,0,0,0,0,0,0,,1
-DEC-2022,1243-4796,40981d31dbf8993,SUV,Street,45.0,Proceeding Straight,0,1,0,0,0,0,1.0,1
-MAR-2025,273-10308,361ef1841133f75,"Other, see Narrative",Highway / Freeway,70.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-FEB-2023,1243-4930,cee51edc6bfaf71,Heavy Truck,Rural Road,45.0,"Other, see Narrative",0,1,0,0,0,0,,0
-JAN-2023,12381-4852,e6bea3e50eaf542,Heavy Truck,Highway / Freeway,68.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2023,10039-6833,dd9ce4e15764e8f,Other Fixed Object,Highway / Freeway,59.0,Proceeding Straight,0,0,0,0,0,1,,0
-OCT-2021,1243-1392,c23000d2e8b4e40,Passenger Car,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-FEB-2024,502-7268,594a4ee91cc1b56,SUV,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-NOV-2021,28349-1805,4f2f2a2f3679797,Passenger Car,Highway / Freeway,69.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUL-2022,28349-3493,9f8c9085bb42640,Passenger Car,Highway / Freeway,70.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-MAY-2023,10039-6029,f9ac60f561cdde2,Other Fixed Object,Highway / Freeway,33.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
-AUG-2021,1243-1379,47c8f9f110f99a7,Heavy Truck,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-FEB-2023,10039-4932,aa89214715e1b1f,Passenger Car,Highway / Freeway,63.0,Lane / Road Departure,0,0,0,0,0,0,,0
-OCT-2022,753-4134,bad343affabf224,Other Fixed Object,Highway / Freeway,66.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-OCT-2021,1243-1582,7796765cf6c9f3f,Animal,Highway / Freeway,70.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-JUL-2026,30351-16121,d59eede598ffb49,"Other, see Narrative",Unknown,,Unknown,0,0,0,0,0,0,0.0,1
-JUL-2026,13781-16040,9a73429632f888e,Unknown,Unknown,45.0,Unknown,1,0,0,0,0,0,0.0,0
-JUN-2026,13781-15610,52c1e6bd6cb5f1f,Non-Motorist: Cyclist,Unknown,,Unknown,0,0,0,0,0,0,0.0,1
-APR-2026,13781-15109,a6c0a9ab26d7511,Unknown,Unknown,42.0,Unknown,0,0,0,0,0,0,0.0,1
-JUL-2025,13781-11318,e446bcdc9f6474d,Unknown,Unknown,4.0,Unknown,0,0,0,0,0,0,0.0,1
-DEC-2025,13781-13332,0e480914ed926d9,Unknown,Unknown,55.0,Unknown,0,0,0,0,0,0,0.0,1
-OCT-2025,13781-12071,ede1289722aae9c,Unknown,Unknown,8.0,Unknown,0,0,0,0,0,0,0.0,1
-OCT-2025,13781-12001,8c60f63d75b3602,Unknown,Unknown,14.0,Unknown,0,0,0,0,0,0,0.0,1
-JUL-2025,13781-11319,4055eb83316864d,Unknown,Unknown,102.0,Unknown,0,0,0,0,0,0,0.0,1
-MAR-2025,13781-10357,94457d8030ad48c,Unknown,Unknown,51.0,Unknown,0,0,0,0,0,0,0.0,1
-JAN-2026,13781-13791,b6a2fcd6b834efe,Unknown,Unknown,56.0,Unknown,0,0,0,0,0,0,0.0,1
-JUN-2026,273-15548,68dafe933867f2a,"Other, see Narrative",Unknown,,Unknown,0,0,0,0,0,0,0.0,1
-DEC-2025,13781-13496,2df5f9bfb19d510,Unknown,Unknown,68.0,Unknown,0,0,0,0,0,0,0.0,1
+AUG-2021,62-1760,6db8d177424c49a,Unknown,Intersection,,Making Right Turn,0,0,0,0,0,0,,1
+MAY-2024,13781-8068,b96635ea94645a6,SUV,Street,,Unknown,0,0,0,0,0,0,,1
+MAY-2025,13781-10870,4508d0446acb248,Other Fixed Object,Unknown,21.0,Unknown,0,0,0,0,0,0,,0
+NOV-2021,62-1944,b94f3e870460e65,Unknown,Intersection,,Proceeding Straight,0,0,0,0,0,0,,1
+NOV-2022,13781-4290,5b0e189c8c2a217,Unknown,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,0
+,1306-4283,,Other Fixed Object,Unknown,,Proceeding Straight,0,0,0,0,0,0,,0
+OCT-2022,855-4093,fe972d0186a8be5,Other Fixed Object,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
+OCT-2022,273-4346,83d7693f68a21be,Animal,Unknown,,Proceeding Straight,0,0,0,0,0,0,0.0,1
+APR-2025,13781-10553,31ef95da16c6114,Other Fixed Object,Unknown,73.0,Unknown,0,0,0,0,0,0,,1
+OCT-2022,13781-4606,2f59fa79b6146a2,Unknown,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
+MAY-2022,13781-3279,459d5c1dbb265c1,Non-Motorist: Pedestrian,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
+JUL-2021,13781-21,ec246513f5a48c7,Non-Motorist: Pedestrian,Unknown,46.0,Unknown,0,0,0,0,0,0,,1
+MAY-2022,13781-2924,11e581134e866ce,"Other, see Narrative",Highway / Freeway,,Unknown,1,0,0,0,0,0,,0
+JUN-2023,13781-5673,b32fd7656a22d5a,Pole / Tree,Highway / Freeway,,Unknown,0,0,0,0,0,0,,1
+MAR-2023,13781-5664,b8a74160808c8ee,Pole / Tree,Highway / Freeway,,Unknown,1,0,0,0,0,0,0.0,1
+JUN-2023,842-5787,e1abfb7b9ed3566,Unknown,Unknown,20.0,Proceeding Straight,0,0,0,0,0,0,,0
+MAR-2025,13781-10369,d8c8430f633d7ac,"Other, see Narrative",Unknown,32.0,Unknown,1,0,0,0,0,0,,0
+MAR-2025,669-10204,50678d1cd759a85,Pole / Tree,Unknown,,Lane / Road Departure,0,0,0,0,0,0,,0
+FEB-2025,13781-9998,15e97714d458205,Other Fixed Object,Unknown,39.0,Unknown,1,0,0,0,0,0,,0
+AUG-2021,62-1370,045cf7934115d4b,Unknown,Intersection,,Proceeding Straight,0,0,0,0,0,0,,0
+JAN-2025,13781-9618,9b8102aa8f025a5,Other Fixed Object,Unknown,4.0,Unknown,0,0,0,0,0,0,,0
+NOV-2024,13781-9445,a54f3dd3cdaf781,Other Fixed Object,Unknown,56.0,Unknown,0,0,0,0,0,0,,0
+OCT-2024,13781-8989,b517cdf35b15e2e,Other Fixed Object,Unknown,67.0,Unknown,0,0,0,0,0,0,,0
+AUG-2024,13781-8836,fdbe2fe03e28cce,Other Fixed Object,Unknown,20.0,Unknown,0,0,0,0,0,0,,0
+OCT-2021,62-1590,93584ba02779625,Animal,Unknown,60.0,Unknown,0,0,0,0,0,0,,1
+SEP-2024,13781-8708,4840c659796376e,Other Fixed Object,Unknown,48.0,Unknown,0,0,0,0,0,0,,0
+AUG-2024,13781-8706,35cac7098fcffd0,Other Fixed Object,Unknown,30.0,Unknown,0,0,0,0,0,0,,0
+JUL-2021,62-1636,a8fc8fda3dfeaf8,Unknown,Intersection,,Making Right Turn,1,0,0,0,0,0,,1
+DEC-2020,62-1623,2c1c6e38e9cf0ff,Unknown,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,0
+JUL-2024,13781-8213,9da0380f061cf9a,Pole / Tree,Unknown,19.0,Unknown,0,0,0,0,0,0,,0
+NOV-2021,62-1803,c2519a0d511dd6b,Unknown,Street,,Making Left Turn,0,0,0,0,0,0,,0
+MAY-2025,29990-11089,5b816ee39d07662,Other Fixed Object,Unknown,,Lane / Road Departure,0,0,0,0,0,0,,0
+MAY-2025,13781-10904,c2521c8f5d6ff57,Other Fixed Object,Unknown,65.0,Unknown,0,0,0,0,0,0,,0
+AUG-2023,13781-6046,ef60947707014ad,Other Fixed Object,Unknown,34.0,Unknown,0,0,0,0,0,0,0.0,1
+APR-2025,13781-10567,72859a1a1f6cb8c,Other Fixed Object,Unknown,53.0,Unknown,0,0,0,0,0,0,,0
+MAR-2025,13781-10413,9b01cc7d041141d,Other Fixed Object,Unknown,12.0,Unknown,0,0,0,0,0,0,,0
+,502-10398,,Other Fixed Object,Unknown,,"Other, see Narrative",0,0,0,0,0,0,,0
+MAR-2025,13781-10390,115c71688f3f627,Other Fixed Object,Highway / Freeway,,Unknown,0,0,1,0,0,0,1.0,0
+APR-2025,13781-10521,e02f4347e0da017,Other Fixed Object,Unknown,33.0,Unknown,0,0,0,0,0,0,,0
+MAR-2025,29990-10423,8f0798f39255eef,Unknown,Highway / Freeway,73.0,Unknown,0,0,0,0,0,0,,0
+MAR-2025,13781-10386,8288307377661f6,"Other, see Narrative",Parking Lot,,Unknown,0,0,0,0,0,0,0.0,1
+MAR-2025,13781-10310,596287172a74fd6,Other Fixed Object,Unknown,36.0,Unknown,0,0,0,0,0,0,,0
 JUL-2026,13781-15884,f9fb086021a7581,Pole / Tree,Unknown,52.0,Unknown,0,0,0,0,0,0,0.0,1
 MAY-2026,1243-15288,67cefb1d06ab45e,Unknown,Rural Road,60.0,Unknown,1,0,0,0,0,0,0.0,0
 JUN-2025,13781-11267,bd75ea3d4b27d42,Passenger Car,Unknown,38.0,Unknown,0,0,0,0,0,0,0.0,1
@@ -406,9 +116,25 @@ MAR-2024,13781-13588,5763c67cab15d15,Heavy Truck,Unknown,75.0,Unknown,0,0,0,0,0,
 JAN-2025,13781-13432,ec148f36c2a7bf1,Unknown,Highway / Freeway,,Changing Lanes,0,0,0,0,0,0,0.0,1
 APR-2025,13781-13380,34fea265ddb1b41,Pole / Tree,Unknown,123.0,Unknown,0,0,0,0,0,0,0.0,1
 JAN-2023,62-11747,7beea0a699b261c,Heavy Truck,Unknown,,Proceeding Straight,0,0,0,0,0,0,0.0,1
-AUG-2023,13781-6046,ef60947707014ad,Other Fixed Object,Unknown,34.0,Unknown,0,0,0,0,0,0,0.0,1
 APR-2025,13781-10698,caab1e4cdbb496e,Unknown,Street,22.0,Unknown,1,0,0,0,0,0,0.0,0
 MAY-2026,945-15066,58f90c8076f6695,Other Fixed Object,Highway / Freeway,,Unknown,1,0,0,0,0,0,0.0,1
+JUN-2026,28349-15579,b25e5d2817adedb,Unknown,Rural Road,76.0,"Other, see Narrative",0,1,0,0,0,0,0.0,0
+OCT-2025,540-12010,193dd663cd48059,SUV,Highway / Freeway,43.0,Unknown,0,0,0,0,0,0,0.0,1
+NOV-2025,1243-13355,84d77c9c7524473,Passenger Car,Intersection,,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2025,540-13253,6a69a878b8c0946,Unknown,Highway / Freeway,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2025,540-13272,83d3ac598a88753,Unknown,Highway / Freeway,24.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+NOV-2025,669-13213,bd67858336ce5c6,Pole / Tree,Street,,"Other, see Narrative",0,0,0,0,0,1,0.0,0
+NOV-2025,502-13158,bbded825d0bf8d5,Pickup Truck,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2023,62-11741,d58d380762e5280,Other Fixed Object,Unknown,78.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+JUL-2025,13781-11411,d3cd9fab8c74525,Motorcycle,Rural Road,49.0,Unknown,1,0,0,0,0,0,0.0,1
+AUG-2025,13781-11641,5177a6e9cb6800b,Other Fixed Object,Highway / Freeway,,Lane / Road Departure,0,0,1,0,0,0,1.0,1
+AUG-2025,1306-11630,485aa415245e032,Passenger Car,Intersection,,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+JUL-2025,669-11416,c461f97ecc467d2,Passenger Car,Highway / Freeway,,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+AUG-2025,945-11574,1870d17d5f0663e,SUV,Street,78.0,Unknown,0,0,0,0,0,0,0.0,1
+JUL-2025,13781-11320,17286859b736579,Other Fixed Object,Highway / Freeway,69.0,Unknown,0,0,0,0,0,0,0.0,1
+SEP-2025,1243-14138,16ded2b196bf3e0,Passenger Car,Street,,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+JUN-2026,10039-15589,c955f8dff107726,Animal,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,0.0,0
+JUL-2026,13781-16013,f7e9220debf341b,"Other, see Narrative",Highway / Freeway,54.0,Unknown,0,0,0,0,0,0,0.0,1
 JUN-2025,13781-11197,d40b01f9dbfb402,Other Fixed Object,Highway / Freeway,59.0,Unknown,0,1,0,0,0,0,0.0,1
 JUL-2026,13781-15982,1392dd969828dd0,"Other, see Narrative",Highway / Freeway,50.0,Unknown,1,0,0,0,0,0,0.0,1
 JUL-2026,855-15937,ed500b291a63335,Other Fixed Object,Intersection,,Proceeding Straight,1,0,0,0,0,0,0.0,1
@@ -423,179 +149,443 @@ MAR-2026,13781-14659,d7ae93ed0954daa,Non-Motorist: Pedestrian,Intersection,,Maki
 FEB-2026,30351-14668,f8d061969c72606,First Responder Vehicle,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,0.0,1
 JUL-2025,13781-11293,d55bc4a0d82cc43,Other Fixed Object,Rural Road,46.0,Unknown,0,0,0,0,0,0,0.0,0
 JUL-2025,502-11301,51e741ffe56b495,Animal,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2025,1243-13355,84d77c9c7524473,Passenger Car,Intersection,,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2025,540-13253,6a69a878b8c0946,Unknown,Highway / Freeway,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2025,540-13272,83d3ac598a88753,Unknown,Highway / Freeway,24.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-NOV-2025,669-13213,bd67858336ce5c6,Pole / Tree,Street,,"Other, see Narrative",0,0,0,0,0,1,0.0,0
-NOV-2025,502-13158,bbded825d0bf8d5,Pickup Truck,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2023,62-11741,d58d380762e5280,Other Fixed Object,Unknown,78.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-JUL-2025,13781-11411,d3cd9fab8c74525,Motorcycle,Rural Road,49.0,Unknown,1,0,0,0,0,0,0.0,1
-AUG-2025,13781-11641,5177a6e9cb6800b,Other Fixed Object,Highway / Freeway,,Lane / Road Departure,0,0,1,0,0,0,1.0,1
-AUG-2025,1306-11630,485aa415245e032,Passenger Car,Intersection,,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-JUL-2025,669-11416,c461f97ecc467d2,Passenger Car,Highway / Freeway,,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-AUG-2025,945-11574,1870d17d5f0663e,SUV,Street,78.0,Unknown,0,0,0,0,0,0,0.0,1
-SEP-2024,13781-8843,42bcedb0f9645c1,Other Fixed Object,Highway / Freeway,46.0,Unknown,0,0,0,0,0,0,0.0,0
-JUL-2025,13781-11320,17286859b736579,Other Fixed Object,Highway / Freeway,69.0,Unknown,0,0,0,0,0,0,0.0,1
-SEP-2025,1243-14138,16ded2b196bf3e0,Passenger Car,Street,,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-JUN-2026,10039-15589,c955f8dff107726,Animal,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,0.0,0
-JUL-2026,13781-16013,f7e9220debf341b,"Other, see Narrative",Highway / Freeway,54.0,Unknown,0,0,0,0,0,0,0.0,1
-JUN-2026,28349-15579,b25e5d2817adedb,Unknown,Rural Road,76.0,"Other, see Narrative",0,1,0,0,0,0,0.0,0
-MAY-2025,13781-10930,bd3d3bc392b91a4,SUV,Intersection,50.0,Unknown,1,0,0,0,0,0,0.0,1
-OCT-2025,540-12010,193dd663cd48059,SUV,Highway / Freeway,43.0,Unknown,0,0,0,0,0,0,0.0,1
-AUG-2026,855-16213,95685c066d199f2,Passenger Car,Street,34.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2026,1243-16267,8245875f78bd486,Animal,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAY-2025,13781-11155,3986221d84cc6a3,Passenger Car,Highway / Freeway,27.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUN-2025,540-11150,c73a1df8892573b,Animal,Highway / Freeway,61.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-JUN-2025,540-11168,4df5c475343c886,SUV,Highway / Freeway,24.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-AUG-2026,540-16095,14520327a0bc454,Pole / Tree,Highway / Freeway,66.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-JUL-2026,273-16092,f5a6d089c583859,"Other, see Narrative",Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUL-2026,13781-16079,265b5df2758d681,Non-Motorist: Cyclist,Intersection,21.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-APR-2026,10039-16087,24bfc281aa9a431,SUV,Rural Road,68.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUL-2026,273-16086,7b420566a06e9ef,Other Fixed Object,Highway / Freeway,72.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
-JUL-2026,273-16088,df99c68d8524216,"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-JUL-2026,1243-16017,c0aa04f696ade4b,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,0,0,0,0,0,1,0.0,1
-JUL-2026,13781-15981,af639fc011fc437,Non-Motorist: Cyclist,Intersection,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUL-2026,540-15936,43fd8ca3d13aef4,Other Fixed Object,Highway / Freeway,83.0,Lane / Road Departure,0,0,0,0,0,0,0.0,1
-JUL-2026,540-15935,05d24367f1074e0,"Other, see Narrative",Rural Road,61.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-JUL-2026,540-15905,c35831395c30fb6,Pole / Tree,Street,12.0,Lane / Road Departure,0,0,0,0,0,0,0.0,1
-JUL-2026,13781-15881,73c23db4d8ff6f0,Motorcycle,Intersection,20.0,Making Left Turn,1,0,0,0,0,0,0.0,1
-JUL-2026,540-15816,8ecec98bd714e17,Passenger Car,Rural Road,62.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-JUL-2026,29990-15821,b570ac5f39e514c,Passenger Car,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUL-2026,1306-15727,0391b2e00c73255,Other Fixed Object,Highway / Freeway,78.0,Proceeding Straight,0,0,1,0,0,0,0.0,1
-JUN-2026,753-15556,eb09e38614a7947,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,0,0,0,1,0,0,1.0,1
-MAY-2026,10039-15499,9ff6302b3ec5679,"Other, see Narrative",Highway / Freeway,85.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-FEB-2026,13781-15462,11885c3420b8c14,Heavy Truck,Street,27.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-JUN-2025,13781-11242,846e5984bd68a7c,Passenger Car,Highway / Freeway,43.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUN-2026,753-15357,2ac4db5960a4cce,Passenger Car,Highway / Freeway,56.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2026,13781-15265,a60bcedc6a3afb0,SUV,Intersection,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-MAY-2026,13781-15210,bbe7d64292a5615,Bus,Intersection,12.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-SEP-2025,855-15181,4d78a2afe2695d1,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAY-2026,30571-15197,e2032218f67eda1,Passenger Car,Street,35.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAY-2026,13781-15199,0cb9337363e66f9,Non-Motorist: Pedestrian,Street,1.0,Backing,0,1,0,0,0,0,0.0,0
-MAY-2026,502-15072,7af87dcf8b53df1,SUV,Highway / Freeway,8.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-APR-2026,10039-14963,a007315451fa04a,Passenger Car,Highway / Freeway,67.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAR-2026,669-14892,9874404bac52998,"Other, see Narrative",Highway / Freeway,40.0,"Other, see Narrative",0,0,0,0,0,0,0.0,1
-APR-2026,753-14771,517a9ff9b5f2195,Passenger Car,Highway / Freeway,70.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-FEB-2026,10039-14855,abacd503f95382e,Heavy Truck,Highway / Freeway,65.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-MAR-2026,30270-14303,0d2e4c8f2834432,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
-MAR-2026,13781-14552,3db8fd56638b533,Pickup Truck,Intersection,24.0,Making Left Turn,0,1,0,0,0,0,0.0,1
-MAR-2026,540-14347,e9237c148efee91,Heavy Truck,Highway / Freeway,57.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
-MAR-2026,34971-14386,f39f8157b9d5883,Passenger Car,Highway / Freeway,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAR-2026,502-14293,d2c19a868d17473,Other Fixed Object,Highway / Freeway,78.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2025,10039-14285,33822617cd21c71,Pole / Tree,Rural Road,71.0,Lane / Road Departure,0,0,0,0,0,0,0.0,1
-MAR-2026,540-14288,5642f38b7e69019,"Other, see Narrative",Highway / Freeway,56.0,"Other, see Narrative",0,0,1,0,0,0,0.0,0
-FEB-2026,1243-14245,a102af9eb6ae8d5,"Other, see Narrative",Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAR-2026,502-14241,dd41383c218fede,Animal,Highway / Freeway,74.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-FEB-2026,13781-14210,124aca3c6cc0ba1,"Other, see Narrative",Highway / Freeway,38.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-JUL-2025,13781-14165,22007de83a9ee11,Passenger Car,Highway / Freeway,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JAN-2026,540-13946,5cc2c95fd6600cb,Pole / Tree,Highway / Freeway,23.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-JAN-2026,540-13813,2a38a3c8429da01,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-NOV-2025,1306-13609,3ceeaa7fe9e451d,Other Fixed Object,Intersection,50.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-FEB-2025,540-13555,0338d6f744e8109,Pickup Truck,Highway / Freeway,54.0,Proceeding Straight,0,1,1,0,0,0,1.0,1
-JAN-2026,540-13584,ee1f1ecc421f0e5,Animal,Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-DEC-2025,13781-13466,a65d2b40d37db9d,Heavy Truck,Highway / Freeway,47.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-DEC-2025,13781-13465,335ccd0a0db8c03,Pickup Truck,Street,2.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-JUL-2025,753-11366,f3693ea3bd83276,Pole / Tree,Highway / Freeway,67.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-DEC-2025,13781-13319,1299584673dc0b5,Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
-DEC-2025,13781-13330,5083b485cd96216,Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
-NOV-2025,13781-13265,924172f81d4e499,Heavy Truck,Highway / Freeway,47.0,"Other, see Narrative",0,0,1,0,0,0,1.0,1
-NOV-2023,13781-13257,24be073056877e7,SUV,Street,66.0,Crossing into Opposing Lane,0,1,0,0,0,0,0.0,1
-OCT-2025,1243-13262,1abb7dc46e10e6c,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2025,13781-13208,23d237f80827f7f,Non-Motorist: Cyclist,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-OCT-2025,10039-13214,1ab2b4790cb2329,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-NOV-2025,13781-13149,144aafaa4aadcdc,"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
-NOV-2025,540-13168,c2e4e3535458682,Heavy Truck,Highway / Freeway,82.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-NOV-2025,540-13134,3c11baeadf9631b,Animal,Highway / Freeway,79.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-NOV-2025,540-13136,c9b65c53b9372e9,Animal,Highway / Freeway,74.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2025,13781-13103,e3ccd79e710f9ee,"Other, see Narrative",Street,3.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-OCT-2025,13781-13070,d8f12e4eff62b02,Pickup Truck,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,1
-OCT-2025,13781-11984,fe2fc458d749c2d,SUV,Highway / Freeway,56.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-SEP-2025,30351-11961,f657f0409ac3100,Passenger Car,Highway / Freeway,82.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-SEP-2025,13781-11872,02919351a57908a,Other Fixed Object,Street,27.0,Making Right Turn,1,0,0,0,0,0,0.0,1
-OCT-2025,13781-11878,482f59a2f13a3d6,Heavy Truck,Highway / Freeway,0.0,Stopped,0,0,0,0,0,0,0.0,1
-SEP-2025,13781-11796,943f6287807780d,Motorcycle,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
-SEP-2025,540-11830,dc5ba5348409c1b,Other Fixed Object,Highway / Freeway,51.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
-SEP-2025,13781-11785,e77ec1fc1728e57,Passenger Car,Highway / Freeway,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-SEP-2025,13781-11801,4b4ed6aae1f20c4,Passenger Car,Highway / Freeway,63.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-SEP-2025,13781-11735,7bbd7c47a2835b5,SUV,Street,0.0,Making Right Turn,0,1,0,0,0,0,0.0,1
-JAN-2023,62-11736,9e56196f6ae61a1,Other Fixed Object,Highway / Freeway,65.0,Making Right Turn,0,0,0,0,0,0,0.0,0
-SEP-2023,62-11740,76da735f7eb6e2d,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-SEP-2025,13781-11685,07b8c8e2fd32e4b,Animal,Highway / Freeway,64.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-JUL-2025,1420-11691,d7ae72170706591,Other Fixed Object,Highway / Freeway,85.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-JUN-2025,13781-11431,85a35a61de2067c,"Other, see Narrative",Highway / Freeway,35.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2025,13781-11585,17ac3decfeab82b,Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,1
-SEP-2025,540-11620,c3c78e18d1810f1,"Other, see Narrative",Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-AUG-2025,540-11570,a17d80112858244,"Other, see Narrative",Highway / Freeway,20.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-AUG-2025,753-11524,870f2ec6fb79488,Pole / Tree,Highway / Freeway,45.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-AUG-2025,13781-11492,a0202b1e608a499,Passenger Car,Street,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAR-2026,753-15460,0eb4b783717d46c,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-JUN-2025,540-11299,46dc888225f18e9,Other Fixed Object,Highway / Freeway,29.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
-MAY-2025,855-11008,3cc17f8b88e228f,Passenger Car,Highway / Freeway,48.0,Crossing into Opposing Lane,0,0,0,0,0,0,0.0,1
-JUN-2025,1243-11292,2734e8462c79cbd,Other Fixed Object,Highway / Freeway,80.0,Changing Lanes,1,0,0,0,0,0,0.0,0
-MAY-2025,855-11157,9f0533f85a6081e,Other Fixed Object,Highway / Freeway,70.0,"Other, see Narrative",0,0,1,0,0,0,1.0,1
-JUN-2025,753-11237,d2f25a83458c8e5,Passenger Car,Street,42.0,Proceeding Straight,0,1,0,0,0,0,1.0,1
-JUN-2025,502-11164,5e051d969411d79,SUV,Highway / Freeway,47.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUN-2025,1243-11191,0620973f89f74fb,Passenger Car,Highway / Freeway,70.0,Proceeding Straight,0,1,0,0,0,0,1.0,0
-MAY-2024,945-11423,6ad0222ea914201,SUV,Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-OCT-2025,540-11891,bdd452f395d1ea7,Pickup Truck,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-SEP-2025,12381-11624,9001d09cb13401d,Other Fixed Object,Highway / Freeway,68.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUL-2025,1243-11470,c0f75be10837269,"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2025,1306-11719,929786c080b2ce1,"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-OCT-2025,13781-12029,a572312702dd65a,Other Fixed Object,Highway / Freeway,68.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-AUG-2025,1243-11628,0cffa6c59a95c35,Other Fixed Object,Intersection,47.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2024,13781-9448,32bb09042cdeec2,Other Fixed Object,Street,16.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-DEC-2025,540-13446,095020482669c02,Heavy Truck,Intersection,43.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-AUG-2025,855-11626,a967ef6a578bd62,Other Fixed Object,Highway / Freeway,63.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
-SEP-2025,855-11714,f1f2a0e533ba2ed,Other Fixed Object,Highway / Freeway,72.0,Proceeding Straight,0,0,1,0,0,0,1.0,0
-SEP-2025,1243-11793,63538d947f1342f,Heavy Truck,Highway / Freeway,69.0,Proceeding Straight,0,0,0,0,0,1,0.0,1
-SEP-2025,540-11722,4abfcfe222150ec,Passenger Car,Highway / Freeway,57.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-OCT-2025,1243-12058,e1c5fb10a692a65,Passenger Car,Intersection,40.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-OCT-2025,1243-12006,bae354f585c8696,"Other, see Narrative",Intersection,58.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-JUN-2025,13781-11178,6e6084f0ed26c26,Heavy Truck,Highway / Freeway,18.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-DEC-2025,540-13273,04887ef5bde68f4,SUV,Highway / Freeway,85.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-NOV-2025,540-13200,d04b1f372271b29,"Other, see Narrative",Highway / Freeway,67.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-NOV-2025,669-13131,79660954854440d,"Other, see Narrative",Highway / Freeway,75.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-JUL-2025,753-11834,94b6db63b6fd782,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-SEP-2025,540-11788,db08959fb1aa3cb,"Other, see Narrative",Highway / Freeway,59.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-NOV-2025,540-13191,426b9d124d74852,Other Fixed Object,Highway / Freeway,53.0,Lane / Road Departure,0,0,0,0,0,0,0.0,1
-DEC-2025,13781-13299,75c5cdf7a47d90b,Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
-OCT-2025,12381-13784,111c814a88bb5a7,Other Fixed Object,Highway / Freeway,45.0,Lane / Road Departure,0,0,1,0,0,0,1.0,1
-JAN-2026,540-13637,c8f10d4d1243c2f,Other Fixed Object,Highway / Freeway,80.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-OCT-2025,10039-13368,5342e690698d92a,Passenger Car,Highway / Freeway,77.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-MAY-2026,12381-14900,d7f830634927755,Heavy Truck,Highway / Freeway,37.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-APR-2026,540-14872,d41b45fe914dc81,"Other, see Narrative",Highway / Freeway,71.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
-JAN-2026,753-13787,f34080175c7f665,Heavy Truck,Highway / Freeway,60.0,Merging,1,0,0,0,0,0,0.0,1
-FEB-2026,502-14139,2ecebb431907723,Other Fixed Object,Highway / Freeway,69.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-DEC-2025,540-13572,eb2183a6b8f6863,Other Fixed Object,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-DEC-2025,753-13580,1529eb548cf12b0,Passenger Car,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2025,1243-10981,b08fc13816ae0bd,Other Fixed Object,Highway / Freeway,69.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2025,13781-10939,dba0ac4f103cbae,Passenger Car,Intersection,34.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-DEC-2025,540-13577,f27767e2f6fb2d3,Other Fixed Object,Highway / Freeway,49.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-FEB-2026,62-14226,4552fa8853ed180,Pole / Tree,Street,25.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
-DEC-2025,540-13562,27d9b9eeff8a1ad,SUV,Highway / Freeway,81.0,Proceeding Straight,0,1,1,0,0,0,0.0,0
-MAR-2026,540-14273,ebef116f08ce0e1,Other Fixed Object,Highway / Freeway,50.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
-MAR-2026,1306-14367,2bbb6afecf94b0f,Pole / Tree,Highway / Freeway,78.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
-OCT-2025,1306-14873,8fa5fc58d189add,Other Fixed Object,Highway / Freeway,82.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-JUL-2026,502-16127,f15bd18438557ba,SUV,Highway / Freeway,59.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUN-2026,540-15343,936c1814f0592b9,Passenger Car,Highway / Freeway,68.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-JUN-2026,540-15407,1d8a4dbe15c64ee,Other Fixed Object,Highway / Freeway,78.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-OCT-2025,502-11893,1f61430dee8d5d9,Animal,Highway / Freeway,77.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-FEB-2026,502-14094,254d54c9ff1319e,Passenger Car,Street,34.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAR-2026,502-14437,957db53439b16cc,Other Fixed Object,Highway / Freeway,61.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-DEC-2025,502-13360,b7b2fed75c006c4,Passenger Car,Highway / Freeway,0.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
-APR-2026,753-14851,d09845b056e34d2,Passenger Car,Highway / Freeway,50.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-JUN-2026,13781-15588,b2223126007ec4f,Other Fixed Object,Street,73.0,Lane / Road Departure,0,1,0,0,0,0,0.0,1
-MAY-2026,540-15297,d15ddb9836c253f,Pickup Truck,Highway / Freeway,25.0,Lane / Road Departure,0,0,1,0,0,0,1.0,1
-JUN-2026,540-15496,526a5902b6d90c9,"Other, see Narrative",Rural Road,33.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-JUN-2026,540-15452,3aa97643f96d391,"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
-JUL-2026,10039-16122,5f2cf558e2e6897,Passenger Car,Highway / Freeway,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-JUN-2026,540-15341,8a8b66bc3a1febf,Other Fixed Object,Highway / Freeway,71.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
-MAY-2025,1243-10840,527ef4dc8c4aa8b,"Other, see Narrative",Highway / Freeway,73.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
-MAR-2026,502-14658,160c7b21fe892e3,Other Fixed Object,Highway / Freeway,66.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2025,13781-10735,49e2ec90cd6382d,Other Fixed Object,Parking Lot,12.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
-JUL-2025,1306-11380,a55ab68f14ccf71,Other Fixed Object,Highway / Freeway,71.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-MAY-2025,502-10922,3fddde5a3db46b6,Other Fixed Object,Highway / Freeway,84.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
-NOV-2025,10039-13203,62bf650416b01c3,Pole / Tree,Highway / Freeway,65.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
-FEB-2026,13781-14154,896d89615037c26,Non-Motorist: Pedestrian,Street,36.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
-OCT-2025,1306-11959,b7519cadc88228b,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+APR-2025,502-10412,602aed913abca02,Passenger Car,Street,,"Other, see Narrative",1,0,0,0,0,0,0.0,0
+MAY-2021,62-1137,66bb03520335eb1,Pickup Truck,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
+FEB-2025,13781-10064,eb68371ddb259fc,Other Fixed Object,Unknown,17.0,Making Left Turn,0,0,0,0,0,0,,0
+FEB-2025,13781-9892,fbeb84b33d5532b,"Other, see Narrative",Highway / Freeway,,Proceeding Straight,0,1,1,0,0,0,1.0,0
+DEC-2024,540-9629,f82bda5d6e11582,Unknown,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+DEC-2024,13781-9479,9a9f43949fb9ea7,Other Fixed Object,Intersection,17.0,Unknown,1,0,0,0,0,0,,0
+DEC-2024,13781-9478,d81f932ce6ef29a,Heavy Truck,Highway / Freeway,47.0,Unknown,1,0,0,0,0,0,,0
+NOV-2024,13781-9076,2179a94bc212595,"Other, see Narrative",Parking Lot,,Parking Maneuver,1,0,0,0,0,0,,0
+OCT-2024,13781-9029,7a36f26e282e294,"Other, see Narrative",Street,49.0,Unknown,1,0,0,0,0,0,,0
+OCT-2024,13781-8975,dcb7ce0fe5bee99,Other Fixed Object,Intersection,14.0,Unknown,1,0,0,0,0,0,,0
+OCT-2024,13781-8974,d1947812657c02d,Other Fixed Object,Intersection,22.0,Unknown,1,0,0,0,0,0,,0
+JUL-2024,13781-8971,de2c2b7e4180a02,Other Fixed Object,Traffic Circle,24.0,Unknown,0,0,0,0,0,0,,0
+OCT-2024,13781-9025,ad9280909fd67f7,Other Fixed Object,Intersection,15.0,Unknown,1,0,0,0,0,0,0.0,0
+OCT-2024,13781-8853,4d507c4754442a1,Other Fixed Object,Street,18.0,Unknown,0,0,0,0,0,0,,0
+SEP-2024,13781-8848,8d89be527f6db2a,Other Fixed Object,Parking Lot,6.0,Unknown,0,0,0,0,0,0,,0
+SEP-2024,13781-8843,fa0985aebdcc7ce,Other Fixed Object,Highway / Freeway,46.0,Unknown,0,0,0,0,0,0,,0
+AUG-2021,62-1552,cfb231f0edaaaef,Heavy Truck,Highway / Freeway,,Merging,0,0,0,0,0,0,,1
+NOV-2021,62-1591,7d320f5607aa249,Pole / Tree,Parking Lot,,"Other, see Narrative",0,0,0,0,0,0,,1
+AUG-2024,1422-8688,6ee1da9e3e71b04,Other Fixed Object,Highway / Freeway,55.0,Unknown,1,0,0,0,0,0,,0
+NOV-2021,62-1578,56587e390ad44d6,Animal,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,0
+OCT-2021,62-1607,75847196e343f0c,Unknown,Intersection,0.0,Stopped,0,0,0,0,0,0,,1
+JUL-2024,13781-8245,c68189b365cab72,Heavy Truck,Street,10.0,Unknown,1,0,0,0,0,0,0.0,0
+NOV-2021,62-1670,dd0c7eff015543b,Unknown,Intersection,0.0,Stopped,0,0,0,0,0,0,,1
+SEP-2021,62-1770,02553594f851c1b,Unknown,Intersection,0.0,Stopped,0,0,0,0,0,0,,1
+JUN-2024,13781-8075,7afea12e0ed00e3,Other Fixed Object,Street,6.0,Unknown,0,0,0,0,0,0,,0
+JUN-2024,13781-8072,e687e94baac80f7,Other Fixed Object,Street,20.0,Unknown,0,0,0,0,0,0,,0
+MAY-2025,540-10913,c3f7e4251219033,Unknown,Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+APR-2025,13781-10654,25a3286ae4f3ed6,Other Fixed Object,Highway / Freeway,,Lane / Road Departure,0,1,1,0,0,0,1.0,0
+APR-2025,540-10434,f51c99d483dff4c,Unknown,Highway / Freeway,26.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+APR-2024,540-7579,778679ce2b2065a,Other Fixed Object,Highway / Freeway,,Lane / Road Departure,0,1,0,0,0,0,0.0,0
+DEC-2023,502-6852,f00785b18231751,"Other, see Narrative",Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,0
+DEC-2023,502-6772,bf98198b8e3dc17,Passenger Car,Highway / Freeway,,Proceeding Straight,0,1,1,0,0,0,1.0,0
+JAN-2023,62-4600,c48b2f551caf9a7,Unknown,Highway / Freeway,65.0,Proceeding Straight,0,0,1,0,0,0,1.0,0
+JUL-2022,945-4252,ee7ebbf628c0746,Other Fixed Object,Unknown,45.0,Making Right Turn,0,0,0,0,0,0,,1
+MAR-2025,1243-10769,7f1e59998a53094,Pole / Tree,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2020,13781-4199,cb70187275e567d,Other Fixed Object,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,0.0,1
+JUL-2022,945-3951,0a2b2e77acb770d,Other Fixed Object,Unknown,45.0,Making Right Turn,0,0,0,0,0,0,,1
+SEP-2022,502-3906,4507e653f3a4898,Other Fixed Object,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,0
+JUL-2022,1306-3729,4c2e55083dab925,Unknown,Highway / Freeway,9.0,"Other, see Narrative",0,0,0,0,0,0,0.0,0
+JUL-2022,12381-3536,00cd6c799062fc0,"Other, see Narrative",Highway / Freeway,,"Other, see Narrative",0,0,0,0,0,0,0.0,0
+JUL-2020,13781-4649,cff615a5412e888,First Responder Vehicle,Highway / Freeway,76.0,Unknown,0,0,0,0,0,0,,1
+OCT-2024,13781-9021,c4f364218483f68,Other Fixed Object,Intersection,12.0,Unknown,0,1,0,0,0,0,,0
+OCT-2024,13781-9020,b7645e4a13ecf01,Other Fixed Object,Intersection,37.0,Unknown,1,0,0,0,0,0,,0
+OCT-2024,13781-8992,3999d2905b43eec,Other Fixed Object,Street,31.0,Unknown,1,0,0,0,0,0,0.0,0
+APR-2023,540-5193,c095dff241ff5c3,Passenger Car,Highway / Freeway,,Proceeding Straight,0,1,1,0,0,0,1.0,0
+APR-2022,13781-2740,2ea08b89dbd016d,First Responder Vehicle,Highway / Freeway,74.0,Unknown,1,0,0,0,0,0,0.0,1
+JAN-2022,502-2582,2f2a84cb87197db,Passenger Car,Intersection,,Making Right Turn,1,0,0,0,0,0,0.0,1
+JUN-2023,502-5810,92d9de624255d16,Other Fixed Object,Highway / Freeway,,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+DEC-2021,540-1947,c79b9403b17b7ad,Animal,Highway / Freeway,,Proceeding Straight,0,1,0,0,0,0,,0
+MAY-2024,13781-7796,b4f30d6be4f03e7,Passenger Car,Highway / Freeway,56.0,Unknown,0,1,0,0,0,0,0.0,0
+JUL-2024,13781-8037,e423bc4178f2b48,"Other, see Narrative",Highway / Freeway,21.0,Unknown,1,0,0,0,0,0,0.0,1
+DEC-2023,13781-7385,b70ac0342bd0de0,Other Fixed Object,Highway / Freeway,,Proceeding Straight,0,1,1,0,0,0,1.0,1
+SEP-2024,13781-8677,48cede456b5a900,Passenger Car,Highway / Freeway,68.0,Unknown,0,0,0,0,0,0,,1
+SEP-2023,12381-8659,369f8f9bc2fa8f9,Heavy Truck,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
+AUG-2024,13781-8720,2bd06224a944b59,Pole / Tree,Street,76.0,Unknown,0,0,0,0,0,0,0.0,1
+MAR-2023,62-8931,26606436134599d,Passenger Car,Street,45.0,Unknown,1,0,0,0,0,0,0.0,0
+DEC-2024,1243-9485,5bba16aeb8c54ef,"Other, see Narrative",Street,45.0,Unknown,1,0,0,0,0,0,0.0,1
+SEP-2021,62-1804,e73fc98909dc9c9,Pickup Truck,Unknown,0.0,Stopped,0,0,0,0,0,0,,0
+DEC-2021,62-1823,6a5dbe7198ba31d,Passenger Car,Street,,Changing Lanes,0,0,0,0,0,0,,1
+JUN-2024,13781-8034,545a4afdb3f22c0,Other Fixed Object,Street,40.0,Unknown,0,0,0,0,0,0,,0
+JAN-2025,669-9856,efa786af6b17452,Animal,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JAN-2025,1306-9766,537280257928053,"Other, see Narrative",Unknown,40.0,Lane / Road Departure,1,0,0,0,0,0,,0
+APR-2025,13781-10391,574e6cd2eb9dd2b,Heavy Truck,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAY-2024,669-7747,323d81864ea0347,"Other, see Narrative",Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2021,1042-2072,572462203aa9640,SUV,Intersection,,Proceeding Straight,0,0,0,0,0,0,,1
+OCT-2021,1243-1528,c956f70c7f82c2f,Pole / Tree,Unknown,32.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+APR-2024,945-7588,3d99e3452eb41a2,Passenger Car,Highway / Freeway,50.0,Unknown,0,0,0,0,0,0,,0
+MAR-2023,1243-5173,93d37eb6f8ab932,Unknown,Rural Road,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JAN-2023,669-5395,d7e1e03dde19594,Other Fixed Object,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
+MAR-2025,10039-10316,4b7b5c197df23b5,First Responder Vehicle,Highway / Freeway,69.0,Unknown,0,0,0,0,0,0,,1
+DEC-2023,28349-6820,e99bd9851a415e6,Unknown,Highway / Freeway,66.0,Proceeding Straight,0,0,0,0,0,1,,0
+,10039-1548,,Other Fixed Object,Highway / Freeway,,"Other, see Narrative",0,0,0,0,0,0,,0
+JUL-2024,945-8258,399c1502fa3b000,Heavy Truck,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
+APR-2022,13781-3470,b975f1328104f61,Motorcycle,Highway / Freeway,,Proceeding Straight,0,0,0,0,0,0,,1
+JUL-2022,13781-3332,2eb5e09b2925a6e,Motorcycle,Highway / Freeway,,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAY-2025,13781-10930,67a9ae31c16340e,SUV,Intersection,50.0,Unknown,1,0,0,0,0,0,0.0,1
 OCT-2025,10039-11989,cdfe07af14c61c9,"Other, see Narrative",Highway / Freeway,55.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
+OCT-2025,1306-11959,b7519cadc88228b,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+FEB-2026,13781-14154,896d89615037c26,Non-Motorist: Pedestrian,Street,36.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+NOV-2025,10039-13203,62bf650416b01c3,Pole / Tree,Highway / Freeway,65.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+JUL-2025,1306-11380,a55ab68f14ccf71,Other Fixed Object,Highway / Freeway,71.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2026,502-14658,160c7b21fe892e3,Other Fixed Object,Highway / Freeway,66.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUN-2026,540-15341,8a8b66bc3a1febf,Other Fixed Object,Highway / Freeway,71.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+JUL-2026,10039-16122,5f2cf558e2e6897,Passenger Car,Highway / Freeway,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUN-2026,540-15452,3aa97643f96d391,"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+JUN-2026,540-15496,526a5902b6d90c9,"Other, see Narrative",Rural Road,33.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+MAY-2026,540-15297,d15ddb9836c253f,Pickup Truck,Highway / Freeway,25.0,Lane / Road Departure,0,0,1,0,0,0,1.0,1
+JUN-2026,13781-15588,b2223126007ec4f,Other Fixed Object,Street,73.0,Lane / Road Departure,0,1,0,0,0,0,0.0,1
+APR-2026,753-14851,d09845b056e34d2,Passenger Car,Highway / Freeway,50.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+SEP-2023,540-6486,e4f2f47a06c4211,Other Fixed Object,Highway / Freeway,70.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+AUG-2023,1306-6035,e95298e89e7f7b9,Other Fixed Object,Highway / Freeway,85.0,Proceeding Straight,0,0,0,0,0,0,,0
+JUL-2023,13781-5996,02cd7470daf14dd,Heavy Truck,Highway / Freeway,56.0,Proceeding Straight,0,0,0,0,0,0,,1
+FEB-2022,540-2375,07213bfb9b1eeb2,Other Fixed Object,Highway / Freeway,70.0,Lane / Road Departure,0,1,0,0,0,0,0.0,1
+JUL-2023,13781-5835,364a5bff8604eff,Passenger Car,Street,43.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUN-2023,13781-5785,df242ae7d3f8981,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2022,13781-2543,2ea955a0e92e370,Other Fixed Object,Street,20.0,Making Right Turn,1,0,0,0,0,0,0.0,1
+JUN-2023,13781-5806,71d72ee1e3efa07,Heavy Truck,Intersection,22.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+JUN-2023,13781-5685,71c10fe732e7ecd,Non-Motorist: Pedestrian,Intersection,44.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+MAY-2021,13781-5609,c388a5e94b7cb91,Heavy Truck,Highway / Freeway,63.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+APR-2023,13781-5372,d7c3a14284da01d,Pickup Truck,Highway / Freeway,48.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+APR-2023,945-5351,d73f2321a5bbc07,Pole / Tree,Highway / Freeway,74.0,Proceeding Straight,0,0,0,0,0,0,,1
+MAY-2025,502-10922,1da1495aff4459a,Other Fixed Object,Highway / Freeway,84.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2023,1243-5197,e3b1ffa6477128d,"Other, see Narrative",Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,0
+MAR-2023,13781-5165,3d2eef72e8b35e6,Pickup Truck,Street,47.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2023,1243-5133,e0d4d01de38df67,Animal,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2023,13781-8004,3992b4e2e6ccdd3,Non-Motorist: Pedestrian,Highway / Freeway,55.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+MAR-2024,1243-7274,00363b910ec53c3,Other Fixed Object,Highway / Freeway,62.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+DEC-2021,13781-1913,eaef72b3191f510,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
+APR-2024,540-7451,848bcbb5694b024,Other Fixed Object,Highway / Freeway,50.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+APR-2024,13781-7574,ae204cfacc3157a,Non-Motorist: Pedestrian,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+FEB-2024,1243-7108,cc6f7f92106966f,Other Fixed Object,Rural Road,45.0,Proceeding Straight,0,1,1,0,0,0,1.0,1
+NOV-2021,13781-2200,a6f20955dfd337e,Pole / Tree,Street,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2024,540-7305,83d0dfe05d5b33e,Heavy Truck,Street,61.0,Proceeding Straight,0,0,0,0,0,0,0.0,0
+OCT-2023,753-7087,e59a15746951989,"Other, see Narrative",Highway / Freeway,75.0,Proceeding Straight,0,0,1,0,0,0,1.0,0
+OCT-2023,753-7109,e0d690170f9260a,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2023,1243-6797,8e641eb732c117b,Other Fixed Object,Street,42.0,Proceeding Straight,0,1,1,0,0,0,1.0,1
+JAN-2024,29990-7002,1549a2b0df99682,Other Fixed Object,Highway / Freeway,77.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2023,13781-6922,00e99ccfa906468,Pickup Truck,Highway / Freeway,47.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+NOV-2023,273-6769,353c33e374361bd,Other Fixed Object,Highway / Freeway,65.0,"Other, see Narrative",0,0,0,0,0,0,,0
+FEB-2022,502-2354,0c245b93719a23b,Heavy Truck,Intersection,35.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+NOV-2020,855-6376,2297505e52a8d2e,Passenger Car,Highway / Freeway,68.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
+OCT-2024,502-8946,84e83dbc5d44f80,Animal,Highway / Freeway,50.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+AUG-2024,540-8472,23b24735ea3a59b,Other Fixed Object,Highway / Freeway,72.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
+AUG-2024,1243-8486,b0d904f672fe0c9,Other Fixed Object,Rural Road,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+SEP-2024,1243-8675,e1733c89d4f6cac,"Other, see Narrative",Highway / Freeway,80.0,Passing,1,0,0,0,0,0,0.0,1
+SEP-2024,10561-8671,80ff8512cc95537,SUV,Intersection,28.0,Making Left Turn,1,0,0,0,0,0,0.0,1
+AUG-2024,1243-8428,386e5d2e42c622c,Other Fixed Object,Street,53.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+AUG-2024,1243-8299,0db909c46b6a393,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,0,1,1,0,0,0,1.0,0
+SEP-2024,13781-8487,063cae674ae2b58,Passenger Car,Highway / Freeway,0.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+AUG-2024,13781-8497,3c3af980a9b791f,Passenger Car,Intersection,17.0,Making Left Turn,1,0,0,0,0,0,0.0,1
+AUG-2024,13781-8429,1f849538301e456,Passenger Car,Highway / Freeway,3.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+JUL-2024,540-8239,280827e5995a8b1,Heavy Truck,Highway / Freeway,82.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUN-2024,1243-8206,4fd7b9d7a56311c,Pole / Tree,Street,30.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUL-2024,1420-8202,13ed34314ee21fc,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,0,0,1,0,0,0,1.0,0
+JUN-2024,1243-8010,eb525e8cb7c728c,Other Fixed Object,Highway / Freeway,77.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUN-2024,753-8012,b5bd0d05e74ed47,Pole / Tree,Highway / Freeway,29.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+OCT-2023,1243-7991,20c098e1e824830,Heavy Truck,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+FEB-2025,29990-10074,dfa3d9b4699e2b5,Heavy Truck,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2021,13781-10092,72162ab55fbebc7,Passenger Car,Highway / Freeway,70.0,Changing Lanes,1,0,0,0,0,0,0.0,1
+DEC-2024,1243-9613,93fc057bba56021,Pickup Truck,Intersection,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2024,1243-9477,1f8d110f4aef8c4,Passenger Car,Highway / Freeway,79.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+FEB-2025,13781-9861,0b944212c10e71a,Van,Intersection,0.0,Stopped,1,0,0,0,0,0,1.0,1
+OCT-2024,10039-9844,42285db4ec287dc,SUV,Highway / Freeway,22.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2024,62-9163,f3245ceb593b999,"Other, see Narrative",Street,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JAN-2025,13781-9758,af64d45ca504b96,Passenger Car,Highway / Freeway,69.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2024,1243-9301,5c15effac490b52,Pole / Tree,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2024,855-9284,e2e4488c02b1aa4,Passenger Car,Intersection,24.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2024,540-9542,562629975f0a71f,Passenger Car,Highway / Freeway,18.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+DEC-2024,13781-9322,e58a01665236bc5,"Other, see Narrative",Highway / Freeway,99.0,Lane / Road Departure,0,0,1,0,0,0,1.0,1
+SEP-2024,502-8738,75d100ead986d3d,Passenger Car,Highway / Freeway,15.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+SEP-2024,1420-8520,e56b821797ec16c,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,0,0,0,0,0,0,,0
+MAY-2024,13781-7767,d009bc2b819df8c,Other Fixed Object,Rural Road,28.0,Proceeding Straight,0,1,0,0,0,1,0.0,1
+NOV-2022,1243-4978,2115df22db57e5a,"Other, see Narrative",Highway / Freeway,74.0,Proceeding Straight,1,0,0,0,0,0,,1
+FEB-2024,502-7195,32f0f76708cbe89,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,0,0,0,0,0,0,,1
+JAN-2022,855-2377,3c07d2d05ae1aee,Other Fixed Object,Highway / Freeway,75.0,"Other, see Narrative",0,0,0,0,0,0,1.0,0
+MAY-2022,1243-3278,ffaee496513b6b3,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
+MAR-2022,753-3117,b6b2fb8eb56b835,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2022,1243-4601,6a6aea1b877acf7,Pickup Truck,Highway / Freeway,67.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2021,1243-1945,931074479192043,Animal,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+FEB-2025,1243-10331,fe761d5cc9ce585,"Other, see Narrative",Rural Road,69.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+NOV-2021,1243-1955,df0e18d70ba7e9e,Animal,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUL-2024,13781-8178,817f29e219971fc,Non-Motorist: Cyclist,Intersection,1.0,Making Left Turn,1,0,0,0,0,0,0.0,1
+NOV-2022,1243-4347,c3b2045819f83ab,Pickup Truck,Highway / Freeway,84.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAY-2022,10039-3997,b0d7623135b08c0,Pole / Tree,Highway / Freeway,82.0,Proceeding Straight,1,0,0,0,0,0,,1
+FEB-2025,13781-10262,387ab08a90ed106,"Other, see Narrative",Street,29.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+MAR-2025,13781-10181,fc3f6183eff4d86,"Other, see Narrative",Street,107.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+JAN-2025,13781-9996,71fc7c913ab91c2,Other Fixed Object,Parking Lot,8.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+MAR-2025,13781-10333,5530686c32de26e,"Other, see Narrative",Street,34.0,Making Left Turn,1,0,0,0,0,0,0.0,1
+APR-2023,669-5249,9bd33750093f115,Other Fixed Object,Highway / Freeway,50.0,Proceeding Straight,0,0,0,0,0,0,,0
+AUG-2023,13781-8295,cfbfb7ef9b9b790,Other Fixed Object,Highway / Freeway,74.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+JUN-2024,1243-7850,d9ce64a922ea4f1,"Other, see Narrative",Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+APR-2022,13781-2639,410349554bfcd70,Pickup Truck,Highway / Freeway,58.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2025,10039-10291,80af11971012830,Other Fixed Object,Highway / Freeway,75.0,Changing Lanes,1,0,0,0,0,0,0.0,1
+MAY-2024,855-7779,05f90519b036c38,"Other, see Narrative",Intersection,57.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+MAR-2024,62-7319,90b0f7119a3b622,Heavy Truck,Highway / Freeway,78.0,Proceeding Straight,0,0,0,0,0,0,0.0,0
+MAR-2024,502-7426,5568200e85fa64f,Passenger Car,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2024,1243-7279,5309d9f337e9e86,SUV,Intersection,50.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+FEB-2024,1243-7252,934233e20498578,"Other, see Narrative",Rural Road,30.0,Proceeding Straight,0,1,0,0,1,0,0.0,1
+SEP-2021,1243-1246,e537827d2d65439,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+SEP-2024,13781-8523,7f76a915872d78b,SUV,Highway / Freeway,51.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUN-2024,540-7971,dcbb9f51d668572,Heavy Truck,Highway / Freeway,39.0,Proceeding Straight,0,0,0,0,0,0,0.0,0
+JUL-2024,540-8051,82ac1729a8bf0dc,"Other, see Narrative",Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUL-2024,1243-8194,4304b030a6af69f,Pickup Truck,Rural Road,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2025,13781-10132,f95e95e04341298,Passenger Car,Street,1.0,"Other, see Narrative",0,1,0,0,0,0,0.0,1
+DEC-2022,1243-4796,40981d31dbf8993,SUV,Street,45.0,Proceeding Straight,0,1,0,0,0,0,1.0,1
+DEC-2022,10039-4636,5e2e6831c0f278a,Other Fixed Object,Highway / Freeway,70.0,Lane / Road Departure,0,0,0,0,0,0,,1
+AUG-2021,1243-1042,1cc7b603c8e30f5,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUL-2022,1243-3681,68b9212338077cd,Other Fixed Object,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+MAR-2024,28349-7362,6b67a2912adcb2e,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,,0
+MAR-2023,10039-5057,c39062638c4bc4c,Van,Highway / Freeway,84.0,Proceeding Straight,0,0,0,0,0,0,,1
+JUL-2021,1243-38,0d300a426ad3ee5,Animal,Highway / Freeway,65.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+DEC-2023,753-6931,d2b91431230e17e,"Other, see Narrative",Highway / Freeway,77.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+SEP-2024,10039-9040,a0027274e716a33,"Other, see Narrative",Rural Road,63.0,Proceeding Straight,0,0,0,0,0,0,,1
+JUL-2021,10039-8,1caf6655a0d623e,"Other, see Narrative",Highway / Freeway,57.0,Changing Lanes,0,0,0,0,0,0,,1
+DEC-2023,10039-6771,0fab32ab3e6ced6,Other Fixed Object,Highway / Freeway,72.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
+APR-2024,13781-7567,d64f2f7824d7f5f,Motorcycle,Highway / Freeway,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUL-2024,855-8237,cfab9a682f56766,Other Fixed Object,Street,46.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+NOV-2023,753-6807,c056abb2e4a7249,Heavy Truck,Highway / Freeway,65.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+AUG-2021,1243-1208,20dec0e229a6059,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+FEB-2025,753-10358,a4080bf926ba2bb,SUV,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2021,1243-1582,7796765cf6c9f3f,Animal,Highway / Freeway,70.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+OCT-2022,753-4134,bad343affabf224,Other Fixed Object,Highway / Freeway,66.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+FEB-2023,10039-4932,aa89214715e1b1f,Passenger Car,Highway / Freeway,63.0,Lane / Road Departure,0,0,0,0,0,0,,0
+AUG-2021,1243-1379,47c8f9f110f99a7,Heavy Truck,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAY-2023,10039-6029,f9ac60f561cdde2,Other Fixed Object,Highway / Freeway,33.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
+JUL-2022,28349-3493,9f8c9085bb42640,Passenger Car,Highway / Freeway,70.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+NOV-2021,28349-1805,4f2f2a2f3679797,Passenger Car,Highway / Freeway,69.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+FEB-2024,502-7268,594a4ee91cc1b56,SUV,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2021,1243-1392,c23000d2e8b4e40,Passenger Car,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2023,10039-6833,dd9ce4e15764e8f,Other Fixed Object,Highway / Freeway,59.0,Proceeding Straight,0,0,0,0,0,1,,0
+JAN-2023,12381-4852,e6bea3e50eaf542,Heavy Truck,Highway / Freeway,68.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+FEB-2023,1243-4930,cee51edc6bfaf71,Heavy Truck,Rural Road,45.0,"Other, see Narrative",0,1,0,0,0,0,,0
+MAR-2025,273-10308,361ef1841133f75,"Other, see Narrative",Highway / Freeway,70.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+FEB-2023,1306-5139,bd71a63efa49efd,Other Fixed Object,Highway / Freeway,30.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
+MAR-2023,13781-5100,ab0b7770c2dcdf4,Non-Motorist: Pedestrian,Highway / Freeway,48.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+APR-2025,1243-10832,988de915957a266,"Other, see Narrative",Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+FEB-2023,13781-4963,25c1c827105b0d2,First Responder Vehicle,Highway / Freeway,71.0,Proceeding Straight,0,0,0,0,0,0,,1
+JUL-2022,13781-3327,d4b6a3297c7a63c,Heavy Truck,Parking Lot,64.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+MAY-2025,13781-10735,a5cf15a38f2a568,Other Fixed Object,Parking Lot,12.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
+NOV-2022,855-4921,952347292400952,Other Fixed Object,Highway / Freeway,86.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+JUL-2022,13781-3488,3635b7af78f1bb8,Motorcycle,Highway / Freeway,61.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAY-2025,13781-10696,7572d1e8b25c57c,Van,Street,16.0,"Other, see Narrative",0,1,0,0,0,0,1.0,0
+DEC-2022,13781-4599,5e7093f74d2bfa6,"Other, see Narrative",Highway / Freeway,77.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2022,13781-4604,b5560e46de8fafe,Other Fixed Object,Highway / Freeway,21.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
+AUG-2022,13781-3710,91e8070901c957c,"Other, see Narrative",Highway / Freeway,8.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+AUG-2022,13781-3713,74537aa48a07834,Motorcycle,Street,97.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+SEP-2020,13781-3847,01d6cd8be0b5d87,Non-Motorist: Pedestrian,Street,30.0,Lane / Road Departure,0,1,1,0,0,0,1.0,1
+AUG-2022,502-3744,e11fa1ed0a55cec,SUV,Highway / Freeway,0.0,Stopped,0,1,0,0,0,0,1.0,1
+FEB-2025,1243-10019,7304edfcca512b9,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2022,540-4483,7555ff35f8982d9,SUV,Highway / Freeway,65.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+DEC-2021,13781-3900,b1051e5d6cc60be,"Other, see Narrative",Street,0.0,Stopped,0,1,0,0,0,0,0.0,1
+APR-2025,13781-10417,7f324efe3a44afe,Motorcycle,Highway / Freeway,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+SEP-2022,753-3912,e76027a3400d129,SUV,Highway / Freeway,16.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+JUN-2022,1243-4332,894dc150897986e,Animal,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUN-2025,13781-11069,e0c2fb9c75134d4,Passenger Car,Intersection,37.0,Proceeding Straight,0,1,1,0,0,0,1.0,1
+APR-2025,502-10575,df3c60e566d896b,Animal,Highway / Freeway,74.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+SEP-2022,30571-3768,8cff765f7638c5a,SUV,Street,1.0,Parking Maneuver,1,0,0,0,0,0,0.0,0
+MAY-2022,1420-2863,c22466ef43a2751,Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,0
+SEP-2023,540-6349,dfb3b8ba4b25e97,Other Fixed Object,Highway / Freeway,69.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+SEP-2023,502-6362,96cc6199101c0c8,SUV,Street,40.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+OCT-2023,29990-6636,a42687001b49114,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+OCT-2023,29990-6637,ab4dcba1d2b9a80,"Other, see Narrative",Highway / Freeway,16.0,Proceeding Straight,0,0,0,0,0,0,,0
+SEP-2023,502-6643,4c5d1bb6fe957a3,Passenger Car,Highway / Freeway,10.0,Proceeding Straight,0,0,0,0,0,0,,0
+NOV-2023,540-6702,b2e5a84772bd1fc,Animal,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+DEC-2023,540-6884,,Heavy Truck,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JAN-2024,540-6944,8f2e181d0c5c738,SUV,Highway / Freeway,50.0,Changing Lanes,0,1,0,0,0,0,0.0,0
+FEB-2024,540-7189,2f3c36a804a92fe,"Other, see Narrative",Highway / Freeway,44.0,Changing Lanes,0,1,0,0,0,0,0.0,0
+FEB-2024,502-7283,40e94ffa0a7aa67,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+APR-2024,540-7446,821b600d42a22e6,"Other, see Narrative",Highway / Freeway,60.0,Changing Lanes,1,0,0,0,0,0,0.0,0
+MAR-2024,1420-7400,7bf94c8d661fbf6,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JAN-2024,28509-7581,2940c5740fea644,Other Fixed Object,Highway / Freeway,71.0,Proceeding Straight,0,0,0,0,0,0,,1
+APR-2024,30711-7649,16d627d64b5d544,"Other, see Narrative",Street,17.0,Making Right Turn,1,0,0,0,0,0,0.0,0
+MAY-2024,1420-7761,2b687ad265be239,Passenger Car,Highway / Freeway,73.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+APR-2024,855-7869,f9157c5d45140f4,"Other, see Narrative",Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+MAY-2024,29990-7911,344c4aa527d21cd,Other Fixed Object,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,,0
+JUN-2024,1420-7878,cea21be3268f475,Animal,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUN-2024,13781-7964,6daf24df0fbdf23,First Responder Vehicle,Street,37.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+MAY-2024,502-8024,d22473979c1cdfe,Heavy Truck,Highway / Freeway,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+APR-2024,13781-7999,a397f4138734f45,Other Fixed Object,Street,20.0,Making Right Turn,1,0,0,0,0,0,0.0,0
+MAY-2024,13781-8000,6138e966c7afce9,Other Fixed Object,Street,14.0,Making Right Turn,0,0,0,0,0,0,,0
+JUN-2024,33500-7993,aef628a6826e229,SUV,Highway / Freeway,7.0,Proceeding Straight,0,1,0,0,0,0,1.0,0
+JUN-2024,13781-8033,d73829489cfc07f,"Other, see Narrative",Highway / Freeway,46.0,"Other, see Narrative",0,1,0,0,0,0,0.0,0
+JUN-2024,29990-8066,cff39c1cd4b78d6,"Other, see Narrative",Highway / Freeway,82.0,Proceeding Straight,0,0,0,0,0,0,,0
+JUN-2024,13781-8073,f50874c1cccc440,Other Fixed Object,Highway / Freeway,86.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
+JUL-2024,855-8277,0de5ce6513cc367,Other Fixed Object,Street,45.0,Proceeding Straight,0,1,0,0,0,0,,0
+SEP-2021,62-1581,aeda49547720093,Animal,Highway / Freeway,75.0,Proceeding Straight,0,0,0,0,0,0,,0
+SEP-2024,1243-8635,684692e1ed26bba,Passenger Car,Highway / Freeway,78.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+SEP-2024,502-8686,fa0b8153dd7383c,Pickup Truck,Highway / Freeway,0.0,Stopped,0,0,0,0,0,0,0.0,0
+SEP-2024,1243-8674,afe2adf2d111658,Animal,Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+SEP-2024,540-8718,e20daec8f0f160e,Pole / Tree,Highway / Freeway,78.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+DEC-2023,502-8763,4a717ee92785704,Passenger Car,Street,13.0,"Other, see Narrative",0,0,0,0,0,0,,0
+OCT-2024,502-8774,6c6ab6b0869143c,Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,0
+OCT-2024,13781-8937,be6bfa2467a4094,Passenger Car,Highway / Freeway,6.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+SEP-2024,13781-8972,7031cbb71a0b777,Other Fixed Object,Street,45.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+OCT-2024,13781-8973,c67cb74b0d18b4e,Other Fixed Object,Highway / Freeway,53.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+OCT-2024,502-8983,00103fcbcf2e0dc,Other Fixed Object,Highway / Freeway,60.0,Proceeding Straight,0,0,0,0,0,0,,0
+NOV-2024,540-9037,21039e97fdce725,Animal,Highway / Freeway,78.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+NOV-2024,540-9085,999d4db315ce990,Animal,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2024,1243-9080,52fc89774d1d342,Animal,Rural Road,78.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2024,540-9242,158a385a71f19fd,Other Fixed Object,Highway / Freeway,52.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
+NOV-2024,13781-9241,de2ba59b0d7a304,Other Fixed Object,Intersection,10.0,Making Left Turn,1,0,0,0,0,0,,0
+MAY-2024,13781-9342,6f13f3205b9518d,Pickup Truck,Street,20.0,Making Left Turn,0,1,0,0,0,0,0.0,0
+NOV-2024,1306-9461,74ffb6b6f7b64eb,Animal,Highway / Freeway,83.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+DEC-2024,13781-9523,584d8c3d16576f0,Other Fixed Object,Highway / Freeway,46.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+DEC-2024,13781-9616,c35095bb870c009,Other Fixed Object,Street,31.0,Making Right Turn,1,0,0,0,0,0,0.0,0
+JAN-2025,13781-9628,09da98d121ebd94,Passenger Car,Street,25.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+JAN-2025,29990-9652,32b3b0c885ec1fc,SUV,Highway / Freeway,60.0,Proceeding Straight,0,0,0,0,1,0,1.0,0
+OCT-2021,62-1373,efa7a0893492745,Passenger Car,Highway / Freeway,50.0,Proceeding Straight,0,0,0,0,0,0,,1
+FEB-2025,669-9902,91a2d8b20dbc9a9,"Other, see Narrative",Highway / Freeway,0.0,Stopped,0,0,0,0,0,0,0.0,1
+FEB-2025,29990-10110,757c1fa9104d676,Other Fixed Object,Highway / Freeway,64.0,Proceeding Straight,0,0,0,0,0,0,0.0,0
+AUG-2021,62-1358,97e12f41820e555,Pole / Tree,Street,40.0,"Other, see Narrative",0,0,0,0,0,0,,0
+FEB-2025,30291-10128,d903c3a7e6079c6,Other Fixed Object,Street,18.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+MAR-2025,13781-10236,5eea83f38d8c585,SUV,Street,61.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
+OCT-2024,540-10526,980a286198c0629,Animal,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+APR-2025,13781-10699,b04c4f3f4839d16,Other Fixed Object,Parking Lot,13.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
+MAY-2025,1243-10840,15ff46edf65be85,"Other, see Narrative",Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUL-2021,62-1144,2b5dc97ec895143,Pole / Tree,Street,20.0,Proceeding Straight,0,0,0,0,0,0,,0
+MAY-2025,13781-10847,737c9df5680b3ec,SUV,Highway / Freeway,21.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+MAY-2025,540-10914,ec44f3c24ef9817,Heavy Truck,Street,43.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+MAY-2025,1306-10839,f8df332c8a22bd8,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,0,0,0,0,0,0,,0
+JUL-2026,13781-15981,af639fc011fc437,Non-Motorist: Cyclist,Intersection,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUL-2026,1243-16017,c0aa04f696ade4b,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,0,0,0,0,0,1,0.0,1
+JUL-2026,273-16088,df99c68d8524216,"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+JUL-2026,273-16086,7b420566a06e9ef,Other Fixed Object,Highway / Freeway,72.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
+APR-2026,10039-16087,24bfc281aa9a431,SUV,Rural Road,68.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUL-2026,13781-16079,265b5df2758d681,Non-Motorist: Cyclist,Intersection,21.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUL-2026,273-16092,f5a6d089c583859,"Other, see Narrative",Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+AUG-2026,540-16095,14520327a0bc454,Pole / Tree,Highway / Freeway,66.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+JUN-2025,540-11168,4df5c475343c886,SUV,Highway / Freeway,24.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+JUN-2025,540-11150,c73a1df8892573b,Animal,Highway / Freeway,61.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+MAY-2025,13781-11155,3986221d84cc6a3,Passenger Car,Highway / Freeway,27.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+AUG-2026,1243-16267,8245875f78bd486,Animal,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+AUG-2026,855-16213,95685c066d199f2,Passenger Car,Street,34.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAY-2026,30571-15197,e2032218f67eda1,Passenger Car,Street,35.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+SEP-2025,855-15181,4d78a2afe2695d1,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+MAY-2026,13781-15210,bbe7d64292a5615,Bus,Intersection,12.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+MAY-2026,13781-15265,a60bcedc6a3afb0,SUV,Intersection,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+JUN-2026,753-15357,2ac4db5960a4cce,Passenger Car,Highway / Freeway,56.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUN-2025,13781-11242,846e5984bd68a7c,Passenger Car,Highway / Freeway,43.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+FEB-2026,13781-15462,11885c3420b8c14,Heavy Truck,Street,27.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+MAY-2026,10039-15499,9ff6302b3ec5679,"Other, see Narrative",Highway / Freeway,85.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+JUN-2026,753-15556,eb09e38614a7947,Other Fixed Object,Highway / Freeway,65.0,Proceeding Straight,0,0,0,1,0,0,1.0,1
+JUL-2026,1306-15727,0391b2e00c73255,Other Fixed Object,Highway / Freeway,78.0,Proceeding Straight,0,0,1,0,0,0,0.0,1
+JUL-2026,29990-15821,b570ac5f39e514c,Passenger Car,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUL-2026,540-15816,8ecec98bd714e17,Passenger Car,Rural Road,62.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+JUL-2026,13781-15881,73c23db4d8ff6f0,Motorcycle,Intersection,20.0,Making Left Turn,1,0,0,0,0,0,0.0,1
+JUL-2026,540-15905,c35831395c30fb6,Pole / Tree,Street,12.0,Lane / Road Departure,0,0,0,0,0,0,0.0,1
+JUL-2026,540-15935,05d24367f1074e0,"Other, see Narrative",Rural Road,61.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+JUL-2026,540-15936,43fd8ca3d13aef4,Other Fixed Object,Highway / Freeway,83.0,Lane / Road Departure,0,0,0,0,0,0,0.0,1
+FEB-2026,13781-14210,124aca3c6cc0ba1,"Other, see Narrative",Highway / Freeway,38.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+MAR-2026,502-14241,dd41383c218fede,Animal,Highway / Freeway,74.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+FEB-2026,1243-14245,a102af9eb6ae8d5,"Other, see Narrative",Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2026,540-14288,5642f38b7e69019,"Other, see Narrative",Highway / Freeway,56.0,"Other, see Narrative",0,0,1,0,0,0,0.0,0
+DEC-2025,10039-14285,33822617cd21c71,Pole / Tree,Rural Road,71.0,Lane / Road Departure,0,0,0,0,0,0,0.0,1
+MAR-2026,502-14293,d2c19a868d17473,Other Fixed Object,Highway / Freeway,78.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAR-2026,34971-14386,f39f8157b9d5883,Passenger Car,Highway / Freeway,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+MAR-2026,540-14347,e9237c148efee91,Heavy Truck,Highway / Freeway,57.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
+MAR-2026,13781-14552,3db8fd56638b533,Pickup Truck,Intersection,24.0,Making Left Turn,0,1,0,0,0,0,0.0,1
+MAR-2026,30270-14303,0d2e4c8f2834432,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
+FEB-2026,10039-14855,abacd503f95382e,Heavy Truck,Highway / Freeway,65.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+APR-2026,753-14771,517a9ff9b5f2195,Passenger Car,Highway / Freeway,70.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+MAR-2026,669-14892,9874404bac52998,"Other, see Narrative",Highway / Freeway,40.0,"Other, see Narrative",0,0,0,0,0,0,0.0,1
+APR-2026,10039-14963,a007315451fa04a,Passenger Car,Highway / Freeway,67.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAY-2026,502-15072,7af87dcf8b53df1,SUV,Highway / Freeway,8.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+MAY-2026,13781-15199,0cb9337363e66f9,Non-Motorist: Pedestrian,Street,1.0,Backing,0,1,0,0,0,0,0.0,0
+OCT-2025,10039-13214,1ab2b4790cb2329,Other Fixed Object,Highway / Freeway,70.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+NOV-2025,13781-13208,23d237f80827f7f,Non-Motorist: Cyclist,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2025,1243-13262,1abb7dc46e10e6c,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2023,13781-13257,24be073056877e7,SUV,Street,66.0,Crossing into Opposing Lane,0,1,0,0,0,0,0.0,1
+NOV-2025,13781-13265,924172f81d4e499,Heavy Truck,Highway / Freeway,47.0,"Other, see Narrative",0,0,1,0,0,0,1.0,1
+DEC-2025,13781-13330,5083b485cd96216,Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
+DEC-2025,13781-13319,1299584673dc0b5,Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
+JUL-2025,753-11366,f3693ea3bd83276,Pole / Tree,Highway / Freeway,67.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+DEC-2025,13781-13465,335ccd0a0db8c03,Pickup Truck,Street,2.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+DEC-2025,13781-13466,a65d2b40d37db9d,Heavy Truck,Highway / Freeway,47.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+JAN-2026,540-13584,ee1f1ecc421f0e5,Animal,Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+FEB-2025,540-13555,0338d6f744e8109,Pickup Truck,Highway / Freeway,54.0,Proceeding Straight,0,1,1,0,0,0,1.0,1
+NOV-2025,1306-13609,3ceeaa7fe9e451d,Other Fixed Object,Intersection,50.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JAN-2026,540-13813,2a38a3c8429da01,Other Fixed Object,Highway / Freeway,80.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JAN-2026,540-13946,5cc2c95fd6600cb,Pole / Tree,Highway / Freeway,23.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+JUL-2025,13781-14165,22007de83a9ee11,Passenger Car,Highway / Freeway,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JAN-2023,62-11736,9e56196f6ae61a1,Other Fixed Object,Highway / Freeway,65.0,Making Right Turn,0,0,0,0,0,0,0.0,0
+SEP-2025,13781-11735,7bbd7c47a2835b5,SUV,Street,0.0,Making Right Turn,0,1,0,0,0,0,0.0,1
+SEP-2025,13781-11801,4b4ed6aae1f20c4,Passenger Car,Highway / Freeway,63.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+SEP-2025,13781-11785,e77ec1fc1728e57,Passenger Car,Highway / Freeway,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+SEP-2025,540-11830,dc5ba5348409c1b,Other Fixed Object,Highway / Freeway,51.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
+SEP-2025,13781-11796,943f6287807780d,Motorcycle,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
+OCT-2025,13781-11878,482f59a2f13a3d6,Heavy Truck,Highway / Freeway,0.0,Stopped,0,0,0,0,0,0,0.0,1
+SEP-2025,13781-11872,02919351a57908a,Other Fixed Object,Street,27.0,Making Right Turn,1,0,0,0,0,0,0.0,1
+SEP-2025,30351-11961,f657f0409ac3100,Passenger Car,Highway / Freeway,82.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2025,13781-11984,fe2fc458d749c2d,SUV,Highway / Freeway,56.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+OCT-2025,13781-13070,d8f12e4eff62b02,Pickup Truck,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,1
+NOV-2025,13781-13103,e3ccd79e710f9ee,"Other, see Narrative",Street,3.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+NOV-2025,540-13136,c9b65c53b9372e9,Animal,Highway / Freeway,74.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+NOV-2025,540-13134,3c11baeadf9631b,Animal,Highway / Freeway,79.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+NOV-2025,540-13168,c2e4e3535458682,Heavy Truck,Highway / Freeway,82.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+NOV-2025,13781-13149,144aafaa4aadcdc,"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
+JUN-2025,502-11164,5e051d969411d79,SUV,Highway / Freeway,47.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUN-2025,753-11237,d2f25a83458c8e5,Passenger Car,Street,42.0,Proceeding Straight,0,1,0,0,0,0,1.0,1
+MAY-2025,855-11157,9f0533f85a6081e,Other Fixed Object,Highway / Freeway,70.0,"Other, see Narrative",0,0,1,0,0,0,1.0,1
+JUN-2025,1243-11292,2734e8462c79cbd,Other Fixed Object,Highway / Freeway,80.0,Changing Lanes,1,0,0,0,0,0,0.0,0
+MAY-2025,855-11008,3cc17f8b88e228f,Passenger Car,Highway / Freeway,48.0,Crossing into Opposing Lane,0,0,0,0,0,0,0.0,1
+JUN-2025,540-11299,46dc888225f18e9,Other Fixed Object,Highway / Freeway,29.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
+MAR-2026,753-15460,0eb4b783717d46c,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+AUG-2025,13781-11492,a0202b1e608a499,Passenger Car,Street,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+AUG-2025,753-11524,870f2ec6fb79488,Pole / Tree,Highway / Freeway,45.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+AUG-2025,540-11570,a17d80112858244,"Other, see Narrative",Highway / Freeway,20.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+SEP-2025,540-11620,c3c78e18d1810f1,"Other, see Narrative",Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+AUG-2025,13781-11585,17ac3decfeab82b,Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,1
+JUN-2025,13781-11431,85a35a61de2067c,"Other, see Narrative",Highway / Freeway,35.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUL-2025,1420-11691,d7ae72170706591,Other Fixed Object,Highway / Freeway,85.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+SEP-2025,13781-11685,07b8c8e2fd32e4b,Animal,Highway / Freeway,64.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+SEP-2023,62-11740,76da735f7eb6e2d,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+OCT-2025,1243-12006,bae354f585c8696,"Other, see Narrative",Intersection,58.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+OCT-2025,1243-12058,e1c5fb10a692a65,Passenger Car,Intersection,40.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+SEP-2025,540-11722,4abfcfe222150ec,Passenger Car,Highway / Freeway,57.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+SEP-2025,1243-11793,63538d947f1342f,Heavy Truck,Highway / Freeway,69.0,Proceeding Straight,0,0,0,0,0,1,0.0,1
+SEP-2025,855-11714,f1f2a0e533ba2ed,Other Fixed Object,Highway / Freeway,72.0,Proceeding Straight,0,0,1,0,0,0,1.0,0
+AUG-2025,855-11626,a967ef6a578bd62,Other Fixed Object,Highway / Freeway,63.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0
+DEC-2025,540-13446,095020482669c02,Heavy Truck,Intersection,43.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2024,13781-9448,32bb09042cdeec2,Other Fixed Object,Street,16.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+AUG-2025,1243-11628,0cffa6c59a95c35,Other Fixed Object,Intersection,47.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2025,13781-12029,a572312702dd65a,Other Fixed Object,Highway / Freeway,68.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+AUG-2025,1306-11719,929786c080b2ce1,"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUL-2025,1243-11470,c0f75be10837269,"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+SEP-2025,12381-11624,9001d09cb13401d,Other Fixed Object,Highway / Freeway,68.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+OCT-2025,540-11891,bdd452f395d1ea7,Pickup Truck,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+MAY-2024,945-11423,6ad0222ea914201,SUV,Highway / Freeway,64.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+JUN-2025,1243-11191,0620973f89f74fb,Passenger Car,Highway / Freeway,70.0,Proceeding Straight,0,1,0,0,0,0,1.0,0
+DEC-2025,540-13572,eb2183a6b8f6863,Other Fixed Object,Highway / Freeway,72.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+FEB-2026,502-14139,2ecebb431907723,Other Fixed Object,Highway / Freeway,69.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+JAN-2026,753-13787,f34080175c7f665,Heavy Truck,Highway / Freeway,60.0,Merging,1,0,0,0,0,0,0.0,1
+APR-2026,540-14872,d41b45fe914dc81,"Other, see Narrative",Highway / Freeway,71.0,Lane / Road Departure,0,0,0,0,0,0,0.0,0
+MAY-2026,12381-14900,d7f830634927755,Heavy Truck,Highway / Freeway,37.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2025,10039-13368,5342e690698d92a,Passenger Car,Highway / Freeway,77.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+JAN-2026,540-13637,c8f10d4d1243c2f,Other Fixed Object,Highway / Freeway,80.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+OCT-2025,12381-13784,111c814a88bb5a7,Other Fixed Object,Highway / Freeway,45.0,Lane / Road Departure,0,0,1,0,0,0,1.0,1
+DEC-2025,13781-13299,75c5cdf7a47d90b,Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0
+NOV-2025,540-13191,426b9d124d74852,Other Fixed Object,Highway / Freeway,53.0,Lane / Road Departure,0,0,0,0,0,0,0.0,1
+SEP-2025,540-11788,db08959fb1aa3cb,"Other, see Narrative",Highway / Freeway,59.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUL-2025,753-11834,94b6db63b6fd782,Other Fixed Object,Highway / Freeway,75.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+NOV-2025,669-13131,79660954854440d,"Other, see Narrative",Highway / Freeway,75.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+NOV-2025,540-13200,d04b1f372271b29,"Other, see Narrative",Highway / Freeway,67.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+DEC-2025,540-13273,04887ef5bde68f4,SUV,Highway / Freeway,85.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+JUN-2025,13781-11178,6e6084f0ed26c26,Heavy Truck,Highway / Freeway,18.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+DEC-2025,502-13360,b7b2fed75c006c4,Passenger Car,Highway / Freeway,0.0,"Other, see Narrative",1,0,0,0,0,0,0.0,1
+MAR-2026,502-14437,957db53439b16cc,Other Fixed Object,Highway / Freeway,61.0,Proceeding Straight,0,1,0,0,0,0,0.0,1
+FEB-2026,502-14094,254d54c9ff1319e,Passenger Car,Street,34.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2025,502-11893,1f61430dee8d5d9,Animal,Highway / Freeway,77.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUN-2026,540-15407,1d8a4dbe15c64ee,Other Fixed Object,Highway / Freeway,78.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0
+JUN-2026,540-15343,936c1814f0592b9,Passenger Car,Highway / Freeway,68.0,Proceeding Straight,1,0,0,0,0,0,0.0,0
+JUL-2026,502-16127,f15bd18438557ba,SUV,Highway / Freeway,59.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+OCT-2025,1306-14873,8fa5fc58d189add,Other Fixed Object,Highway / Freeway,82.0,Lane / Road Departure,1,0,0,0,0,0,0.0,1
+MAR-2026,1306-14367,2bbb6afecf94b0f,Pole / Tree,Highway / Freeway,78.0,Proceeding Straight,0,0,1,0,0,0,1.0,1
+MAR-2026,540-14273,ebef116f08ce0e1,Other Fixed Object,Highway / Freeway,50.0,Lane / Road Departure,0,1,0,0,0,0,0.0,0
+DEC-2025,540-13562,27d9b9eeff8a1ad,SUV,Highway / Freeway,81.0,Proceeding Straight,0,1,1,0,0,0,0.0,0
+FEB-2026,62-14226,4552fa8853ed180,Pole / Tree,Street,25.0,Proceeding Straight,0,0,0,0,0,0,0.0,1
+DEC-2025,540-13577,f27767e2f6fb2d3,Other Fixed Object,Highway / Freeway,49.0,Proceeding Straight,0,1,0,0,0,0,0.0,0
+MAY-2025,1243-10981,b08fc13816ae0bd,Other Fixed Object,Highway / Freeway,69.0,Proceeding Straight,1,0,0,0,0,0,0.0,1
+DEC-2025,753-13580,1529eb548cf12b0,Passenger Car,Highway / Freeway,55.0,Proceeding Straight,1,0,0,0,0,0,0.0,1

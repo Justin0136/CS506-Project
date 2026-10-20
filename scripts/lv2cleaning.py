@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 
 # Locate the raw data folder
-data_folder = Path(__file__).resolve().parent.parent / "data" / "raw"
+data_folder = Path(__file__).resolve().parent.parent.parent / "CS506-Project" / "data" / "raw"
 
 # Load the ADAS datasets
 # ADAS_archive contains an invalid UTF-8 byte sequence, so we use encoding_errors="replace" to handle it
@@ -191,11 +191,40 @@ adas_clean = pd.concat(
     ignore_index=True
 )
 
+# Count how many of the selected features are populated
+features = [
+    "Crash With",
+    "Roadway Type",
+    "SV Precrash Speed (MPH)",
+    "SV Pre-Crash Movement"
+]
+
+adas_clean["completeness"] = (
+    adas_clean[features]
+    .replace(["Unknown", ""], pd.NA)
+    .notna()
+    .sum(axis=1)
+)
+
+# Keep the row with the most complete data for each Report ID
+adas_clean = (
+    adas_clean
+    .sort_values("completeness")
+    .drop_duplicates(subset="Report ID", keep="last")
+    .drop(columns="completeness")
+    .reset_index(drop=True)
+)
+
 # Check the combined dataset
 print("\nCombined ADAS Dataset:")
 print("Total rows:", len(adas_clean))
+print("Duplicate Report IDs:",
+      adas_clean["Report ID"].duplicated().sum())
+
+
 print("\nInjury distribution:")
 print(adas_clean["Injury"].value_counts(dropna=False))
+
 
 # Keep only reports with known injury outcomes
 adas_model = adas_clean.dropna(subset=["Injury"]).copy()
@@ -350,7 +379,7 @@ print("\nMissing values:")
 print(adas_final.isna().sum())
 
 # Create the processed data folder
-output_folder = data_folder.parent / "processed"
+output_folder = data_folder.parent.parent.parent /"CS506-Project" / "data" / "processed"
 output_folder.mkdir(parents=True, exist_ok=True)
 
 # Save the modeling dataset
