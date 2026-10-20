@@ -107,7 +107,7 @@ for ax in axes_injury:
 
 fig_injury.tight_layout()
 fig_injury.savefig(
-    output_folder / "injury_movement_comparison.png",
+    output_folder / "injury_crash_with_comparison.png",
     dpi=300,
     bbox_inches="tight"
 )
@@ -141,7 +141,7 @@ for ax in axes_no_injury:
 
 fig_no_injury.tight_layout()
 fig_no_injury.savefig(
-    output_folder / "no_injury_movement_comparison.png",
+    output_folder / "no_injury_crash_with_comparison.png",
     dpi=300,
     bbox_inches="tight"
 )
