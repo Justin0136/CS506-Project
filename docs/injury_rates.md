@@ -1,5 +1,7 @@
 # ADS injury rates by crash condition
 
+![ADS injury rate by condition](figures/injury_rates.png)
+
 Results from `scripts/eda_injury_rates.py` (2,878 ADS crashes; groups under 30 crashes excluded).
 
 ## Findings
@@ -20,3 +22,8 @@ Results from `scripts/eda_injury_rates.py` (2,878 ADS crashes; groups under 30 c
 - Rates are among reported crashes only; there is no mileage data.
 - Cyclist, motorcycle and 45+ mph groups are small, so their rates are uncertain.
 - Injury severity is alleged by the reporting company, not verified.
+
+## File locations
+Code: `scripts/eda_injury_rates.py`  
+Chart: `docs/figures/injury_rates.png`  
+Table: `results/injury_rates/injury_rates.csv`
