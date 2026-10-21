@@ -1,0 +1,24 @@
+value,injury_rate,crashes,condition
+Bus,0.013,76,Crash With
+Heavy Truck,0.03,234,Crash With
+Motorcycle,0.265,34,Crash With
+Non-Motorist: Cyclist,0.413,46,Crash With
+Other Fixed Object,0.048,105,Crash With
+"Other, see Narrative",0.037,243,Crash With
+Passenger Car,0.111,1022,Crash With
+Pickup Truck,0.084,285,Crash With
+SUV,0.102,657,Crash With
+Van,0.1,100,Crash With
+Highway / Freeway,0.104,77,Roadway Type
+Intersection,0.124,736,Roadway Type
+Parking Lot,0.019,214,Roadway Type
+Street,0.096,1841,Roadway Type
+0,0.086,1577,Speed (mph)
+1-10,0.108,701,Speed (mph)
+11-25,0.128,414,Speed (mph)
+26-45,0.103,126,Speed (mph)
+45+,0.059,51,Speed (mph)
+Weather - Clear,0.104,2212,Weather / surface
+Weather - Cloudy,0.084,550,Weather / surface
+Weather - Rain,0.072,111,Weather / surface
+Wet Surface,0.096,114,Weather / surface
