@@ -1,0 +1,24 @@
+Matthew's Branch: 
+
+Shorter version:
+Level 2 cleaning: 
+- Kept same format as ADS.
+- Ensured alignment with Level 2 data.
+
+Comparison charts: 
+- Visualized crash condition features. 
+- Note the difference in sample size between ADS and level 2 --> normalized graphs can be easier to analyze. 
+- Also separated on injury label.
+
+Takeaways: 
+- Features are likely not fully independent, and there are reporting biases between ADS and level 2. 
+  - Ex: Roadway type may inform us about the amount of each type of pre-crash movement (so they are hypothetically related). 
+- The same idea goes for looking at reporting biases across injury labels, and can help us draw conclusions about injuries
+  - Ex: Crash With data for ADS shows more injuries reported in non-motorist labels as compared to heavy trucks.
+
+Long version:
+Level 2 Cleaning: I stayed closely to what Justin did for the ADS cleaning, so that the processed data would be uniform format and easier to work with, main additions are ensuring that the fields and values are valid for level 2 as compared to ADS, added some checkers for weird reports in level 2, and the deduplication after combining archive and current.
+
+Comparison charts: Created bar graphs to be able to visually see the crash conditions feature values: for counts and normalized in both ADS and level 2. The normalization is primarily to be able to better compare ADS and level 2, because the sample size for ADS is n = 2878, while the sample size for level 2 is n = 600. This helps to see the different biases in reporting ADS vs level 2, and to get a visual grasp on the most common feature values. I then separated these graphs based on injury label, (and also did so for weather), so that we can see the differences based on injury label (It's best to look at these graphs by looking at the injury and no-injury charts at the same time, I tried to make them 2x2 subplots but it was too squished so I separated them).
+
+Takeaways: Normalized Roadway Type shows that ADS reports are more likely to take place on a street or intersection as compared to level 2, which primarily are reported on highways/freeways. This also informs us about Normalized Pre-Crash Movement. We might already have expected more crashes to occur when "Proceeding Straight", but here we see that this effect is more pronounced in the level 2 data. On the other hand, ADS reports have a much higher % of "Stopped" reports than level 2. This aligns with our roadtype data, since cars are much more likely to be proceeding straight on a highway, and less likely to be stopped on a highway. This tells us that in the future it may be good to analyze these features as having some correlation and not being indepedent of each other (we also should check this hypothesis). For the normalized injury graphs, the Crash With feature tells us that for ADS, injury reports involving Non-Motorist labels are a higher % of the total amount of injury-containing reports, while heavy trucks are a higher % of the no injury-containing reports. These takeaways aren't everything, but represent how I thought about interpreting the data, and also can help us validate our findings in the future.
