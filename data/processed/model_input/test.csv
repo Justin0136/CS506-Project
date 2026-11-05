@@ -1,0 +1,851 @@
+Incident Date,Report ID,Same Incident ID,Crash With,Roadway Type,SV Precrash Speed (MPH),SV Pre-Crash Movement,Weather - Clear,Weather - Cloudy,Weather - Rain,Weather - Severe Wind,Weather - Snow,Weather - Fog/Smoke/Haze Combined,Wet Surface,Injury,Incident Year,Model Year,Vehicle Age
+JUN-2026,30270-15631,3b55ed352210cdf,Passenger Car,Unknown,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,31101-14654,148308c29dce42f,Animal,Street,15.0,Unknown,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-15988,ddae70cc61e2e0b,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15938,304a39ba3f7d0e4,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16114,2234a28c4e8fb96,Other Fixed Object,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30270-15939,dae7289f9d63b84,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15994,76bca586de9a547,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15909,241c23d8aa12f63,SUV,Intersection,15.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15893,7b6cae38fea58d6,Pickup Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16112,6c1a08f1e98ac53,"Other, see Narrative",Street,45.0,Proceeding Straight,0,0,0,1,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30530-16220,bed04cd78f8ec77,"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2023.0,3.0
+JUL-2026,30270-16111,1cac591a8072dbf,Other Fixed Object,Street,5.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30270-15890,8e6acf29ac6f987,Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15900,300ed18a11bbca0,Heavy Truck,Street,1.0,Backing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16167,27eb3ba87b70c32,Pickup Truck,Street,15.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15906,678002aafc1f05c,SUV,Street,20.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,35021-16268,867e7e8f2b81486,Passenger Car,Street,19.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0,2026,2023.0,3.0
+JUL-2026,30270-16115,5d9d9abf8d58b16,SUV,Street,5.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30270-16165,030d1a97f183bf5,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,13781-16256,7420ebc8c51d9ec,Other Fixed Object,Parking Lot,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,13781-16255,6636966804ac538,Other Fixed Object,Parking Lot,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-15901,71e217f012b5b0d,SUV,Intersection,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15894,f30b84f40ec6527,Passenger Car,Street,1.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15892,9a66ef3e7c03c51,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30270-16201,45c84ee98d206a8,"Other, see Narrative",Unpaved Road,15.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30270-16205,2313e0a5276fa7c,Passenger Car,Street,7.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUL-2026,30270-15810,6fbd453146dc2d4,Animal,Highway / Freeway,63.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30270-16168,b153840e2689853,Van,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16110,71cf32745142916,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15828,280d46d0692575e,Passenger Car,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30291-16243,82c44a2db2d1b57,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2022.0,4.0
+JUL-2026,30291-16241,9f514a8dd3e9d62,Passenger Car,Street,1.0,Proceeding Straight,0,0,1,0,0,0,1.0,0,2026,2022.0,4.0
+JUL-2026,30270-15836,7dbf6a4d096c5f6,Passenger Car,Street,29.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16208,2d4180877e9867b,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16210,cee4c694ffc6293,Passenger Car,Street,3.0,"Other, see Narrative",0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16207,32720b6b155d24d,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16174,9e32f97063cd034,Passenger Car,Street,12.0,Passing,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30413-16238,a2079c100dfd177,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2023.0,3.0
+JUL-2026,30413-16218,5129d7a8bb470c8,Van,Street,0.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16171,de9600c1f5d999f,Other Fixed Object,Parking Lot,3.0,Backing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16172,003a9a4a34d20d8,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16196,4c6d6b79d0d8974,Non-Motorist: Pedestrian,Street,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUL-2026,30270-15984,93d0bca88ebaf07,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15930,0a9a1b52889f5f9,SUV,Street,20.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16166,c4ff07cf6c66df2,Pickup Truck,Street,6.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16123,c0adb95d5980d1e,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16093,571711cd8769c72,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+AUG-2026,30270-16082,2ca40dc3f6ff2d2,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+AUG-2026,30270-16097,e7ae4d502d7a9dc,Other Fixed Object,Street,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JUL-2026,30270-16090,7fbd577071e9c78,Other Fixed Object,Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16032,c1f1ddfe9f834d5,Heavy Truck,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JUL-2026,30270-16083,196dc696dcf04ac,Passenger Car,Street,4.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16081,716fbf742f27a58,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16039,26950c4c180c27b,SUV,Street,24.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16034,11a1a3543a7bff5,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16080,4f210463b6dbf56,Passenger Car,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,31101-16037,c9f37eb39f93fbc,Non-Motorist: Cyclist,Street,11.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2025.0,1.0
+JUL-2026,30270-16035,97fe20b144e8c53,Passenger Car,Parking Lot,3.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16023,bc62ea83356d5fd,Bus,Street,0.0,Changing Lanes,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUL-2026,30270-16020,821101a5f0eddfc,Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16024,4ee911a729687c4,Bus,Parking Lot,3.0,Passing,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16001,f0d6da4927b1ac1,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JUL-2026,30270-15997,00a69353fc91d7a,Pickup Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15996,48d5d8136805068,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUL-2026,30270-16028,e1bccc94686b59d,Passenger Car,Street,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUL-2026,30270-15990,abe0d6079ae7e0e,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16021,8df2402ebdd460f,SUV,Highway / Freeway,53.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2025.0,1.0
+JUL-2026,30270-15989,66675446d80c8c9,Passenger Car,Street,40.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30270-15993,d9df96b8188b1ce,"Other, see Narrative",Street,29.0,Proceeding Straight,0,1,0,0,0,0,1.0,0,2026,2024.0,2.0
+JUL-2026,30270-15992,4555d0a5062ef12,Bus,Street,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15991,aaa95f76209de4d,Bus,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,31101-16016,9ccce7c35186720,Passenger Car,Street,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-15987,a1d19a87db5c73b,Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,31101-15850,47633ec5ca46ace,Non-Motorist: Scooter - Skateboard,Intersection,14.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2026.0,0.0
+JUL-2026,30270-15986,62c29a4ff523e85,Bus,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JUL-2026,30270-15985,4bf66bb3a8f2c04,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15897,c9f32dc908db60f,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15927,b9666839a689d51,SUV,Street,4.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15931,4e7333a927567a5,Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15934,11c53a3790e4476,Pole / Tree,Parking Lot,4.0,Making Left Turn,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15933,e3869c4ce666143,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15896,38f1727a6756069,SUV,Street,14.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2025.0,1.0
+JUL-2026,30270-15895,13cbdf59b0b754c,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15932,22dcbf2fd98fe0d,Bus,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15925,1c47c1a630c8942,Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUL-2026,30270-15899,110b5992610ba09,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15898,3338e23081c8551,SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30410-15730,28b1c784d93a162,Heavy Truck,Street,1.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15889,949157d817cf093,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15831,b9b769d0743c592,Passenger Car,Intersection,11.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15830,beee66377373c78,Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUL-2026,30270-15832,d48b0b6c524940e,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUL-2026,30270-15813,dc366ba8a98f709,Passenger Car,Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15785,407828e694dfa66,Passenger Car,Intersection,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15788,38eca3b94fe533c,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15829,d3cd658ba6b6c73,Pickup Truck,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30610-15827,e71e53e28d8c94e,Pickup Truck,Street,9.0,Changing Lanes,0,1,0,0,0,0,0.0,0,2026,2019.0,7.0
+JUN-2026,30610-15826,755bbd9bfeb9e1a,Passenger Car,Street,0.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,30610-15822,6426eefe9a84263,Non-Motorist: Other,Street,4.0,Proceeding Straight,0,0,0,0,0,1,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15818,23e5092fb203585,Passenger Car,Intersection,7.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JUN-2026,31101-15391,3f049fd1f212039,SUV,Street,15.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,31101-15477,1b47718a1437a9f,Passenger Car,Street,4.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-15812,4b366cb7dffe394,"Other, see Narrative",Parking Lot,10.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,31101-15475,305e752c6430d93,SUV,Intersection,9.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,31101-15501,eeef4c3b6adf84c,SUV,Intersection,21.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUN-2026,31101-15554,4974e1412309a92,Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,31101-15555,00bf04137c6fe51,Pickup Truck,Intersection,2.0,Making Right Turn,0,1,0,0,0,0,1.0,0,2026,2026.0,0.0
+JUN-2026,31101-15587,e99b4f1d99d1a64,SUV,Intersection,4.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,30270-15671,0a63600257475a2,Other Fixed Object,Parking Lot,2.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15666,e173544d5302aa3,SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUN-2026,30270-15653,f4ac9d2f9da4aca,SUV,Parking Lot,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15584,e3d40a36f727b1e,Heavy Truck,Intersection,4.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15507,fa5f1c553df1af6,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUN-2026,30270-15403,09b5a4e89f27448,Animal,Street,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15663,7f831d730349c04,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15672,1d06b188ebcc8fd,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15673,7372116fd2a26e6,Passenger Car,Street,21.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15668,49a1e71ee029b0c,Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15674,6dd5489a060aecd,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUN-2026,30270-15782,bb192e5187082b6,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15675,da9f78dd9efbc3a,Passenger Car,Street,19.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15670,c831e8b26ab843b,Pole / Tree,Parking Lot,1.0,Backing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15710,69b4bfb94458b5c,Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15661,45c43ec2a3f4270,Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15660,802c80ebf879b99,SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15665,5c60ca37c26b42c,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15664,375730eabf1796c,SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15585,cf887eff11bfdc9,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15583,7dd2f1111b60db0,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15662,55c115acd2ea4d3,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15659,f16394ad5598be9,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15580,771be681329d854,SUV,Street,44.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15780,785d7fc5acc5a61,SUV,Street,26.0,Changing Lanes,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15577,2fb6b17ec9d5bae,"Other, see Narrative",Intersection,11.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JUN-2026,30270-15637,a86a98b59ceb46c,Pickup Truck,Street,5.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15576,6fe30e73d1bb8d1,Heavy Truck,Street,7.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15744,00b490148a8132f,Passenger Car,Street,33.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15509,dae1536e7424c5e,Passenger Car,Parking Lot,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15560,33f9c198495abc8,Pickup Truck,Parking Lot,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15508,8b578b5c3be9177,SUV,Street,5.0,Entering Traffic,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15635,69a76d4ab4c428a,"Other, see Narrative",Street,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15642,e18652b03d3c35c,Pickup Truck,Street,24.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15535,2ff0376b50ebae5,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15505,5b07ab8e3987e65,Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15511,45640610b43a542,Heavy Truck,Street,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15393,025397c44a5648d,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15474,86151cfd3ed71bb,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15473,2af27f27be5cdd0,SUV,Parking Lot,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15658,03304001d6f328a,Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15500,5af7f197a2189c1,Bus,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15398,1e1e7b463e80871,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15536,aa1eefdd3021328,Pickup Truck,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUN-2026,30270-15365,fa6740d83180bda,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15396,2bd875cf276dd75,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15401,0407051edee148a,Non-Motorist: Scooter - Skateboard,Street,2.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15397,cf3296ffcc7bdf9,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15470,3deea923dd70ef2,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,13781-15809,ebda2c940572e10,SUV,Intersection,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,13781-15808,4093fefb16c25f5,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-15786,da46ed3a1124c94,Heavy Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30451-15790,28af066410d3d0a,Heavy Truck,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30530-15781,47905da3dadbe58,Pickup Truck,Intersection,27.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-15728,06912cee723697b,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15725,a618b643e544cd6,Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15723,339bff8c25c90c8,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15729,6030e429f5dee26,SUV,Street,3.0,Parking Maneuver,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15726,cb5b672d0cb1d38,SUV,Street,14.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15709,6bdc7cb4799729b,Passenger Car,Street,17.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30610-15722,115c701a830774b,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15720,6921816d4ea4ecc,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30410-15591,f89bed9069d7689,Passenger Car,Street,0.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15718,c7d141d1faa4536,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-15667,5b946c0f9ebd71a,SUV,Street,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUN-2026,30270-15640,e099fb4bfb559ef,"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15641,136c91e7f6d7ad8,Heavy Truck,Intersection,26.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15634,a5997e446eed08d,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15633,f157ffe36415dcc,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15639,8ff98a0b5787033,Passenger Car,Street,0.0,Parked,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15629,242bac300a49be8,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15593,4a126f360629b70,SUV,Street,0.0,Stopped,0,0,1,0,0,0,0.0,1,2026,2024.0,2.0
+JUN-2026,30610-15638,8ab79bfd2d5b7eb,Passenger Car,Street,3.0,Proceeding Straight,0,1,1,0,0,0,1.0,0,2026,2017.0,9.0
+JUN-2026,30270-15590,b83282f32aa9b0c,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15592,9e04d0a103ba209,Passenger Car,Street,6.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15582,7aa09a38e51d178,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30610-15628,fb5e907b5b28395,SUV,Street,1.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,30270-15558,41ba6e02ad144d9,SUV,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15557,aa3db3d3553a05e,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15553,a793375b9d6884d,"Other, see Narrative",Street,11.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15552,f4135e9bffae404,Passenger Car,Street,3.0,Backing,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15586,a2dd94ce934265a,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15549,2e533ecc396fce2,Passenger Car,Intersection,27.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15551,eab08d64f46b023,"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15550,febf5d971d9f01f,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15547,6dd15b832c8ed48,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUN-2026,30270-15546,ed7a29287f4cbc0,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15545,7aad2f639d9ebaa,"Other, see Narrative",Parking Lot,10.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15559,8da785eec3187c9,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2021.0,5.0
+JUN-2026,30270-15534,2eb2750db4f2ab9,SUV,Street,17.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15504,c75f8248f8d2dce,Passenger Car,Highway / Freeway,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,1,2026,2021.0,5.0
+JUN-2026,30270-15503,a1777d40f83a37a,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15502,8f666d5db1507b9,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30610-15541,3bb9c11e44dfe40,Pickup Truck,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUN-2026,30610-15540,6634e84c69c18dd,Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,30270-15498,7137fbbc153b2bd,SUV,Street,19.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15497,ea9fc31791fb9b9,SUV,Street,0.0,Stopped,0,0,1,0,0,0,1.0,0,2026,2024.0,2.0
+JUN-2026,30270-15494,609f2323c3f015b,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15484,0979687e38f8f78,Pickup Truck,Street,12.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15483,d379326751d30fa,SUV,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15510,aedcdbfcb94c218,"Other, see Narrative",Street,34.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15482,61eac6ee6bd0367,SUV,Street,6.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15472,7f3905efe57d2a6,Van,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15471,e87db228f241a04,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+JUN-2026,30270-15469,c38a03b491ef145,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15425,4a4070e3cadc67a,"Other, see Narrative",Parking Lot,8.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30610-15481,1549113738cf5fd,Passenger Car,Street,10.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2019.0,7.0
+MAY-2026,30610-15480,76885c23bb1c231,Pickup Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2019.0,7.0
+MAY-2026,30270-15029,78d4173a18eaa52,"Other, see Narrative",Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14989,96b7cee8621bc70,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15069,11ee822371429c8,Motorcycle,Street,4.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15030,0714d81c98729b4,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15097,5ab9302c7c5e9c6,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15098,6f683f0f37f5e27,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15238,e01fe777bc7cebc,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15263,5cd518cd4add61f,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15177,36d96f9b2661bd3,SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAY-2026,30270-15287,bc19b427e3a246f,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15307,4155f4389a6aca0,SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15261,ac5b68479162724,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15262,dc7747d10f2aee0,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15292,2d1a745de459b33,Van,Street,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,31101-15093,bd65f28675814b1,Other Fixed Object,Intersection,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAY-2026,31101-15099,0b18be2cc314801,Passenger Car,Street,7.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAY-2026,31101-15100,e432bab45b87b36,Passenger Car,Street,0.0,Merging,0,1,1,0,0,0,1.0,0,2026,2025.0,1.0
+MAY-2026,31101-14974,1b2dba4b216c736,Passenger Car,Street,17.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAY-2026,31101-14898,7bd5b3076128d15,Pickup Truck,Street,21.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAY-2026,30270-15260,8ea2ffb45b31ccc,Passenger Car,Street,0.0,Parked,0,0,1,0,0,0,1.0,0,2026,2024.0,2.0
+MAY-2026,30270-15257,6109fd210931b16,"Other, see Narrative",Street,19.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15298,0ffe81feb04236f,Bus,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15291,62662c13b50031b,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15299,e532f51ac1aa8aa,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15259,36021331c11e7bb,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15289,588c6d255f424b8,Passenger Car,Traffic Circle,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15255,d29f5a4b9ddf9ef,Passenger Car,Intersection,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15195,3882252d5641b7a,Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15285,d1da10f4bebadec,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15290,eabf7708a56cc45,"Other, see Narrative",Street,26.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15191,a4b1d8f5658680c,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15179,8457fb412081c72,Motorcycle,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15178,1130e10f709f619,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15190,9e6517cb4be86b4,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15106,7d6d4942edb67c8,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15176,c4355bf2266f7b5,Van,Street,32.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15302,8c15b7696dc3cad,Heavy Truck,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+MAY-2026,30270-15014,53742358e772844,Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14945,ddb8d6f6705d53f,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15002,4a6b7e3f7b3d162,Animal,Intersection,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14988,af97157909b3291,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14987,6c59fc757b5cd6f,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14992,1124d490953b219,SUV,Street,3.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15256,db844ff55e8712b,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14984,45ed3d57421171c,SUV,Intersection,13.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15015,743e17db5aaae34,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14982,e9140bf2011fe2d,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15253,bbdfce11db6913a,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14981,a4855381bcacb33,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14908,ef6425970681a10,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-15300,b101f0e902db537,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30610-15465,76fe972e834cdb5,Pickup Truck,Intersection,7.0,Making Left Turn,0,1,0,0,0,0,0.0,0,2026,2019.0,7.0
+MAY-2026,30413-15464,08ec8b688c6da5f,"Other, see Narrative",Street,32.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2023.0,3.0
+MAY-2026,30413-15463,9c06615257de0f4,"Other, see Narrative",Street,33.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15356,b679b73ef4c034b,SUV,Street,32.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15392,927962389e0220f,Van,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15360,960f84364036c6d,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15358,fdf7787813c220d,Pickup Truck,Street,11.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15352,6a20d07f9bbfd90,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15353,221c35a064eb9f9,Pickup Truck,Street,2.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15362,05d79864bf40427,"Other, see Narrative",Street,8.0,Making Right Turn,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15346,06da8374e99eb68,SUV,Street,5.0,Backing,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15374,1358e3b8e968ed0,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15349,7cf407372ae7b93,SUV,Parking Lot,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15348,a5c97133cf2d665,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15347,47b2c684d32f1af,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15350,6f1e53fb8c87cd4,SUV,Street,6.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,13781-15400,e197e3bfafa4d4e,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAY-2026,13781-15399,320367e19dd75d9,Other Fixed Object,Parking Lot,5.0,Making Right Turn,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAY-2026,13781-15395,c20a375501ff8b5,Pole / Tree,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,30270-15344,6eb0013826abd0b,Heavy Truck,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30410-15247,a84b653066e3b68,Passenger Car,Street,2.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,30270-15296,ebaaeeee8d9924a,Bus,Parking Lot,5.0,Making Right Turn,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUN-2026,13781-15342,5586a2747f69b63,SUV,Parking Lot,0.0,Backing,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAY-2026,30270-15251,3aa771b54ce5693,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15254,501f3b7ddfa7aa6,"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15252,523216e6e8979bf,Passenger Car,Street,14.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15245,ac76f9ac339d71d,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15250,438363c55b5eb24,First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15249,df4f2168746b1c0,Animal,Street,48.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15248,ff4e77294034af9,"Other, see Narrative",Parking Lot,10.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15246,fc8edb9a7204402,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAY-2026,30270-15243,cfc4982214190f9,Pickup Truck,Street,11.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15240,f1cd9b403368bc1,Pickup Truck,Street,4.0,Changing Lanes,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15244,d1a5d22fd4b06f6,Non-Motorist: Cyclist,Street,12.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15194,c5f49850f96e468,"Other, see Narrative",Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15193,6fae4f5dac9537c,SUV,Street,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2021.0,5.0
+MAY-2026,30270-15175,3f95cea5fcf8776,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15174,64e8c04b131f3b8,Pickup Truck,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAY-2026,30270-15192,c0746bba88135cc,Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAY-2026,30270-15173,de8efc3f6f49e9b,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAY-2026,30270-15172,876f3b0429a5e17,Bus,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,31101-15189,48109f45be02ae0,SUV,Intersection,26.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAY-2026,31101-15148,bb6b3b9fab2debe,SUV,Intersection,11.0,Proceeding Straight,0,0,1,0,0,0,1.0,0,2026,2025.0,1.0
+MAY-2026,30270-15160,8bd7b17fadf6f82,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15159,59a2273fb5694d1,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15158,3ef344e926bf933,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15157,99b0d97f618df12,"Other, see Narrative",Street,45.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15070,3d8644dfd8c835e,Pickup Truck,Street,20.0,Lane / Road Departure,0,1,0,0,0,0,0.0,1,2026,2025.0,1.0
+MAY-2026,30270-15102,8212332da3212c5,Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15105,8c47e2c871cfdd5,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAY-2026,30270-15104,35b5ed8b3ad4843,Passenger Car,Intersection,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15101,0c49fb4d0ffa565,"Other, see Narrative",Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15095,d4fd501e561b718,Pickup Truck,Street,1.0,Passing,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15073,d0a54fc1c39a1f7,Pickup Truck,Intersection,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15071,fb27be646522e31,SUV,Street,8.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15076,4d772dbc1a8fa25,"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15075,a8f5d9f02f27967,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15068,631c1b685c0f62f,Pickup Truck,Parking Lot,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15021,736fb36f9e489e1,Bus,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15067,90fe93bead0ad8c,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15025,16052bf593662d8,Bus,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15023,ef7b401fdbadc47,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15024,991c8e09082b56f,Passenger Car,Street,3.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30610-15065,2a42102a95dd944,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+APR-2026,30610-15064,c84a1490ad56060,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30610-15063,3cab2dc34503b45,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2019.0,7.0
+APR-2026,30610-15062,f1b3d813ec0e522,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2026.0,0.0
+MAY-2026,30270-14986,d9ab087a84f0cd4,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAY-2026,30270-15020,d689d09746da864,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15013,7a0b89fd9379a33,Passenger Car,Intersection,10.0,Making Left Turn,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15012,d16d87bb0fb2415,SUV,Parking Lot,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-15011,ff549e7641cb967,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14980,9041a50955c6506,Passenger Car,Street,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14716,1ca4b228ad523e6,SUV,Street,3.0,Changing Lanes,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14734,5a3b8879bc684e9,Pickup Truck,Street,0.0,Stopped,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14735,d1238fc3bc8c783,Passenger Car,Parking Lot,2.0,Proceeding Straight,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14738,bc1a5781fc55ea3,SUV,Parking Lot,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14736,f7214a9a0cc2932,Van,Street,18.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14714,9b4ca07f87a2d06,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14903,ed5b9f20e21dd22,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14891,e4b445eb9f5fa17,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14717,2396a12544c059e,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14932,9afe22f2ea11529,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14849,a6ede4eb521e9a6,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14833,4b2c3c3efc148b4,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,31101-14871,edd657a44fd6a11,Pickup Truck,Street,0.0,Stopped,0,1,1,0,0,0,1.0,0,2026,2025.0,1.0
+APR-2026,31101-14818,cd9be8d9ed22144,Pickup Truck,Street,11.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+APR-2026,31101-14899,6aaaedccb67388c,Passenger Car,Highway / Freeway,0.0,Stopped,0,1,1,0,0,0,1.0,0,2026,2025.0,1.0
+APR-2026,31101-14909,fc0d791f4d809b9,SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+APR-2026,31101-14923,36122e0aac9266e,SUV,Parking Lot,6.0,"Other, see Narrative",0,1,1,0,0,0,1.0,0,2026,2025.0,1.0
+APR-2026,31101-14924,56e3589b3502570,Non-Motorist: Cyclist,Intersection,0.0,Stopped,0,1,1,0,0,0,1.0,0,2026,2025.0,1.0
+APR-2026,31101-15016,d28468799264f21,SUV,Street,1.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+APR-2026,31101-14925,3178b1958caad7f,Pickup Truck,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+APR-2026,31101-14926,cd37a53750d3267,Passenger Car,Street,18.0,Proceeding Straight,0,1,1,0,0,0,1.0,0,2026,2025.0,1.0
+APR-2026,30270-14941,b80931ec56802d1,Other Fixed Object,Traffic Circle,21.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+APR-2026,30270-14889,39d2636ec10e813,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14931,2977844890af9a7,Van,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14715,e739bf5b0d4e4e2,Pickup Truck,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14667,8b3ce2dedbec440,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14936,c57f081c3de37e1,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14933,f7a2230e1fd70dc,"Other, see Narrative",Intersection,36.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14930,bd38fd2088c4694,Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14645,e76a6ccf14c0f2f,SUV,Intersection,19.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14934,2c31b61e2a1484a,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14711,ae87c732ad0ea3c,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30530-15027,ce63bac06303466,"Other, see Narrative",Highway / Freeway,59.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14882,ee7e8b35b4c6eda,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14935,dfa9ee66109b0f4,Passenger Car,Street,21.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14979,2b85919ed5b74d5,Passenger Car,Intersection,6.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2021.0,5.0
+MAY-2026,30270-14978,25b07ecc49e3cbf,SUV,Street,38.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30413-15019,0a931eff5e7e3b7,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14944,d5de757e0e3708a,Pickup Truck,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14895,1c765c0d4ebc46b,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14907,24c659c273dda76,Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14896,7372955dc2e63a2,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14887,2723c102bcae75c,"Other, see Narrative",Intersection,9.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14893,93245db5f697aa2,Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14905,31b153f9cce89b8,SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14940,b26eba4b4034171,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14943,afa7cfa2ef60e08,"Other, see Narrative",Street,32.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14901,858a902efbd00c1,Other Fixed Object,Traffic Circle,14.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14937,efe397e7cb77f46,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14845,4833ce94c159460,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14832,c2e8747368f98df,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14844,206217a4cc1cfa4,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14811,0d97ebf41e4d993,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14644,91558d71db1fc9d,SUV,Street,18.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14897,df8eb0aa198a17b,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14585,d858d2bd41f6b79,Pickup Truck,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14582,44b0158626395a9,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+APR-2026,30270-14834,708196cc1d998c7,Passenger Car,Street,9.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14584,c4fcb17008eaae1,SUV,Intersection,6.0,Proceeding Straight,0,0,1,0,0,0,0.0,0,2026,2021.0,5.0
+APR-2026,30270-14929,8c5f002b0d6d360,Passenger Car,Street,25.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14928,f9bd88388728d62,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14581,f4967b3d4bd46fb,Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14580,91cfb958f2b3cfb,Other Fixed Object,Street,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14579,ecdd616fa14eec7,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14710,91a170b2eebc71e,Van,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14713,eff0bf444343922,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30610-15018,ed9fe1a7cb56205,Pickup Truck,Intersection,8.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+APR-2026,13781-15017,63062a109838ba2,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAY-2026,30270-15009,1f49cee006a3ed0,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14977,7739219297660ac,Passenger Car,Intersection,8.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,34952-14990,a3b8990a21e7bfa,Heavy Truck,Highway / Freeway,60.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAY-2026,30270-14942,1e3f01c71a58f19,"Other, see Narrative",Parking Lot,7.0,Making Right Turn,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16000,79da0353c9601f3,Non-Motorist: Cyclist,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14939,56ac17ee8f3d57b,SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14976,b94eef835627fe8,Other Fixed Object,Street,17.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAY-2026,30270-14927,cab44a303787960,Van,Street,7.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16162,9369392adf543ea,SUV,Intersection,23.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAY-2026,30270-14894,6c562c5ecd705a5,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30413-14938,1011fffcf09d58e,"Other, see Narrative",Intersection,21.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAY-2026,30270-14890,6e5234c59081cf5,SUV,Street,7.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14850,a67935c163b04b7,Heavy Truck,Intersection,1.0,Backing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14888,1f4a8ee6abacd25,SUV,Intersection,11.0,Making Left Turn,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14848,291725a17aa4030,Bus,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14856,e1626f172093ae6,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14847,c22e207e0cf06b3,Pickup Truck,Intersection,18.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14846,8d097df63e2554f,Passenger Car,Highway / Freeway,65.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14831,a026953be239155,"Other, see Narrative",Street,19.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14828,7c3c57cd270297f,Other Fixed Object,Street,6.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14827,65fe89814e7cb0e,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14826,7d130771a8e4484,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14810,76b7aa6595f4278,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14809,319eb0dc9f09a4d,Bus,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14806,1e00cff247e0087,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14805,c1bd19bcf8deb30,Motorcycle,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14804,bae2cf6c304a1ed,Pickup Truck,Intersection,27.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14803,9ac03615081c068,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14773,dcd6e5e8a4c7825,Passenger Car,Intersection,17.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,31101-14815,97a27b014f6575f,Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0,1.0,0,2026,2025.0,1.0
+APR-2026,30270-14807,966ec4b54287e21,"Other, see Narrative",Parking Lot,9.0,Making Left Turn,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14707,f6968aed4573613,Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+APR-2026,30270-14737,e57194c05a5f9d1,Passenger Car,Highway / Freeway,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14733,c6649ebe493dbad,"Other, see Narrative",Parking Lot,8.0,Making Left Turn,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14712,8aae416f00dfc31,Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14706,39c942ea47522f8,Pickup Truck,Street,0.0,Stopped,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14704,d2e15ec06f0ec14,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14705,d99fc76c8221de7,"Other, see Narrative",Street,35.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14709,6d42834870aabc3,Passenger Car,Street,1.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30610-14732,19f8a69abde655f,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+APR-2026,30270-14708,1024682219a18ca,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14702,96381961cb700c1,SUV,Street,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2025.0,1.0
+APR-2026,30270-14666,84758f346083fd7,"Other, see Narrative",Parking Lot,8.0,Making Left Turn,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14701,fb7c263b79e7492,Pickup Truck,Intersection,15.0,Proceeding Straight,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14640,b7ba0224c536c40,SUV,Highway / Freeway,35.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14661,84e5e644c0c0f93,"Other, see Narrative",Street,5.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14660,1b3259ff41bd2dd,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14629,6cb0adf6053cd04,"Other, see Narrative",Highway / Freeway,63.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14628,04b1b064a76b942,SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14627,f54d2ae1d1e57a8,SUV,Street,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14626,833e94560071794,Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14621,e5dfd665c6253d5,Passenger Car,Intersection,1.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14620,a845f2ff7589f36,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30610-14665,fa4569805b2287b,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2017.0,9.0
+MAR-2026,30610-14664,7555ea7eda604d3,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,30610-14663,7d97266737502d0,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2019.0,7.0
+MAR-2026,30610-14662,cc840502f04ecb4,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+APR-2026,30270-14618,ce4ef1372ceba46,SUV,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14617,e3ec3402e35a4b5,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30792-14655,05c97f6f106059b,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30610-14656,7fe6c5cf891cf91,Passenger Car,Street,21.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,31101-14653,ec45c246b737e08,Passenger Car,Street,24.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2025.0,1.0
+APR-2026,30270-14619,2b60ce4ad3039b9,Passenger Car,Street,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,31101-14652,e7f8147f4058e80,"Other, see Narrative",Intersection,13.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAR-2026,31101-14651,c87e258b33c06d8,Passenger Car,Intersection,22.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAR-2026,31101-14650,e378580e8bcffe2,"Other, see Narrative",Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+APR-2026,30270-14587,9f89b2726694260,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,31101-14649,c606c01910cc633,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-16091,b3a3eb5a373c59d,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,13781-14631,239e75e81c5fdea,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,13781-14630,cbea5023d86487b,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,30270-14566,b4116e8774b7cd6,Passenger Car,Intersection,17.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14577,5a81f380d8c927a,SUV,Street,1.0,Backing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14558,5b538a74d6bc359,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14512,1f2c52e71168712,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14511,3e593a600cd68be,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14493,a1b9ed8b645badb,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14507,736b1aaa5abb8a0,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14478,593d316a6ee0028,Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14477,cc94e3a9ea66857,Bus,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14498,41bfa537013a245,SUV,Street,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14476,541b9c26a9582a4,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14625,5e333c2d18f1d87,SUV,Street,4.0,Proceeding Straight,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30413-14624,15d51f9feeb5bff,SUV,Intersection,6.0,Making Right Turn,0,1,0,0,0,0,0.0,0,2026,2023.0,3.0
+MAR-2026,30270-14491,b22b8f0e957a702,SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+MAR-2026,30270-14456,6fd35369a882182,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14454,4e935ade74224ee,Pickup Truck,Street,7.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14480,25e15464b06aff1,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14440,84ac5e05729c795,Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14479,fe84d99021ee17a,"Other, see Narrative",Street,13.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14426,0798cc6ce386b44,Heavy Truck,Street,1.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14506,ab718884f66d6d0,SUV,Street,3.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14422,57525ca8a3e832e,SUV,Street,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14354,46ade3c0cd750e5,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14391,0a5ce28ee3fb168,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAR-2026,30270-14424,204441c4917fed1,Passenger Car,Intersection,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14355,3ef810aa0805c42,Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14514,2adaf9f17cf3f6f,Other Fixed Object,Street,20.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14352,94f95095ba15e48,Bus,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14350,d7636709eeea740,Bus,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14349,16ba7a94a6ac210,SUV,Street,14.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14337,bf9de2111e05561,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14351,a2976c17a7afbf0,Van,Street,5.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14334,daef551f11f4d4c,SUV,Parking Lot,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14310,b6758b1728d148a,Bus,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14297,3588be168736e9b,Passenger Car,Intersection,19.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14329,49af5b61c59f419,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14313,03744d24bf2c357,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14305,bb70f7d3f326666,Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14494,89012b214b0da06,Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14300,7ccb13efbc3c748,Bus,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2021.0,5.0
+MAR-2026,30270-14289,67660d0d14c6f18,Passenger Car,Street,14.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14301,7205b1213fa15ab,SUV,Street,4.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14299,df499995c587bfd,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14294,82f590ee86b84c1,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14233,8b16759d2560e08,Passenger Car,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14232,fac34b3e0ebdc34,Non-Motorist: Cyclist,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+APR-2026,30270-14623,c754f3128a47aab,Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14586,f714f368c260da3,Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30410-14562,d0d2b956a14a299,Other Fixed Object,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+APR-2026,30270-14576,455477de59c8444,Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14575,c939cffe917d5cd,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14565,58615caf6d4336d,Passenger Car,Street,26.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14563,e3fe2a3ce31a3bb,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2021.0,5.0
+APR-2026,30270-14560,5949ade35ee4e36,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14559,20f1f92cfd1feac,Passenger Car,Street,2.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14557,8f16f091b638bcf,Passenger Car,Intersection,10.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14556,367269c0661b161,SUV,Street,11.0,Changing Lanes,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14578,7fa85ef74cc5f6d,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14537,edbea3cd567eced,Heavy Truck,Street,12.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16085,7dcf9031a798627,SUV,Street,16.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14520,3bf481890ce907d,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14516,8b8f359781d6cb7,Van,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30291-14538,ceb46ee4e182cc4,Motorcycle,Street,19.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2022.0,4.0
+APR-2026,30270-14513,fb1ea9a15260093,Heavy Truck,Street,15.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14495,164c083f7ae73e8,Passenger Car,Street,38.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30270-14510,b60a96fa298f010,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14497,a63d950dcfd350d,SUV,Street,17.0,Proceeding Straight,0,1,0,0,0,0,0.0,1,2026,2021.0,5.0
+MAR-2026,30270-14505,e3362ce3213a8bd,Passenger Car,Street,35.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14496,983ed57bc7bc7ca,Passenger Car,Street,3.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14492,784609f1c56edfe,Passenger Car,Highway / Freeway,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30610-14519,a8863dac1fb54a4,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,31101-14518,22425ea87f007ab,Pickup Truck,Intersection,11.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAR-2026,30270-14490,109ccd802db67dd,"Other, see Narrative",Street,10.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14486,0a7bf295780127a,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14488,29eb306cac5f2b8,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14485,5f7cc2afb3a6bc9,SUV,Street,35.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14484,6ae0fa474e6fd3a,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14483,33c3928e76fcabc,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30270-14482,2c89a2beb96ae22,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,31101-14509,4be7669b5d81c61,SUV,Street,19.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAR-2026,30270-14481,87959e4d5093ad9,Pickup Truck,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30270-14453,cba4474f90f4aaf,Passenger Car,Street,1.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14450,d09cef8bb6bafd4,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14449,ca71be640fd6548,SUV,Street,40.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14457,e6bd1c3e117dd7b,Heavy Truck,Highway / Freeway,2.0,Changing Lanes,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14455,8d2c164d501a618,Passenger Car,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14439,41f71a7d791c68d,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAR-2026,30270-14438,045dd4daaa9782d,Van,Street,1.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2021.0,5.0
+MAR-2026,30270-14441,50f638e3758da85,"Other, see Narrative",Street,9.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14423,035c4218b500be4,Passenger Car,Street,22.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14425,eb09283750d5156,First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14421,e2501b4dc575569,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14420,91f421583a078a1,Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14390,6a475a025f227de,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14389,f69ed49b28c17bb,SUV,Street,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30270-14383,3dadbcf335da06a,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14384,650435cb3542b6b,Other Fixed Object,Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30610-14419,1431aa571fee5ff,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,30270-14387,03f4b228d05cc74,First Responder Vehicle,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14348,0525c4ea802d184,Passenger Car,Street,22.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14346,31fa2bf86be2a86,"Other, see Narrative",Street,12.0,Passing,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14344,59437c9969373cf,Other Fixed Object,Street,18.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14345,58996615eb38037,Passenger Car,Street,33.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14343,fec61c976d97548,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+MAR-2026,30270-14335,244aef1feaeb7ff,SUV,Street,3.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,31101-14418,7518eaeda41cc38,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,30270-16084,0802ab119abd037,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-16038,be6ed683f1837df,Passenger Car,Street,5.0,Passing,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JUL-2026,31101-16018,6ab669533f2c1df,Passenger Car,Parking Lot,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-16050,2bb222591cc8318,SUV,Street,25.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,31101-16197,e460dd80fb8f063,Passenger Car,Street,8.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,31101-16195,63268669c3dc113,Van,Street,15.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,31101-16194,cf206ae97facd1d,Pickup Truck,Intersection,19.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUL-2026,30270-16036,951720855af03c3,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16025,f25565913a8b964,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16033,d1e0d1bca3cb28a,SUV,Street,23.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16022,bff8b6bf656d374,Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JUL-2026,30270-16164,ba688015f45ad22,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30610-14388,b0bc9730ab173f2,Passenger Car,Street,0.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,30270-14385,cbf8a25b20d9ec3,Other Fixed Object,Parking Lot,6.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14333,b31d37c64239f4d,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14331,2cd11c2a1a8f63a,Passenger Car,Street,30.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14332,9f0e10836b54876,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14330,576998eca6fd115,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30610-14366,18ddc703dc1ef13,SUV,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,30270-14336,d44acdf6402e21d,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14298,02e2eb992db7ae3,SUV,Street,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30610-14342,5d96462d6f8194c,Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+FEB-2026,30610-14340,b57194198433dd3,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+FEB-2026,30610-14339,d14518a784ebf3b,Non-Motorist: Cyclist,Intersection,1.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,30270-14296,7a5c01e6f2871dd,SUV,Street,39.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30270-14290,0dcc52388be3efc,Heavy Truck,Street,2.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,31101-14328,4f64051c1e8a9df,SUV,Street,27.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14243,a83acacdc66ae50,Pickup Truck,Intersection,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14225,56fd238339d188a,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14199,2934264745d4e3e,Bus,Intersection,4.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14143,f0e6d8e682e6d81,Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14081,ecdeda3fec4d35b,Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14098,cabb08d695498fe,SUV,Intersection,1.0,Proceeding Straight,0,0,1,0,0,0,1.0,0,2026,2024.0,2.0
+FEB-2026,30270-14144,004d7dbb4b2cc0c,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14080,233e9f2817ad109,SUV,Intersection,14.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14097,30f0810d0962fb8,Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14141,d1c0358e595cd70,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14091,794cf07eb37b090,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14119,7efeae2f836247e,SUV,Street,43.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14077,9bffa21b6fcc8be,SUV,Street,0.0,Stopped,0,0,1,0,0,0,0.0,0,2026,2021.0,5.0
+FEB-2026,30270-14029,41d9f5254cb7890,"Other, see Narrative",Street,28.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14027,4db3ce10be8a21f,SUV,Street,0.0,Stopped,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14012,096822672b0c267,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14008,3c33745e4e0fa8b,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14009,c76a783b430e36d,SUV,Intersection,9.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14044,07ee2d3563b1c77,SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14047,9b830b9ca982f32,"Other, see Narrative",Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14006,5064731c129ab49,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14304,ef7dd4a8ba75112,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14295,290906cf17f1e63,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14269,a8e1fc4f8d1fff9,Passenger Car,Street,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14287,22fc01d8faaa62a,Passenger Car,Street,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14274,caf5adbcbebdafc,SUV,Street,19.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14175,4afaa8a0dbd9090,Passenger Car,Parking Lot,0.0,Stopped,0,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14174,602dfa7c61d8f2a,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14168,fb7b212688f57ff,Van,Street,0.0,Parked,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14201,5dbec3b2d99c250,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14172,fd77b30ef5484f6,Other Fixed Object,Parking Lot,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14153,26389caa3154007,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14151,89a19245aaaea91,SUV,Intersection,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13980,2d117cb5cb544ec,Passenger Car,Street,0.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13977,2da625af19199e1,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13978,e8284826ea8862f,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13998,3db73b95cac1387,Pickup Truck,Street,7.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14000,9a51158d6217ea8,Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13981,a22e09a9f4e16a3,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14272,1594a977cafac0a,SUV,Street,0.0,Parked,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14271,6ed4ec06551d417,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14270,057fc6f571080a2,Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14268,3eb2c833ea30210,SUV,Street,0.0,Stopped,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14267,47a130cc4054fac,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14266,06f409a5bdd2761,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14265,ff7cbbd8a71abe7,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30270-14246,716b5a05aea85f9,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+MAR-2026,30270-14244,c41f3d39a1b3e9a,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,31101-14286,458e6d35a6b7210,SUV,Street,22.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+MAR-2026,30270-14240,1a4869776079d82,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14239,2a666c3f264006f,Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14237,286b1c7eac74118,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30410-14170,b17f68626678ca5,"Other, see Narrative",Street,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30410-14238,debe4f3f3881687,Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30610-14264,bbd6af02bf08a16,Heavy Truck,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2019.0,7.0
+MAR-2026,30610-14263,0731399564887d7,Heavy Truck,Street,5.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14234,6c68da9f1c8feb9,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14227,716b42c49e42c6c,SUV,Street,12.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14231,48c873300755248,SUV,Intersection,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14220,96b9196e81e8723,SUV,Street,31.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14204,df33185c7d52cc3,Passenger Car,Street,4.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14197,9010a391b35cc59,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,30270-14196,24ed482284315c0,Passenger Car,Intersection,7.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14198,5e7b56c7be423bf,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14195,8ff1bf6ed911ce0,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,31101-14236,ae96f1add1e01a3,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,31101-14235,e9e7c33ae088f7e,SUV,Street,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14173,f710b0a8e20245f,Passenger Car,Street,35.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,31101-14203,7eb66f179675290,SUV,Street,2.0,Backing,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,31101-14202,42a58fcdd6e5ed4,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14171,b0ff58d02f40edc,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+MAR-2026,31101-14200,fe4c6c25b9d8ea1,SUV,Street,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14169,6469108b0336c82,SUV,Street,11.0,Changing Lanes,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14149,fbf817b20470f75,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14140,7bb5e5a6b3d3dec,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14146,a5e4933ee6cd45c,Passenger Car,Street,18.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30610-14167,0a59dd6aec30ad4,SUV,Street,17.0,Changing Lanes,1,0,0,0,0,0,0.0,1,2026,2019.0,7.0
+FEB-2026,31101-14166,626e75f5017109e,SUV,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14118,ab19d2204a652cf,First Responder Vehicle,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30610-14152,13048a864ddb23a,Passenger Car,Street,0.0,Stopped,0,1,1,0,0,0,0.0,0,2026,2019.0,7.0
+FEB-2026,30270-14099,1246893c05db32a,SUV,Intersection,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,31101-14150,1f8f457021a4b7a,Pickup Truck,Street,2.0,Changing Lanes,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,31101-14148,cc68f4a88be3d1c,SUV,Street,30.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,31101-14147,9ea9c1f0935a249,Passenger Car,Street,14.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,31101-14142,2bb150cec15c1e9,Passenger Car,Street,1.0,Backing,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14093,4edf286c1255600,Van,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+FEB-2026,30270-14079,513eed66dc3a1bd,Passenger Car,Street,20.0,Proceeding Straight,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14078,fd0eb653edfb782,SUV,Intersection,1.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14076,28ca813e6678fae,SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+FEB-2026,30410-14092,c8a145a102b1d0c,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14075,2e9b6b2e5c02442,Passenger Car,Intersection,0.0,Parked,1,0,0,0,0,0,0.0,1,2026,2021.0,5.0
+FEB-2026,30270-14048,be725dd4cd06bde,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+FEB-2026,30270-14073,d3c12c475dbb4ef,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14074,36ca2d92bdde553,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30610-14090,aa14e3edde73fa3,SUV,Street,16.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2019.0,7.0
+FEB-2026,30270-14046,2be71e3bcf7407f,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14045,d060d42675f80b0,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30530-14071,0e9db08c75385b7,"Other, see Narrative",Highway / Freeway,55.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,31101-14070,652d330830b2782,Pickup Truck,Street,7.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,31101-14069,c928ff1b3cc3e00,Passenger Car,Street,16.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,31101-14068,3ea4da90fdfbcbb,Other Fixed Object,Street,27.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,31101-14066,ed0832266d3ba11,Pickup Truck,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,30490-14064,2665ef07ffd72ba,Passenger Car,Street,13.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,30270-13664,6b975e2168f2bbd,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13606,61c7dd865006246,SUV,Parking Lot,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13587,e832a18db99662e,SUV,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13578,e9306c098e1bcca,Pickup Truck,Street,2.0,Backing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13565,a5780f3f293d633,"Other, see Narrative",Highway / Freeway,65.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2021.0,5.0
+JAN-2026,30270-13958,967e246ed22cc8a,SUV,Highway / Freeway,9.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13927,4ecbd4fd3ccf5a8,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13925,5ac08e3ca8701eb,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13859,4361d68caf6c72a,Heavy Truck,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13848,227f9f80b0644bd,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13847,05c222c7ff8c0b6,Bus,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13561,b2b3e3eca58bddb,Passenger Car,Street,1.0,Parking Maneuver,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13682,b47ce778ade026d,Heavy Truck,Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13665,4f385f0d61d0eae,"Other, see Narrative",Street,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13979,d7f133f804b00f9,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14024,049771a96b8d2b8,Pole / Tree,Street,3.0,Proceeding Straight,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14011,6a97654b83af506,SUV,Intersection,17.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14005,a30c6d954b234e1,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14004,3f5abecf5cbccbb,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13973,2ccb263604110b2,Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13869,509801eaf63ad3c,SUV,Street,3.0,Backing,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,30270-13841,6f1d0e4b2adb563,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13840,9f0396f93efcdbf,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13820,1fb450e398d24ed,SUV,Street,15.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13816,845b0a91e8bf4af,Pickup Truck,Street,6.0,Parking Maneuver,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,30270-13795,db675be419f1759,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13812,187755c0b9af5fe,Pickup Truck,Street,1.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JAN-2026,30270-13811,f61aff9459b4d5a,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JAN-2026,30270-13794,7af3a25ac7096bd,"Other, see Narrative",Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13783,d5040a96ea567bd,Passenger Car,Intersection,10.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13766,7b5d8197c4cbce3,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30270-13688,a1cd0a4872be7b0,Passenger Car,Parking Lot,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13657,bae33a18d41e9c1,Passenger Car,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13643,433fe63e6e3e1ed,Pickup Truck,Street,2.0,Backing,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,30270-13623,ab9f3c305e7f11c,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13658,523840e3e4c859f,Van,Intersection,17.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13642,7822af0f06ebe31,"Other, see Narrative",Parking Lot,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-14025,5324faae959a1a5,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14003,b5fb8628e71ee33,Van,Street,0.0,Parked,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+FEB-2026,30270-14007,6ce748c3edc18e6,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-14002,c7caa38bc6d090b,Bus,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30610-14026,a3c629f28118882,SUV,Street,9.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+FEB-2026,30270-14001,19326d282d5fa14,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+FEB-2026,30270-13999,6afa6259701a9c9,Heavy Truck,Street,7.0,Making Right Turn,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+FEB-2026,30270-13985,94a54c1adb3bcb1,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+FEB-2026,30270-13983,19027290a9ece77,Passenger Car,Street,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13976,99c84793d4ec40d,Passenger Car,Intersection,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2021.0,5.0
+FEB-2026,30270-13982,7da6ca30982b45f,"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13975,1c26a5864a71ec1,Pickup Truck,Street,12.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13957,11917cfd2b3d583,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+FEB-2026,30270-13956,1f3b28dc7a86591,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+FEB-2026,30270-13949,1fa562685e928aa,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13954,6bd8cf12dce1062,Pickup Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13947,90d92a2dd51a144,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13948,f9ec26af00ffab8,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13914,59cab39b06ed883,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13905,58f1c98130b4905,Passenger Car,Intersection,1.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13903,8cf402e5af4ea00,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,31101-13952,f31739496f87d42,Passenger Car,Street,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2025.0,1.0
+JAN-2026,30270-13881,5b47a544152b12e,Passenger Car,Street,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13877,4efc9981e611aef,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30291-13950,c3e5ef53645eb99,SUV,Intersection,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2022.0,4.0
+JAN-2026,30270-13860,320556479411209,SUV,Street,3.0,Proceeding Straight,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13861,8e55636acd93eef,Passenger Car,Street,12.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,30270-13854,5e30feb83bbdbf0,SUV,Street,1.0,"Other, see Narrative",1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JAN-2026,30270-13852,16cc718ce136328,Passenger Car,Street,3.0,Making Right Turn,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30270-13846,cc8564a5cd8dfe4,Passenger Car,Street,22.0,Making Left Turn,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13850,e712999db1e85ff,Non-Motorist: Pedestrian,Street,6.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30413-13853,eed2d0c3cb358a3,Other Fixed Object,Street,29.0,Lane / Road Departure,0,1,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30270-13845,f9f0f4a578f95c0,SUV,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13844,42d85f1edb13106,Bus,Intersection,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13843,5846bd08bc1c0c5,"Other, see Narrative",Parking Lot,9.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13785,e2e56321b0ccfb8,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13764,feeed20edf67b7d,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13799,df88a1d1ec5f634,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13807,a2a08006d8a0067,Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13809,6bc1b790d08d5af,SUV,Intersection,33.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30270-13786,3fffe57e4e7abf9,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13810,0603ed25fbb4fd4,Passenger Car,Intersection,1.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13770,8ec5e956dfe4eeb,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13769,e786c2bcd0c88eb,Passenger Car,Street,23.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13765,37eec80f6812b0a,Passenger Car,Street,3.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13778,91b3ec45389293c,Other Fixed Object,Parking Lot,9.0,Making Left Turn,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13763,3c6b00b1ac88169,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13762,b760e13a26a57ea,Passenger Car,Street,6.0,Passing,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13656,5f08f808e95827b,Passenger Car,Street,6.0,Making Left Turn,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,31101-13761,dfb7e098cd17312,Pickup Truck,Street,30.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+JAN-2026,30270-13636,4afbcf6efad473e,Bus,Street,0.0,Parked,0,0,1,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13652,a65e8754cc93925,SUV,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JAN-2026,30270-13650,7c76c5fe1e66f1c,Motorcycle,Intersection,14.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13654,6148b6bacbe478c,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13663,139599d468b2d56,Animal,Highway / Freeway,49.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13653,e32d43782dfa8de,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13639,b715fa84e72e68e,Passenger Car,Street,5.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13641,8fd89dbe9a81dff,Bus,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2021.0,5.0
+JAN-2026,30270-13638,70f3b0a3f9f0759,SUV,Street,14.0,Making Left Turn,0,0,1,0,0,0,1.0,0,2026,2024.0,2.0
+JAN-2026,30270-13611,c2d81542f33f14e,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13610,9fcafa091357604,Van,Intersection,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13605,bdce5fc66f1168e,Passenger Car,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30270-13604,0fc18218a8e7468,SUV,Street,9.0,Proceeding Straight,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30610-13662,fc6ff844b94f122,Heavy Truck,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JAN-2026,30270-13607,bd14d8f56591057,"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13586,a9b16cb791cd38b,Passenger Car,Intersection,17.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13585,8304b13e00692a8,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30270-13583,dfc3628b216077c,Other Fixed Object,Street,10.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13581,c0a3bf56cacd0a0,Heavy Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13582,df8b95ac4152a51,Passenger Car,Intersection,11.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13575,f5fd54d443a806a,Passenger Car,Street,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13573,090cb98f8f58358,Passenger Car,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13571,7f8898a91bd9394,Van,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13560,1c7233a19c90db9,Passenger Car,Intersection,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13559,50ee93e087a787d,Other Fixed Object,Parking Lot,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13556,455ee6bfa539476,Pickup Truck,Street,0.0,Stopped,0,1,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13551,e42070f58e9d454,SUV,Intersection,5.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13552,9c948a2c8983a42,"Other, see Narrative",Street,20.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13550,63c4aa594622616,SUV,Street,0.0,Stopped,0,0,1,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30270-13558,b8354b89bc8ed96,Passenger Car,Street,2.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13547,cb12e77624194b9,Passenger Car,Intersection,0.0,Stopped,0,0,1,0,0,0,1.0,0,2026,2024.0,2.0
+JAN-2026,30270-13545,788f2b358042cdf,SUV,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+JAN-2026,30270-13546,572d061decfdca8,Passenger Car,Intersection,28.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,30270-13544,5775424de1e4cb2,SUV,Parking Lot,0.0,Stopped,1,0,0,0,0,0,1.0,0,2026,2024.0,2.0
+JAN-2026,30270-13543,74e9c9d57cd24ea,Passenger Car,Street,0.0,Stopped,0,0,1,0,0,0,1.0,1,2026,2024.0,2.0
+JUN-2026,31101-15578,47cf5170cf83841,SUV,Parking Lot,4.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JUN-2026,30270-15594,4ed3828343b5b98,Non-Motorist: Scooter - Skateboard,Street,0.0,Stopped,1,0,0,0,0,0,0.0,1,2026,2025.0,1.0
+APR-2026,31101-14813,1f4180af6b053ce,Passenger Car,Street,29.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+APR-2026,30270-14583,7378c4912f63d32,"Other, see Narrative",Street,15.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+APR-2026,30270-14829,f9e1502e537f5c0,SUV,Street,0.0,Parked,1,0,0,0,0,0,0.0,1,2026,2024.0,2.0
+FEB-2026,31101-14065,b04b7116a5fd5c7,Pickup Truck,Street,25.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+MAR-2026,31101-14647,774afa65375ec67,"Other, see Narrative",Street,29.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2025.0,1.0
+FEB-2026,30270-14096,b7f7947d55bf4ba,Passenger Car,Street,32.0,Proceeding Straight,1,0,0,0,0,0,0.0,0,2026,2024.0,2.0
+JAN-2026,13781-13645,660518e401e4ddd,Pole / Tree,Parking Lot,1.0,Backing,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+JAN-2026,13781-13646,5c44d0a835f6e52,Other Fixed Object,Parking Lot,2.0,Backing,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JAN-2026,13781-13644,c3b19262bad7d45,Heavy Truck,Street,4.0,Proceeding Straight,0,1,0,0,0,0,0.0,0,2026,2026.0,0.0
+JAN-2026,13781-13648,623901f9f7d705f,Bus,Street,0.0,Stopped,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
+JAN-2026,13781-14043,6195eac6d664ead,Other Fixed Object,Street,9.0,Lane / Road Departure,1,0,0,0,0,0,0.0,0,2026,2026.0,0.0
