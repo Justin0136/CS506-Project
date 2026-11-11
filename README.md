@@ -98,8 +98,8 @@ The SGO data is messy, and cleaning it well is a core part of the project:
 
 ## 7. Test Plan
 
-- **Temporal split (primary):** train on ADS crashes reported before a cutoff date and test on ADS crashes after it (e.g., train through 2025, test on 2026). This mimics the real use case of predicting outcomes of *future* crashes. It also tests whether the model survives shifts in fleets and reporting rules.
-- **Stratified 5-fold cross-validation** on the training set for model selection and hyperparameter tuning.
+- **Temporal split (primary):** train on ADS crashes from 2021–2024, pick model settings on 2025 (validation set), then retrain on 2021–2025 and test once on 2026. This mimics predicting outcomes of *future* crashes and tests whether the model survives shifts in fleets and reporting rules.
+- **Uncertainty:** because the 2026 test set has only 79 injury crashes, PR-AUC is reported with a 95% range from resampling the test crashes.
 - **Grouping by crash:** reports of the same crash never appear in both train and test.
 - **Metrics:** macro-F1, PR-AUC and ROC-AUC, all compared against the baselines in Section 2. Plain accuracy is not used as a headline metric: because most crashes have no injury, a model that always predicts "no injury" would score high accuracy while learning nothing.
   - **Macro-F1:** F1 combines *precision* (of crashes flagged as injury, how many truly were) and *recall* (of true injury crashes, how many were caught) into one score from 0 to 1. "Macro" computes F1 separately for the injury and no-injury classes and averages them equally, so the rarer injury class counts as much as the common one. This measures performance at the chosen decision threshold.
@@ -140,6 +140,13 @@ The SGO data is messy, and cleaning it well is a core part of the project:
 - **Results are reported separately by automation type from the start.** Level 2 crashes are used for the ADS vs. Level 2 comparison, not for injury prediction.
 - **Crash-partner ablation added,** because hitting a pedestrian or cyclist is both a reporting criterion and a predictor of injury.
 - **Open-Meteo monthly weather moved to a stretch goal.** The reports already record crash-time weather.
+
+---
+
+## Revisions After October Check-In
+
+- **Time trends added to the secondary analysis:** how crash patterns and injury rates change over time and with newer vehicles (incident year, model year, vehicle age, and a Waymo-only comparison). Without mileage data, this cannot show that newer technology is safer.
+- **Level 2 cleaning keeps all crashes** for the ADS vs. Level 2 comparison; injury is only analyzed where it is known.
 
 ---
 
