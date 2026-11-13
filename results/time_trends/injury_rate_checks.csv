@@ -1,0 +1,50 @@
+check,value,expected,pass
+ADS crashes (same as data_quality_summary unique crashes),2928,2928,True
+ADS crashes,2928,2928,True
+known injury crashes,2878,2878,True
+unknown injury crashes,49,49,True
+conflict crashes,1,1,True
+conflict crashes in the current file (clean_ads.py only checks archive),0,0,True
+crash ids unique,0,0,True
+incident year: known + unknown + conflict = total in every row,True,True,True
+incident year: injured + non_injured = known in every row,True,True,True
+incident year: injury rate = injured / known,True,True,True
+incident year: rate inside 95% CI,True,True,True
+model year: known + unknown + conflict = total in every row,True,True,True
+model year: injured + non_injured = known in every row,True,True,True
+model year: injury rate = injured / known,True,True,True
+model year: rate inside 95% CI,True,True,True
+operator x year: known + unknown + conflict = total in every row,True,True,True
+operator x year: injured + non_injured = known in every row,True,True,True
+operator x year: injury rate = injured / known,True,True,True
+operator x year: rate inside 95% CI,True,True,True
+incident year: sum of groups = All (total_crashes),2928,2928,True
+incident year: sum of groups = All (known_injury),2878,2878,True
+incident year: sum of groups = All (injured),281,281,True
+incident year: sum of groups = All (unknown),49,49,True
+incident year: sum of groups = All (conflict),1,1,True
+model year: sum of groups = All (total_crashes),2928,2928,True
+model year: sum of groups = All (known_injury),2878,2878,True
+model year: sum of groups = All (injured),281,281,True
+model year: sum of groups = All (unknown),49,49,True
+model year: sum of groups = All (conflict),1,1,True
+model year: crashes with missing model year,6,,
+model year: Unknown group = crashes with missing model year,6,6,True
+model year: All row = ADS crashes,2928,2928,True
+model year: crashes with model year after incident year,22,,
+model year: crashes with model year 1 year(s) after incident year,22,,
+model year: crashes whose reports have different model years,1,,
+operator: Waymo crashes,2309,,
+operator: Non-Waymo crashes,616,,
+operator: Operator mixed crashes,1,,
+operator: Operator unknown crashes,2,,
+operator: groups add up to All ADS,2928,2928,True
+operator: every crash in exactly one group,0,0,True
+operator: Waymo + Non-Waymo + mixed + unknown known injury = All ADS known injury,2878,2878,True
+operator: Waymo crashes where any report's Reporting Entity is not Waymo,133,,
+ads_model.csv: known_injury per year matches,True,True,True
+ads_model.csv: injured per year matches,True,True,True
+crashes where ads_model.csv picked a different report,10,10,True
+"of those, crashes where the other report has a different model year",0,,
+model_input splits: crashes with the same report as ads_model,2868,,
+model_input splits: same report -> same model year,0,0,True
