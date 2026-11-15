@@ -57,4 +57,5 @@ One major difference to highlight: XGBoost uses "scale_pos_weight" instead of ha
 ## Key Takeaways:
 - Able to distinguish between ADS and level 2 datasets
 - MAJOR PROBLEM: it is highly likely that the datasets are too sparse, especially for level 2, such that the model could just be learning that more unknowns = level 2
+- I thought it could be an issue with the injury column, since I just added back in a bunch of data containing unknown injury labels, so I completely removed it from the model, and it did the exact same, meaning that there is something with the actual crash conditions.
 - Need to reconsider what we want this classifier to be really used for. 
