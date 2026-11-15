@@ -123,6 +123,7 @@ def make_model_for_training(name, model_factory, settings, y_train):
     return model_factory(**params)
 
 rows, curves, fitted = [], {}, {}
+generalization_rows = []
 
 for with_cp in [True, False]:
     label = "with Crash With" if with_cp else "without Crash With"
@@ -139,6 +140,31 @@ for with_cp in [True, False]:
             if best is None or val_pr > best[1]:
                 best = (s, val_pr)
 
+        # Refit the selected configuration on the training set to check for overfitting and generalization to the validation set. This is not used for model selection, which is done above.
+        best_model = make_model_for_training(
+            name, make_model, best[0], train["Injury"]
+        )
+
+        best_pipe = make_pipeline(best_model, with_cp).fit(
+            train, train["Injury"]
+        )
+
+        # Calculate PR-AUC on the training data
+        train_prob = best_pipe.predict_proba(train)[:, 1]
+        train_pr = average_precision_score(train["Injury"], train_prob)
+
+        # Calculate PR-AUC on the validation data
+        val_prob = best_pipe.predict_proba(validate)[:, 1]
+        val_pr = average_precision_score(validate["Injury"], val_prob)
+
+        # Save results for plotting
+        generalization_rows.append({
+            "model": name,
+            "features": label,
+            "training PR-AUC": train_pr,
+            "validation PR-AUC": val_pr
+        })
+
         # 2. retrain on 2021-2025 with that setting, score once on 2026
             # See comments above make_model_for_training() but TLDR: this is for XGBoost, other models are unaffected
         final_model = make_model_for_training(name, make_model, best[0], train_val["Injury"])
@@ -148,6 +174,57 @@ for with_cp in [True, False]:
                      "val PR-AUC": best[1], **score(test["Injury"], test_prob)})
         curves[(name, label)] = precision_recall_curve(test["Injury"], test_prob)
         fitted[(name, label)] = pipe
+
+# Training vs validation PR-AUC plot
+
+generalization_results = pd.DataFrame(generalization_rows)
+
+fig, ax = plt.subplots(figsize=(12, 6))
+
+# Create positions for grouped bars
+x = np.arange(len(generalization_results))
+width = 0.35
+
+# Training PR-AUC bars
+ax.bar(
+    x - width / 2,
+    generalization_results["training PR-AUC"],
+    width,
+    label="Training PR-AUC"
+)
+
+# Validation PR-AUC bars
+ax.bar(
+    x + width / 2,
+    generalization_results["validation PR-AUC"],
+    width,
+    label="Validation PR-AUC"
+)
+
+# Label each model and feature configuration
+labels = [
+    f"{row['model']}\n{row['features']}"
+    for _, row in generalization_results.iterrows()
+]
+
+ax.set_xticks(x)
+ax.set_xticklabels(labels, rotation=15, ha="right")
+
+ax.set_ylabel("PR-AUC")
+ax.set_title("ADS injury models: training vs validation PR-AUC")
+
+ax.legend()
+ax.grid(axis="y", alpha=0.3)
+
+fig.tight_layout()
+
+# Save in the existing figures folder
+fig.savefig(
+    fig_folder / "training_vs_validation_pr_auc.png",
+    dpi=150
+)
+
+plt.close(fig)
 
 results = pd.DataFrame(rows).round(3)
 results.to_csv(results_folder / "model_results.csv", index=False)
