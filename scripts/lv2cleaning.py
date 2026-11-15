@@ -245,10 +245,7 @@ features = [
     "Crash With",
     "Roadway Type",
     "SV Precrash Speed (MPH)",
-    "SV Pre-Crash Movement",
-    "Incident Date", 
-    "Report ID", 
-    "Same Incident ID"
+    "SV Pre-Crash Movement"
 ]
 
 # Check missing values for each feature
