@@ -225,12 +225,14 @@ print("Duplicate Report IDs:",
 print("\nInjury distribution:")
 print(adas_clean["Injury"].value_counts(dropna=False))
 
-
+# No longer need to do this
 # Keep only reports with known injury outcomes
-adas_model = adas_clean.dropna(subset=["Injury"]).copy()
+# adas_model = adas_clean.dropna(subset=["Injury"]).copy()
+adas_model = adas_clean.copy()
 
 # Convert injury labels from floats to integers
-adas_model["Injury"] = adas_model["Injury"].astype(int)
+# make unknown injury labels (NaN) into -1 for modeling purposes
+adas_model["Injury"] = adas_model["Injury"].fillna(-1).astype(int)
 
 # Verify the results
 print("\nADAS Modeling Dataset:")
