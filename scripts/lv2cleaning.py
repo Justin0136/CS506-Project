@@ -240,11 +240,15 @@ print("Total rows:", len(adas_model))
 print(adas_model["Injury"].value_counts())
 
 # Features selected for initial modeling
+# Added 3 more metadata features to help with future train/test splitting and tracking
 features = [
     "Crash With",
     "Roadway Type",
     "SV Precrash Speed (MPH)",
-    "SV Pre-Crash Movement"
+    "SV Pre-Crash Movement",
+    "Incident Date", 
+    "Report ID", 
+    "Same Incident ID"
 ]
 
 # Check missing values for each feature
