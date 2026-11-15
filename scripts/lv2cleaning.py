@@ -232,7 +232,7 @@ adas_model = adas_clean.copy()
 
 # Convert injury labels from floats to integers
 # make unknown injury labels (NaN) into -1 for modeling purposes
-adas_model["Injury"] = adas_model["Injury"].fillna(-1).astype(int)
+adas_model["Injury"] = adas_model["Injury"].astype("Int64")
 
 # Verify the results
 print("\nADAS Modeling Dataset:")
