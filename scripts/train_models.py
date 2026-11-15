@@ -21,6 +21,8 @@ from sklearn.metrics import average_precision_score, roc_auc_score, f1_score, pr
 
 from model_features import build_preprocessor
 
+from xgboost import XGBClassifier
+
 root = Path(__file__).resolve().parent.parent
 data_folder = root / "data" / "processed" / "model_input"
 results_folder = root / "results" / "models"
@@ -44,6 +46,31 @@ MODELS = {
         lambda **p: RandomForestClassifier(n_estimators=500, class_weight="balanced",
                                            random_state=0, n_jobs=-1, **p),
         [{"min_samples_leaf": m, "max_depth": d} for m in [1, 5, 10, 20] for d in [None, 5, 10]],
+    ),
+    "XGBoost": (
+        lambda **p: XGBClassifier(
+            objective="binary:logistic",
+            eval_metric="aucpr",
+            n_estimators=500,
+            tree_method="hist",
+            random_state=0,
+            n_jobs=-1,
+            verbosity=0,
+            **p,
+        ),
+        [
+            {
+                "max_depth": depth,
+                "learning_rate": learning_rate,
+                "min_child_weight": min_child_weight,
+                "subsample": 0.8,
+                "colsample_bytree": 0.8,
+            }
+            # Parameters to pick the best from on the 2025 validation set for XGBoost
+            for depth in [3, 5]
+            for learning_rate in [0.03, 0.1]
+            for min_child_weight in [1, 5]
+        ],
     ),
 }
 
@@ -79,6 +106,21 @@ def score(y, prob):
         "macro-F1": f1_score(y, (prob >= 0.5).astype(int), average="macro"),
     }
 
+# Need to make a direct make_model function for XGBoost since it needs to calculate class weights from the training labels. 
+# All other models are unaffected
+def make_model_for_training(name, model_factory, settings, y_train):
+    """Create a model, calculating XGBoost's class weight from this fit's labels."""
+    params = dict(settings)
+    # Only XGBoost uses this to weight the positive class when the training labels are imbalanced. The other models use class_weight="balanced" in their constructors.
+    if name == "XGBoost":
+        y_array = np.asarray(y_train)
+        n_positive = np.count_nonzero(y_array == 1)
+        n_negative = np.count_nonzero(y_array == 0)
+        if n_positive == 0 or n_negative == 0:
+            raise ValueError("XGBoost requires both injury (1) and no-injury (0) examples.")
+        # Up-weight injury examples when the target classes are imbalanced.
+        params["scale_pos_weight"] = n_negative / n_positive
+    return model_factory(**params)
 
 rows, curves, fitted = [], {}, {}
 
@@ -89,14 +131,18 @@ for with_cp in [True, False]:
         # 1. pick the setting with the best PR-AUC on 2025
         best = None
         for s in settings:
-            pipe = make_pipeline(make_model(**s), with_cp).fit(train, train["Injury"])
+            # See comments above make_model_for_training() but TLDR: this is for XGBoost, other models are unaffected
+            model = make_model_for_training(name, make_model, s, train["Injury"])
+            pipe = make_pipeline(model, with_cp).fit(train, train["Injury"])
             val_prob = pipe.predict_proba(validate)[:, 1]
             val_pr = average_precision_score(validate["Injury"], val_prob)
             if best is None or val_pr > best[1]:
                 best = (s, val_pr)
 
         # 2. retrain on 2021-2025 with that setting, score once on 2026
-        pipe = make_pipeline(make_model(**best[0]), with_cp).fit(train_val, train_val["Injury"])
+            # See comments above make_model_for_training() but TLDR: this is for XGBoost, other models are unaffected
+        final_model = make_model_for_training(name, make_model, best[0], train_val["Injury"])
+        pipe = make_pipeline(final_model, with_cp).fit(train_val, train_val["Injury"])
         test_prob = pipe.predict_proba(test)[:, 1]
         rows.append({"model": name, "features": label, "best setting": str(best[0]),
                      "val PR-AUC": best[1], **score(test["Injury"], test_prob)})
@@ -126,7 +172,7 @@ for ax, label in zip(axes, ["with Crash With", "without Crash With"]):
 axes[0].set_ylabel("Precision (share of flagged crashes that were injuries)")
 fig.suptitle("ADS injury models: precision-recall curves")
 fig.tight_layout()
-fig.savefig(fig_folder / "pr_curves.png", dpi=150)
+fig.savefig(fig_folder / "pr_curves_with_XGBoost.png", dpi=150)
 
 # random forest feature importance (with Crash With), measured on 2026:
 # how much PR-AUC drops when one feature's values are shuffled
