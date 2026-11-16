@@ -14,7 +14,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 # Locate the raw data folder
-data_folder = Path(__file__).resolve().parent.parent.parent / "CS506-Project" / "data" / "processed"
+data_folder = Path(__file__).resolve().parent.parent / "data" / "processed"
 
 RANDOM_STATE_TEST = 42
 RANDOM_STATE_VALIDATION = 43
