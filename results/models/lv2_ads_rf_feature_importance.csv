@@ -1,0 +1,22 @@
+feature configuration,feature,macro-F1 drop,importance std
+with Crash With,Roadway Type,0.15322431767741712,0.00786629008250683
+with Crash With,SV Pre-Crash Movement,0.102465016334741,0.008746815564983312
+with Crash With,Crash With,0.10184596488168882,0.007776042988921913
+with Crash With,SV Precrash Speed (MPH),0.09523578946521119,0.009855402079784694
+with Crash With,Weather - Clear,0.0012245405174225899,0.0025143641690983844
+with Crash With,Wet Surface,0.0006178314939840168,0.00033701493526957274
+with Crash With,Weather - Severe Wind,0.0,0.0
+with Crash With,Weather - Snow,0.0,0.0
+with Crash With,Weather - Fog/Smoke/Haze Combined,0.0,0.0
+with Crash With,Weather - Rain,-7.007513305203882e-05,0.0003006579411947399
+with Crash With,Weather - Cloudy,-0.0003823120583480166,0.0011318448707322713
+without Crash With,Roadway Type,0.16928297988569443,0.006746490457825907
+without Crash With,SV Pre-Crash Movement,0.11919153367077731,0.00887662626167607
+without Crash With,SV Precrash Speed (MPH),0.09302925613863636,0.008377770464246904
+without Crash With,Weather - Clear,0.006594308719348912,0.0022925480235937252
+without Crash With,Weather - Cloudy,0.0019743670562772154,0.0014097819928132371
+without Crash With,Weather - Rain,0.0014346761567466336,0.00041500878253957364
+without Crash With,Wet Surface,0.0012748116289620416,0.0008352157042606598
+without Crash With,Weather - Fog/Smoke/Haze Combined,3.6112527619042155e-05,0.00015741085848722624
+without Crash With,Weather - Severe Wind,0.0,0.0
+without Crash With,Weather - Snow,0.0,0.0
