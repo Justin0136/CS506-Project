@@ -29,16 +29,13 @@ NUMERIC_FEATURES = [
     "Weather - Severe Wind",
     "Weather - Snow",
     "Weather - Fog/Smoke/Haze Combined",
-    "Wet Surface",
-    "Incident_Year",
-    "Injury"
+    "Wet Surface"
 ]
 
 CATEGORICAL_FEATURES = [
     "Crash With",
     "Roadway Type",
-    "SV Pre-Crash Movement",
-    "Incident_Month"
+    "SV Pre-Crash Movement"
 ]
 
 FEATURES = NUMERIC_FEATURES + CATEGORICAL_FEATURES
