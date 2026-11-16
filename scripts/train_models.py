@@ -249,7 +249,7 @@ for ax, label in zip(axes, ["with Crash With", "without Crash With"]):
 axes[0].set_ylabel("Precision (share of flagged crashes that were injuries)")
 fig.suptitle("ADS injury models: precision-recall curves")
 fig.tight_layout()
-fig.savefig(fig_folder / "pr_curves_with_XGBoost.png", dpi=150)
+fig.savefig(fig_folder / "pr_curves.png", dpi=150)
 
 # random forest feature importance (with Crash With), measured on 2026:
 # how much PR-AUC drops when one feature's values are shuffled
