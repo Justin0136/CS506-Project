@@ -34,6 +34,7 @@ One major difference to highlight: XGBoost uses "scale_pos_weight" instead of ha
     
 
 ## Level 2 Classifier Results
+With "Crash With":
 | Model | Validation Macro-F1 |
 |---|---:|
 | Majority baseline | 0.3820 |
@@ -41,22 +42,27 @@ One major difference to highlight: XGBoost uses "scale_pos_weight" instead of ha
 | Random Forest | **0.9339** |
 | Extra Trees | 0.9200 |
 
-| Class | Validation Precision | Validation Recall | Validation F1 | Validation Support | Test Precision | Test Recall | Test F1 | Test Support |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ADS | 0.90 | 0.94 | 0.92 | 577 | 0.92 | 0.93 | 0.92 | 576 |
-| Level2 | 0.96 | 0.94 | 0.95 | 934 | 0.95 | 0.95 | 0.95 | 933 |
-| Macro avg | 0.93 | 0.94 | 0.93 | 1511 | 0.93 | 0.94 | 0.94 | 1509 |
-| Weighted avg | 0.94 | 0.94 | 0.94 | 1511 | 0.94 | 0.94 | 0.94 | 1509 |
+Without "Crash With":
+| Model | Validation Macro-F1 |
+|---|---:|
+| Majority baseline | 0.3820 |
+| Logistic Regression | 0.9191 |
+| Random Forest | **0.9260** |
+| Extra Trees | 0.9117 |
 
-| Metric | Validation | Test |
-|---|---:|---:|
-| Accuracy | 0.94 | 0.94 |
-| Macro-F1 | 0.94 | 0.94 |
-| Support | 1511 | 1509 |
+So we selected Random Forest to be our model.
+
+| Model | Crash With | PR-AUC (95% range) | ROC-AUC | Macro-F1 |
+|---|---|---|---|---|
+| Random Forest | with | 0.992 (0.990–0.995) | 0.987 | 0.936 |
+| Random Forest | without | 0.991 (0.988–0.994) | 0.985 | 0.933 |
+
+## Feature Importance Figure
+![feature importance](figures/lv2_ads_rf_feature_importance.png)
 
 ## Key Takeaways:
 - Able to distinguish between ADS and level 2 datasets
-- MAJOR PROBLEM: it is highly likely that the datasets are too sparse, especially for level 2, such that the model could just be learning that more unknowns = level 2
-- I thought it could be an issue with the injury column, since I just added back in a bunch of data containing unknown injury labels, so I completely removed it from the model, and it did the exact same, meaning that there is something with the actual crash conditions.
-- The data above is with the injury and date columns removed, it only does slight worse than before but still rounds to 0.94.
-- Need to reconsider what we want this classifier to be really used for. 
+- I thought originally thought that the injury column could be an issue, since I just added back in a bunch of data containing unknown injury labels, so we completely removed it from the model. Meaning that our model can only learn on the actual crash conditions.
+    - Also removed the report date information. 
+- From the feature importance figure, the model is likely learning from the roadway type, the crash with partner, the type of pre-crash movement, and the pre-crash speed
+    - I was concerned that the datasets are a bit sparse, especially for level 2, such that the model could just be learning that more unknowns = level 2, but it seems that we can still classify a difference. 
