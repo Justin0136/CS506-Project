@@ -1,0 +1,9 @@
+feature configuration,model,validation macro-F1
+with Crash With,Random Forest,0.9338570885507262
+with Crash With,Logistic Regression,0.9253149850908982
+with Crash With,Extra Trees,0.9199688050204191
+with Crash With,Majority Baseline,0.3820040899795501
+without Crash With,Random Forest,0.926036448404782
+without Crash With,Logistic Regression,0.9190587548580633
+without Crash With,Extra Trees,0.9117387209124032
+without Crash With,Majority Baseline,0.3820040899795501
