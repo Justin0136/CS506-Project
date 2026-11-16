@@ -148,6 +148,47 @@ The SGO data is messy, and cleaning it well is a core part of the project:
 - **Time trends added to the secondary analysis:** how crash patterns and injury rates change over time and with newer vehicles (incident year, model year, vehicle age, and a Waymo-only comparison). Without mileage data, this cannot show that newer technology is safer.
 - **Level 2 cleaning keeps all crashes** for the ADS vs. Level 2 comparison; injury is only analyzed where it is known.
 
+### Model input prep
+- Added incident year, model year (joined from the raw ADS files by Report ID) and vehicle age.
+- Split by incident year: train on 2021–2024 (1,017 crashes, 101 injuries), validate on 2025 (1,011 crashes, 101 injuries), test on 2026 Jan–Aug (850 crashes, 79 injuries). No crash appears in more than one split.
+- Incident year is used for the split but not as a model feature, since every 2026 test crash would have a year the model never trained on.
+- Shared encoding step in `scripts/model_features.py`, with an option to leave out Crash With. Details: `docs/model_input_prep.md`.
+
+### ADS injury models
+- Baseline ("no injury"), logistic regression, random forest and XGBoost, each with and without Crash With. Class weighting handles the ~10% injury rate.
+- Settings picked by PR-AUC on 2025, then each model is retrained on 2021–2025 and scored once on 2026.
+
+| Model | Crash With | PR-AUC (95% range) | ROC-AUC | Macro-F1 |
+|---|---|---|---|---|
+| Baseline | either | 0.09 | 0.50 | 0.48 |
+| Logistic regression | with | 0.18 (0.12–0.26) | 0.65 | 0.49 |
+| Random forest | with | 0.16 (0.12–0.23) | 0.66 | 0.50 |
+| XGBoost | with | 0.18 (0.13–0.26) | 0.66 | 0.55 |
+| Logistic regression | without | 0.11 (0.09–0.15) | 0.57 | 0.44 |
+| Random forest | without | 0.11 (0.09–0.15) | 0.59 | 0.48 |
+| XGBoost | without | 0.10 (0.08–0.15) | 0.54 | 0.52 |
+
+- **With Crash With,** the models roughly double the baseline PR-AUC (0.18 vs. 0.09). Logistic regression, random forest and XGBoost are tied within the 95% ranges.
+- **Without Crash With,** no model is reliably better than the baseline, so the target of +0.10 PR-AUC without the crash-partner feature is not met so far.
+- **Feature importance** (random forest, permutation on 2026): Crash With dominates. Speed, model year and vehicle age did not help on 2026.
+- **XGBoost** scores much higher on training data than on validation, a sign of overfitting with only ~200 injury crashes to learn from.
+- Details: `docs/models.md`, `docs/XGB+lv2.md`.
+
+### ADS vs. Level 2 classifier
+- `level2_model.csv` now has 4,669 crashes (previously 590), including those with unknown injury.
+- A classifier predicts ADS vs. Level 2 from crash conditions only (Crash With, roadway type, pre-crash movement and speed, weather, wet surface). Injury, dates and IDs are left out. Reports of the same crash stay in the same split.
+- A random forest, chosen on the validation set, reaches 0.94 macro-F1 on the held-out test set (majority baseline 0.38), so ADS and Level 2 vehicles crash under very different reported conditions.
+- Level 2 reports have far more "Unknown" values than ADS reports, which the model can also pick up on.
+- Details: `docs/XGB+lv2.md`.
+
+### Injury rate trends
+- ADS injury rate (share of reported crashes with an injury) by incident year, by model year, and Waymo vs. non-Waymo, with 95% confidence intervals.
+- **Incident year:** no clear trend. About 13% in 2022 and 9–10% in 2024–2026, with overlapping intervals.
+- **Model year:** model years 2021 and 2024 (most of the data) are similar, 8.4% vs. 9.1%. Older model years are small groups from other operators.
+- **Waymo vs. non-Waymo:** 8.9% vs. 13.0% among reported crashes. Waymo is 83–88% of ADS crashes since 2024, so the overall ADS trend mostly follows Waymo.
+- Without mileage data these are not crash rates, and they do not show that newer vehicles or any company are safer.
+- Details: `docs/injury_rate_trends.md`.
+
 ---
 
 ## AI Use Disclosure
