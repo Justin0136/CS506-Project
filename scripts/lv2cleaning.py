@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 
 # Locate the raw data folder
-data_folder = Path(__file__).resolve().parent.parent.parent / "CS506-Project" / "data" / "raw"
+data_folder = Path(__file__).resolve().parent.parent / "data" / "raw"
 
 # Load the ADAS datasets
 # ADAS_archive contains an invalid UTF-8 byte sequence, so we use encoding_errors="replace" to handle it
@@ -225,12 +225,10 @@ print("Duplicate Report IDs:",
 print("\nInjury distribution:")
 print(adas_clean["Injury"].value_counts(dropna=False))
 
-
-# Keep only reports with known injury outcomes
-adas_model = adas_clean.dropna(subset=["Injury"]).copy()
+adas_model = adas_clean.copy()
 
 # Convert injury labels from floats to integers
-adas_model["Injury"] = adas_model["Injury"].astype(int)
+adas_model["Injury"] = adas_model["Injury"].astype("Int64")
 
 # Verify the results
 print("\nADAS Modeling Dataset:")
@@ -238,6 +236,7 @@ print("Total rows:", len(adas_model))
 print(adas_model["Injury"].value_counts())
 
 # Features selected for initial modeling
+# Added 3 more metadata features to help with future train/test splitting and tracking
 features = [
     "Crash With",
     "Roadway Type",
