@@ -1,0 +1,8 @@
+incident_year,total_crashes,known_injury,injured,non_injured,unknown,conflict,injury_rate_pct,ci95_low_pct,ci95_high_pct,small_sample,months_covered,partial_year,note
+2021,69,65,3,62,3,1,4.62,1.58,12.71,False,6,True,Jul-Dec only
+2022,158,152,20,132,6,0,13.16,8.68,19.45,False,12,False,
+2023,279,275,32,243,4,0,11.64,8.36,15.97,False,12,False,
+2024,537,525,46,479,12,0,8.76,6.63,11.49,False,12,False,
+2025,1021,1011,101,910,10,0,9.99,8.29,11.99,False,12,False,"Third Amended SGO reports from Jun 16, 2025"
+2026,864,850,79,771,14,0,9.29,7.52,11.43,False,8,True,Jan-Aug only
+All,2928,2878,281,2597,49,1,9.76,8.73,10.9,False,,False,

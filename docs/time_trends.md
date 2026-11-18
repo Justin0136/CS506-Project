@@ -71,4 +71,5 @@ I didn't use ads_model.csv as input since it's one row per crash and drops unkno
 
 ## file location 
 Code: `scripts/eda_time_trends.py`  
-More details: `docs/time_trends.md`
+More details: `docs/time_trends.md`  
+ADS injury rate by incident year, model year and Waymo vs non-Waymo: [injury_rate_trends.md](injury_rate_trends.md)
