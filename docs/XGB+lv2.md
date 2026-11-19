@@ -14,7 +14,7 @@ One major difference to highlight: XGBoost uses "scale_pos_weight" instead of ha
 | Random forest | without | 0.11 (0.09–0.15) | 0.59 | 0.48 |
 | XGBoost | without | 0.10 (0.08-0.15) | 0.535 | 0.515 |
 
-![With XGB](figures/pr_curves_with_XGBoost.png)
+![With XGB](figures/pr_curves.png)
 
 ## Key Takeaways:
 - XGBoost did not perform better than logistic regression, but does have a distinctly different PR curve.
