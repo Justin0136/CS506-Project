@@ -49,7 +49,7 @@ Results from `scripts/train_models.py`. Models use the input prep in `scripts/mo
 
 - Crash With is partly a reporting effect, since hitting a cyclist or pedestrian is itself a reason a crash gets reported.
 - The test set is small (79 injuries), so differences of a few points are within noise.
-- 2026 only runs through August.
+- 2026 only runs through August for now.
 - Model year and vehicle age may not carry over to newer years; worth testing the models without them.
 
 ## File locations
